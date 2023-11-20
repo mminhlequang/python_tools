@@ -1,16 +1,8 @@
-5): [BlocObserver][Transition] FetchWeatherHomeEvent() => Instance of 'HomeState'
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Good morning] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [John] not found
-9
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Just near you] not found
-D/EGL_emulation(14505): app_time_stats: avg=388.79ms min=5.24ms max=1384.94ms count=4
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Map] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Plaza de Barranco] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [2.3 Km] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [add my route] not found
-D/EGL_emulation(14505): app_time_stats: avg=62190.99ms min=62190.99ms max=62190.99ms count=1
-D/EGL_emulation(14505): app_time_stats: avg=343.09ms min=9.81ms max=1813.66ms count=6
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Picture] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [Plaza de Barranco] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [2.3 Km] not found
-I/flutter (14505): [🌎 Easy Localization] [WARNING] Localization key [add my route] not 
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [You already have a Travelmeit account ? ] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [myusername] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Username] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Password] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Forgot your password?] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Login] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Or] not found
+I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Register] not found

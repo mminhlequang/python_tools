@@ -1,0 +1,5822 @@
+{
+  "1": [
+    "Belgium",
+    "countrycode_be",
+    "Belgium"
+  ],
+  "2": [
+    "it",
+    "countrycode_it",
+    "Italy"
+  ],
+  "3": [
+    "nl",
+    "countrycode_nl",
+    "Netherlands"
+  ],
+  "4": [
+    "French",
+    "fr",
+    "French"
+  ],
+  "5": [
+    "english",
+    "en",
+    "English"
+  ],
+  "6": [
+    "English",
+    "en",
+    "English"
+  ],
+  "7": [
+    "countrycode_it",
+    "it",
+    "Italy"
+  ],
+  "8": [
+    "countrycode_nl",
+    "nl",
+    "Netherlands"
+  ],
+  "9": [
+    "mon",
+    "Mon",
+    "Mon"
+  ],
+  "10": [
+    "tue",
+    "Tue",
+    "Tue"
+  ],
+  "11": [
+    "wed",
+    "Wed",
+    "Wed"
+  ],
+  "12": [
+    "thu",
+    "Thu",
+    "Thu"
+  ],
+  "13": [
+    "fri",
+    "Fri",
+    "Fri"
+  ],
+  "14": [
+    "sat",
+    "Sat",
+    "Sat"
+  ],
+  "15": [
+    "sun",
+    "Sun",
+    "Sun"
+  ],
+  "16": [
+    "next",
+    "Next",
+    "Next"
+  ],
+  "17": [
+    "fail",
+    "Fail",
+    "Fail"
+  ],
+  "18": [
+    "open",
+    "Open",
+    "Open"
+  ],
+  "19": [
+    "close",
+    "Close",
+    "Close"
+  ],
+  "20": [
+    "success",
+    "Success",
+    "Success"
+  ],
+  "21": [
+    "from",
+    "From",
+    "From"
+  ],
+  "22": [
+    "to",
+    "To",
+    "To"
+  ],
+  "23": [
+    "no",
+    "No",
+    "No"
+  ],
+  "24": [
+    "yes",
+    "Yes",
+    "Yes"
+  ],
+  "25": [
+    "cancel",
+    "Cancel",
+    "Cancel"
+  ],
+  "26": [
+    "on",
+    "On",
+    "On"
+  ],
+  "27": [
+    "off",
+    "Off",
+    "Off"
+  ],
+  "28": [
+    "complete",
+    "Complete",
+    "Complete"
+  ],
+  "29": [
+    "save",
+    "Save",
+    "Save"
+  ],
+  "30": [
+    "password",
+    "Password",
+    "Password"
+  ],
+  "31": [
+    "repeatpassword",
+    "Repeat password",
+    "Repeat password"
+  ],
+  "32": [
+    "displayname",
+    "Display name",
+    "Display name"
+  ],
+  "33": [
+    "nickname",
+    "Nick name",
+    "Nick name"
+  ],
+  "34": [
+    "phonenumber",
+    "Phone number",
+    "Phone number"
+  ],
+  "35": [
+    "enteryourfirstname",
+    "Enter your first name",
+    "Enter your first name"
+  ],
+  "36": [
+    "enteryourlastname",
+    "Enter your last name",
+    "Enter your last name"
+  ],
+  "37": [
+    "enteryournickname",
+    "Enter your nick name",
+    "Enter your nick name"
+  ],
+  "38": [
+    "enteryourpassword",
+    "Enter your password",
+    "Enter your password"
+  ],
+  "39": [
+    "enteryourphonenumber",
+    "Enter your phone number",
+    "Enter your phone number"
+  ],
+  "40": [
+    "repeatyourpassword",
+    "Repeat your password",
+    "Repeat your password"
+  ],
+  "41": [
+    "repeat",
+    "Repeat",
+    "Repeat"
+  ],
+  "42": [
+    "unknownerror",
+    "Unknown error",
+    "Unknown error"
+  ],
+  "43": [
+    "welcome",
+    "Welcome",
+    "Welcome"
+  ],
+  "44": [
+    "pleasecheckyouremailbox",
+    "Please check your\nemail box !",
+    "Please check your\nemail box !"
+  ],
+  "45": [
+    "dontforgetcheckspambox",
+    "Don't forget to check also the SPAM box",
+    "Don't forget to check also the SPAM box"
+  ],
+  "46": [
+    "enterotpcode",
+    "Enter OTP Code",
+    "Enter OTP Code"
+  ],
+  "47": [
+    "yourarcikipeaccount",
+    "Your arckipel account",
+    "Your arckipel account"
+  ],
+  "48": [
+    "enterthecodereceivedbyemail",
+    "Enter the code received by email.",
+    "Enter the code received by email."
+  ],
+  "49": [
+    "enterthecodereceivedbyphone",
+    "Enter the code received by phone.",
+    "Enter the code received by phone."
+  ],
+  "50": [
+    "selectyourindustry",
+    "Select your Industry",
+    "Select your Industry"
+  ],
+  "51": [
+    "thischoiceisveryimportant",
+    "This choice is very important ! You will not be able to publish in another country, except if you get a World Pass",
+    "This choice is very important ! You will not be able to publish in another country, except if you get a World Pass"
+  ],
+  "52": [
+    "congratulationsregister",
+    "Congratulations, you have successfully registered!",
+    "Congratulations, you have successfully registered!"
+  ],
+  "53": [
+    "congratulationsreset",
+    "Congratulations, you have reset your password!",
+    "Congratulations, you have reset your password!"
+  ],
+  "54": [
+    "forgotpassword",
+    "Forgot password",
+    "Forgot password"
+  ],
+  "55": [
+    "forgotpassword?",
+    "Forgot password?",
+    "Forgot password?"
+  ],
+  "56": [
+    "bycontinueiacceptthe",
+    "By Continuing I accept the ",
+    "By Continuing I accept the "
+  ],
+  "57": [
+    "termsandconditions",
+    "Terms and Conditions",
+    "Terms and Conditions"
+  ],
+  "58": [
+    "donnothaveanaccountyet",
+    "Don't have an account yet ?",
+    "Don't have an account yet ?"
+  ],
+  "59": [
+    "register",
+    "Register",
+    "Register"
+  ],
+  "60": [
+    "thisphonealreadyexisted",
+    "This phone number already existed!",
+    "This phone number already existed!"
+  ],
+  "61": [
+    "doubleaudthactived",
+    "Double Authentication\nactivated",
+    "Double Authentication\nactivated"
+  ],
+  "62": [
+    "checkyourappleauth",
+    "Check your arckipel\nand confirm the connection attempt.\nIf you do not see a notification, you can also\nscan this code with the application",
+    "Check your arckipel\nand confirm the connection attempt.\nIf you do not see a notification, you can also\nscan this code with the application"
+  ],
+  "63": [
+    "getmycode",
+    "Get My Code",
+    "Get My Code"
+  ],
+  "64": [
+    "thisemailinvalidoralreadyused",
+    "This email invalid or already used!",
+    "This email invalid or already used!"
+  ],
+  "65": [
+    "yourcodenotmatch",
+    "Your code not match",
+    "Your code not match"
+  ],
+  "66": [
+    "usefullinks",
+    "Useful Links",
+    "Useful Links"
+  ],
+  "67": [
+    "listing",
+    "Listing",
+    "Listing"
+  ],
+  "68": [
+    "contactus",
+    "Contact Us",
+    "Contact Us"
+  ],
+  "69": [
+    "prosagencies",
+    "Pros & Agencies",
+    "Pros & Agencies"
+  ],
+  "70": [
+    "service",
+    "Service",
+    "Service"
+  ],
+  "71": [
+    "legal",
+    "Legal",
+    "Legal"
+  ],
+  "72": [
+    "getintouch",
+    "Get in Touch",
+    "Get in Touch"
+  ],
+  "73": [
+    "newsletter",
+    "Newsletter",
+    "Newsletter"
+  ],
+  "74": [
+    "youremail",
+    "Your Email",
+    "Your Email"
+  ],
+  "75": [
+    "submit",
+    "Submit",
+    "Submit"
+  ],
+  "76": [
+    "currency",
+    "Currency",
+    "Currency"
+  ],
+  "77": [
+    "orchooseacurrency",
+    "or... choose a currency",
+    "or... choose a currency"
+  ],
+  "78": [
+    "suggestedcurrencies",
+    "Suggested currencies",
+    "Suggested currencies"
+  ],
+  "79": [
+    "language",
+    "Language",
+    "Language"
+  ],
+  "80": [
+    "suggestedlanguageandregionn",
+    "Suggested language and region",
+    "Suggested language and region"
+  ],
+  "81": [
+    "unitedstates",
+    "United States",
+    "United States"
+  ],
+  "82": [
+    "choosealanguageandregion",
+    "Choose a language",
+    "Choose a language"
+  ],
+  "83": [
+    "m2",
+    "m\u00b2",
+    "m\u00b2"
+  ],
+  "84": [
+    "ft2",
+    "ft\u00b2",
+    "ft\u00b2"
+  ],
+  "85": [
+    "chooseametricsystem",
+    "Choose a metric system",
+    "Choose a metric system"
+  ],
+  "86": [
+    "squaremeters",
+    "Square meters",
+    "Square meters"
+  ],
+  "87": [
+    "quarefeet",
+    "Quare feet",
+    "Quare feet"
+  ],
+  "88": [
+    "location",
+    "Location",
+    "Location"
+  ],
+  "89": [
+    "typealocation",
+    "Type a location",
+    "Type a location"
+  ],
+  "90": [
+    "morefilters",
+    "More filters",
+    "More filters"
+  ],
+  "91": [
+    "morefilter",
+    "More filter",
+    "More filter"
+  ],
+  "92": [
+    "resetfilters",
+    "Reset filters",
+    "Reset filters"
+  ],
+  "93": [
+    "utilities",
+    "Utilities",
+    "Utilities"
+  ],
+  "94": [
+    "purpose",
+    "Purpose",
+    "Purpose"
+  ],
+  "95": [
+    "rentbuy",
+    "Rent, buy, ...",
+    "Rent, buy, ..."
+  ],
+  "96": [
+    "buy",
+    "Buy",
+    "Buy"
+  ],
+  "97": [
+    "type",
+    "Type",
+    "Type"
+  ],
+  "98": [
+    "house",
+    "House",
+    "House"
+  ],
+  "99": [
+    "villa",
+    "Villa",
+    "Villa"
+  ],
+  "100": [
+    "smallhouse",
+    "Small House",
+    "Small House"
+  ],
+  "101": [
+    "appartement",
+    "Appartement",
+    "Appartement"
+  ],
+  "102": [
+    "wheredoyouwanttomove",
+    "Where to you want to move ?",
+    "Where to you want to move ?"
+  ],
+  "103": [
+    "wheredoyouwanttomove2",
+    "Where to you want\nto move ?",
+    "Where to you want\nto move ?"
+  ],
+  "104": [
+    "search",
+    "Search",
+    "Search"
+  ],
+  "105": [
+    "size",
+    "Size",
+    "Size"
+  ],
+  "106": [
+    "sqft",
+    "SqFt",
+    "SqFt"
+  ],
+  "107": [
+    "bedroom",
+    "Bedroom",
+    "Bedroom"
+  ],
+  "108": [
+    "bathroom",
+    "Bathroom",
+    "Bathroom"
+  ],
+  "109": [
+    "help",
+    "Help",
+    "Help"
+  ],
+  "110": [
+    "iamprivateuser",
+    "I'm a Private User",
+    "I'm a Private User"
+  ],
+  "111": [
+    "iamaprivateuser",
+    "I'm a Private User",
+    "I'm a Private User"
+  ],
+  "112": [
+    "iamprivatepro",
+    "I'm  an Agent",
+    "I'm  an Agent"
+  ],
+  "113": [
+    "login/signup",
+    "Login / Signup",
+    "Login / Signup"
+  ],
+  "114": [
+    "go",
+    "Go",
+    "Go"
+  ],
+  "115": [
+    "category",
+    "Category",
+    "Category"
+  ],
+  "116": [
+    "subcategory",
+    "Subcategory",
+    "Subcategory"
+  ],
+  "117": [
+    "selected",
+    "Selected",
+    "Selected"
+  ],
+  "118": [
+    "checkyourmailbox",
+    "Check your mail box to get otp",
+    "Check your mail box to get otp"
+  ],
+  "119": [
+    "chooseapublicname",
+    "Choose a public name",
+    "Choose a public name"
+  ],
+  "120": [
+    "publicname",
+    "Public name",
+    "Public name"
+  ],
+  "121": [
+    "publicnamenote",
+    "Your public name is how you choose to identify yourself to other users within the community. Unlike @username, your public name doesn't have to follow a specific format, and it doesn't need to be unique",
+    "Your public name is how you choose to identify yourself to other users within the community. Unlike @username, your public name doesn't have to follow a specific format, and it doesn't need to be unique"
+  ],
+  "122": [
+    "yourusername",
+    "Your @Username",
+    "Your @Username"
+  ],
+  "123": [
+    "chosoeausername",
+    "Choose a @Username",
+    "Choose a @Username"
+  ],
+  "124": [
+    "chooseusernamenote",
+    "Your username (@username) is the key to logging in\nit must be one-of-a-kind,\nusing only lowercase letters, numbers, and underscores (_),\nbe between 4 and 20 characters long.",
+    "Your username (@username) is the key to logging in\nit must be one-of-a-kind,\nusing only lowercase letters, numbers, and underscores (_),\nbe between 4 and 20 characters long."
+  ],
+  "125": [
+    "chooseusername",
+    "Choose a @username",
+    "Choose a @username"
+  ],
+  "126": [
+    "confirmpassword",
+    "Confirm Password",
+    "Confirm Password"
+  ],
+  "127": [
+    "username",
+    "Username",
+    "Username"
+  ],
+  "128": [
+    "unfortunatly",
+    "Unfortunatly",
+    "Unfortunatly"
+  ],
+  "129": [
+    "isalreadytakenyourusernamebla",
+    "is already taken.\nYour username must be unique !\nTry another one.\nNote: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores.",
+    "is already taken.\nYour username must be unique !\nTry another one.\nNote: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores."
+  ],
+  "130": [
+    "isalreadytakenyourusernamebla2",
+    "is invalid.\nYour username must be unique !\nTry another one.\nNote: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores.",
+    "is invalid.\nYour username must be unique !\nTry another one.\nNote: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores."
+  ],
+  "131": [
+    "registeruser",
+    "Register User",
+    "Register User"
+  ],
+  "132": [
+    "isuniqueandnotyettaken",
+    "is unique and not yet taken",
+    "is unique and not yet taken"
+  ],
+  "133": [
+    "isnotavaliable",
+    " is not avaliable!",
+    " is not avaliable!"
+  ],
+  "134": [
+    "isvaliable",
+    " is avaliable!",
+    " is avaliable!"
+  ],
+  "135": [
+    "onlylowercasenumber",
+    "only lowercase, numbers and _underscore_",
+    "only lowercase, numbers and _underscore_"
+  ],
+  "136": [
+    "between4end24",
+    "between 4 and 24 characters",
+    "between 4 and 24 characters"
+  ],
+  "137": [
+    "pleaseconfirmyourlang",
+    "Please confirm your language",
+    "Please confirm your language"
+  ],
+  "138": [
+    "What type of account should I choose?",
+    "What type of account should I choose? ",
+    "What type of account should I choose? "
+  ],
+  "139": [
+    "youcanidentifyyourselfasanyfollow",
+    "You can identify yourself as any of the following profiles :",
+    "You can identify yourself as any of the following profiles :"
+  ],
+  "140": [
+    "registernoteusersection",
+    "Private User sign-up is perfect for those who are:",
+    "Private User sign-up is perfect for those who are:"
+  ],
+  "141": [
+    "ineedaproaccount",
+    "I need a PRO account",
+    "I need a PRO account"
+  ],
+  "142": [
+    "share",
+    "Share",
+    "Share"
+  ],
+  "143": [
+    "favourite",
+    "Favourite",
+    "Favourite"
+  ],
+  "144": [
+    "agencyreference",
+    "Agency Reference",
+    "Agency Reference"
+  ],
+  "145": [
+    "morepropertiesfromthisagency",
+    "More properties from this agency",
+    "More properties from this agency"
+  ],
+  "146": [
+    "youmusttobeloggedtoStart a conversation",
+    "You must to be logged\nto start a conversation",
+    "You must to be logged\nto start a conversation"
+  ],
+  "147": [
+    "finances",
+    "Finances",
+    "Finances"
+  ],
+  "148": [
+    "rentprice",
+    "Rent price",
+    "Rent price"
+  ],
+  "149": [
+    "deposit",
+    "Deposit",
+    "Deposit"
+  ],
+  "150": [
+    "mincontractduration",
+    "Min contract duration",
+    "Min contract duration"
+  ],
+  "151": [
+    "estimatemonthlyindivcharge",
+    "Estimate Monthly indiv charge",
+    "Estimate Monthly indiv charge"
+  ],
+  "152": [
+    "locations",
+    "Locations",
+    "Locations"
+  ],
+  "153": [
+    "whereyoullbe",
+    "Where you'll be",
+    "Where you'll be"
+  ],
+  "154": [
+    "otherproperty",
+    "Other Property",
+    "Other Property"
+  ],
+  "155": [
+    "thispropertyisavailablefrom",
+    "This property is available from",
+    "This property is available from"
+  ],
+  "156": [
+    "selfcheckin",
+    "Self check-in",
+    "Self check-in"
+  ],
+  "157": [
+    "youcancheckinwiththedoorman",
+    "You can check in with the doorman.",
+    "You can check in with the doorman."
+  ],
+  "158": [
+    "parkforfree",
+    "Park for free",
+    "Park for free"
+  ],
+  "159": [
+    "thisisoneofthefewplacesintheareawithfreeparking",
+    "This is one of the few places in the area with free parking.",
+    "This is one of the few places in the area with free parking."
+  ],
+  "160": [
+    "whatthisplaceoffers",
+    "What this place offers",
+    "What this place offers"
+  ],
+  "161": [
+    "showallphoto",
+    "Show all photo",
+    "Show all photo"
+  ],
+  "162": [
+    "writesomething",
+    "Write something",
+    "Write something"
+  ],
+  "163": [
+    "home",
+    "Home",
+    "Home"
+  ],
+  "164": [
+    "selectone",
+    "Select one..",
+    "Select one.."
+  ],
+  "165": [
+    "dashboard",
+    "Dashboard",
+    "Dashboard"
+  ],
+  "166": [
+    "light",
+    "Light",
+    "Light"
+  ],
+  "167": [
+    "dark",
+    "Dark",
+    "Dark"
+  ],
+  "168": [
+    "myads",
+    "My Ads",
+    "My Ads"
+  ],
+  "169": [
+    "myprofile",
+    "My Profile",
+    "My Profile"
+  ],
+  "170": [
+    "menu",
+    "Menu",
+    "Menu"
+  ],
+  "171": [
+    "plot",
+    "Plot",
+    "Plot"
+  ],
+  "172": [
+    "garageparking",
+    "Garage/Parking",
+    "Garage/Parking"
+  ],
+  "173": [
+    "industrial",
+    "Industrial",
+    "Industrial"
+  ],
+  "174": [
+    "office",
+    "Office",
+    "Office"
+  ],
+  "175": [
+    "apartment",
+    "Apartment",
+    "Apartment"
+  ],
+  "176": [
+    "commercial",
+    "Commercial",
+    "Commercial"
+  ],
+  "177": [
+    "forbuy",
+    "For buy",
+    "For buy"
+  ],
+  "178": [
+    "forrent",
+    "For rent",
+    "For rent"
+  ],
+  "179": [
+    "shorttermrent",
+    "Short term rent",
+    "Short term rent"
+  ],
+  "180": [
+    "sharehouse",
+    "Share house",
+    "Share house"
+  ],
+  "181": [
+    "whatisthepurposeofthisad",
+    "What is the purpose of this ad?",
+    "What is the purpose of this ad?"
+  ],
+  "182": [
+    "createad",
+    "Create Ad",
+    "Create Ad"
+  ],
+  "183": [
+    "adsremaininginyourpackage",
+    "Ads remaining in your package",
+    "Ads remaining in your package"
+  ],
+  "184": [
+    "availablefrom",
+    "Available From",
+    "Available From"
+  ],
+  "185": [
+    "surface",
+    "Surface",
+    "Surface"
+  ],
+  "186": [
+    "picture",
+    "Picture",
+    "Picture"
+  ],
+  "187": [
+    "publish",
+    "Publish",
+    "Publish"
+  ],
+  "188": [
+    "editmyprofile",
+    "Edit My Profile",
+    "Edit My Profile"
+  ],
+  "189": [
+    "accountinfos",
+    "Account Infos",
+    "Account Infos"
+  ],
+  "190": [
+    "editprofile",
+    "Edit Profile",
+    "Edit Profile"
+  ],
+  "191": [
+    "dateformat",
+    "Date format",
+    "Date format"
+  ],
+  "192": [
+    "mylanguage",
+    "My language",
+    "My language"
+  ],
+  "193": [
+    "update",
+    "Update",
+    "Update"
+  ],
+  "194": [
+    "currentpassword",
+    "Current password",
+    "Current password"
+  ],
+  "195": [
+    "profile",
+    "Profile",
+    "Profile"
+  ],
+  "196": [
+    "notifications",
+    "Notifications",
+    "Notifications"
+  ],
+  "197": [
+    "lifeannuity",
+    "Life Annuity",
+    "Life Annuity"
+  ],
+  "198": [
+    "selectasubcategory",
+    "Select a Sub-Category",
+    "Select a Sub-Category"
+  ],
+  "199": [
+    "whereisthispropertylocated",
+    "Where is this property located?",
+    "Where is this property located?"
+  ],
+  "200": [
+    "shortrent",
+    "Short Rent",
+    "Short Rent"
+  ],
+  "201": [
+    "shareplace",
+    "Share Place",
+    "Share Place"
+  ],
+  "202": [
+    "homesitting",
+    "Home Sitting",
+    "Home Sitting"
+  ],
+  "203": [
+    "financesdescription",
+    "This property is located in an area where the following currency is used",
+    "This property is located in an area where the following currency is used"
+  ],
+  "204": [
+    "estimatemonthlyindividualcharges",
+    "Estimate Monthly Individual Charges",
+    "Estimate Monthly Individual Charges"
+  ],
+  "205": [
+    "fixedcharges",
+    "Fixed Charges",
+    "Fixed Charges"
+  ],
+  "206": [
+    "thereisnoestimationforthemoment",
+    "There is no estimation for the moment",
+    "There is no estimation for the moment"
+  ],
+  "207": [
+    "thereisnofixedcharges",
+    "There is no fixed charges",
+    "There is no fixed charges"
+  ],
+  "208": [
+    "minimalcontractduration",
+    "Minimal Contract Duration",
+    "Minimal Contract Duration"
+  ],
+  "209": [
+    "yearsunit",
+    "Year (s)",
+    "Year (s)"
+  ],
+  "210": [
+    "peb",
+    "PEB",
+    "PEB"
+  ],
+  "211": [
+    "pebvaliduntil",
+    "PEB Valid until",
+    "PEB Valid until"
+  ],
+  "212": [
+    "bedroomslabel",
+    "Bedroom (s)",
+    "Bedroom (s)"
+  ],
+  "213": [
+    "numberofroomlabel",
+    "Number of room (s)",
+    "Number of room (s)"
+  ],
+  "214": [
+    "numberoffllorlabel",
+    "Number of floor (s)",
+    "Number of floor (s)"
+  ],
+  "215": [
+    "landsize",
+    "Land Size",
+    "Land Size"
+  ],
+  "216": [
+    "bathroomslabel",
+    "Bathroom (s)",
+    "Bathroom (s)"
+  ],
+  "217": [
+    "garageslabel",
+    "Garage (s)",
+    "Garage (s)"
+  ],
+  "218": [
+    "floorposition",
+    "Floor position",
+    "Floor position"
+  ],
+  "219": [
+    "ageandhistory",
+    "Age and history",
+    "Age and history"
+  ],
+  "220": [
+    "yearbuild",
+    "Year build",
+    "Year build"
+  ],
+  "221": [
+    "remodelyear",
+    "Remodel Year",
+    "Remodel Year"
+  ],
+  "222": [
+    "amenities",
+    "Amenities",
+    "Amenities"
+  ],
+  "223": [
+    "searchinyourfavorite",
+    "Search in your favorite",
+    "Search in your favorite"
+  ],
+  "224": [
+    "upgradenow",
+    "Upgrade now",
+    "Upgrade now"
+  ],
+  "225": [
+    "youmaylike",
+    "You may like ...",
+    "You may like ..."
+  ],
+  "226": [
+    "uservip",
+    "User VIP",
+    "User VIP"
+  ],
+  "227": [
+    "follower",
+    "Follower",
+    "Follower"
+  ],
+  "228": [
+    "numberofposts",
+    "Number of posts",
+    "Number of posts"
+  ],
+  "229": [
+    "resultsfound",
+    "results found",
+    "results found"
+  ],
+  "230": [
+    "noresultsforthemomentforthisrequest",
+    "No results for the moment for this request",
+    "No results for the moment for this request"
+  ],
+  "231": [
+    "all",
+    "All",
+    "All"
+  ],
+  "232": [
+    "yourstatistics",
+    "Your Statistics",
+    "Your Statistics"
+  ],
+  "233": [
+    "publishlocationallowed",
+    "Publish location allowed",
+    "Publish location allowed"
+  ],
+  "234": [
+    "homelidomonthlysubscription",
+    "Homelido, Monthly subscription",
+    "Homelido, Monthly subscription"
+  ],
+  "235": [
+    "tablenumber",
+    "No.",
+    "No."
+  ],
+  "236": [
+    "postname",
+    "Post Name",
+    "Post Name"
+  ],
+  "237": [
+    "week",
+    "Week",
+    "Week"
+  ],
+  "238": [
+    "date",
+    "Date",
+    "Date"
+  ],
+  "239": [
+    "amount",
+    "Amount",
+    "Amount"
+  ],
+  "240": [
+    "invoice",
+    "Invoice",
+    "Invoice"
+  ],
+  "241": [
+    "seemyinvoiceonline",
+    "See my invoice online",
+    "See my invoice online"
+  ],
+  "242": [
+    "visitsplanned",
+    "Visits planned",
+    "Visits planned"
+  ],
+  "243": [
+    "responserate",
+    "Response Rate",
+    "Response Rate"
+  ],
+  "244": [
+    "readless",
+    "Read less",
+    "Read less"
+  ],
+  "245": [
+    "openinghours",
+    "Opening hours",
+    "Opening hours"
+  ],
+  "246": [
+    "latest",
+    "Latest",
+    "Latest"
+  ],
+  "247": [
+    "ouragents",
+    "Our Agents",
+    "Our Agents"
+  ],
+  "248": [
+    "notyetverified",
+    "Not yet verified",
+    "Not yet verified"
+  ],
+  "249": [
+    "shareplaces",
+    "Share Places",
+    "Share Places"
+  ],
+  "250": [
+    "groupcreated",
+    "Group created",
+    "Group created"
+  ],
+  "251": [
+    "attachment",
+    "Attachment",
+    "Attachment"
+  ],
+  "252": [
+    "lastseen",
+    "Last seen",
+    "Last seen"
+  ],
+  "253": [
+    "online",
+    "Online",
+    "Online"
+  ],
+  "254": [
+    "offline",
+    "Offline",
+    "Offline"
+  ],
+  "255": [
+    "nothinghere",
+    "Nothing here",
+    "Nothing here"
+  ],
+  "256": [
+    "oldFirst",
+    "Old first",
+    "Old first"
+  ],
+  "257": [
+    "newFirst",
+    "New first",
+    "New first"
+  ],
+  "258": [
+    "distance",
+    "Distance",
+    "Distance"
+  ],
+  "259": [
+    "theownerdidnotsetanyinfos",
+    "The owner did't set any informations",
+    "The owner did't set any informations"
+  ],
+  "260": [
+    "onlyonesizeforcurrentfilter",
+    "(Only one size for current filter)",
+    "(Only one size for current filter)"
+  ],
+  "261": [
+    "nopriceforcurrentfilter",
+    "(No price for current filter)",
+    "(No price for current filter)"
+  ],
+  "262": [
+    "onlyonepriceforcurrentfilter",
+    "(Only one price for current filter)",
+    "(Only one price for current filter)"
+  ],
+  "263": [
+    "tosubmitashorttermdesc",
+    "To submit a short-term rental agreement (less than one year), start by creating an ad by selecting the option for \"short term rental\" in the first step.",
+    "To submit a short-term rental agreement (less than one year), start by creating an ad by selecting the option for \"short term rental\" in the first step."
+  ],
+  "264": [
+    "toprotectyourprivacynickname",
+    "To protect your privacy, in most circumstances we will only display your public name instead of your first and last name",
+    "To protect your privacy, in most circumstances we will only display your public name instead of your first and last name"
+  ],
+  "265": [
+    "bouquet",
+    "Bouquet",
+    "Bouquet"
+  ],
+  "266": [
+    "rentannuity",
+    "Rent Annuity",
+    "Rent Annuity"
+  ],
+  "267": [
+    "financesdescriptionrentannuity",
+    "Ongoing payment that are made to the annuitant on a regular basis, usually once a month",
+    "Ongoing payment that are made to the annuitant on a regular basis, usually once a month"
+  ],
+  "268": [
+    "completethisdraft",
+    "Complete this draft",
+    "Complete this draft"
+  ],
+  "269": [
+    "createyourfirstad",
+    "Create your first ad",
+    "Create your first ad"
+  ],
+  "270": [
+    "disclaimer",
+    "Disclaimer",
+    "Disclaimer"
+  ],
+  "271": [
+    "termandcondition",
+    "Terms & Conditions",
+    "Terms & Conditions"
+  ],
+  "272": [
+    "listtingrules",
+    "Listing Rules",
+    "Listing Rules"
+  ],
+  "273": [
+    "generaltermsofsale",
+    "General Terms of Sale",
+    "General Terms of Sale"
+  ],
+  "274": [
+    "pictures",
+    "Pictures",
+    "Pictures"
+  ],
+  "275": [
+    "mainpic",
+    "Main picture",
+    "Main picture"
+  ],
+  "276": [
+    "drophere!",
+    "Drop here!",
+    "Drop here!"
+  ],
+  "277": [
+    "draganddropthemainpic",
+    "Drag and Drop\nthe main picture here*",
+    "Drag and Drop\nthe main picture here*"
+  ],
+  "278": [
+    "draganddroptheonenpic",
+    "Drag and Drop\none picture here*",
+    "Drag and Drop\none picture here*"
+  ],
+  "279": [
+    "GDPRCompliance",
+    "GDPR Compliance",
+    "GDPR Compliance"
+  ],
+  "280": [
+    "DMCAPolicy",
+    "DMCA Policy",
+    "DMCA Policy"
+  ],
+  "281": [
+    "seenumberreutls",
+    "See {} results",
+    "See {} results"
+  ],
+  "282": [
+    "list",
+    "List",
+    "List"
+  ],
+  "283": [
+    "map",
+    "Map",
+    "Map"
+  ],
+  "284": [
+    "youarehere",
+    "You are here",
+    "You are here"
+  ],
+  "285": [
+    "seeall",
+    "See all",
+    "See all"
+  ],
+  "286": [
+    "hello",
+    "Hello",
+    "Hello"
+  ],
+  "287": [
+    "mylisadsitem",
+    "My List Ads @item",
+    "My List Ads @item"
+  ],
+  "288": [
+    "payment",
+    "Payment",
+    "Payment"
+  ],
+  "289": [
+    "step1chooseoptions",
+    "Step 1: Choose options",
+    "Step 1: Choose options"
+  ],
+  "290": [
+    "step3payment",
+    "Step 3: Payment",
+    "Step 3: Payment"
+  ],
+  "291": [
+    "featuread",
+    "Feature ad",
+    "Feature ad"
+  ],
+  "292": [
+    "total",
+    "Total",
+    "Total"
+  ],
+  "293": [
+    "addanewbillingaddress",
+    "Add a new billing address",
+    "Add a new billing address"
+  ],
+  "294": [
+    "totalamount",
+    "Total Amount",
+    "Total Amount"
+  ],
+  "295": [
+    "ordernumber",
+    "Order number",
+    "Order number"
+  ],
+  "296": [
+    "yourorder",
+    "Your order",
+    "Your order"
+  ],
+  "297": [
+    "billingaddress",
+    "Billing Address",
+    "Billing Address"
+  ],
+  "298": [
+    "addbillinginfos",
+    "Add Billing Infos",
+    "Add Billing Infos"
+  ],
+  "299": [
+    "numberofbeds",
+    "Number of bedroom(s)",
+    "Number of bedroom(s)"
+  ],
+  "300": [
+    "numberofbaths",
+    "Number of bathroom(s)",
+    "Number of bathroom(s)"
+  ],
+  "301": [
+    "forsale",
+    "For sale",
+    "For sale"
+  ],
+  "302": [
+    "youmustbeloggedrorevealthecontactinfos",
+    "You must be logged to reveal the contact infos",
+    "You must be logged to reveal the contact infos"
+  ],
+  "303": [
+    "chatindashboard",
+    "Chat in\ndashboard",
+    "Chat in\ndashboard"
+  ],
+  "304": [
+    "message",
+    "Message",
+    "Message"
+  ],
+  "305": [
+    "searchmessages",
+    "Search messages",
+    "Search messages"
+  ],
+  "306": [
+    "manage",
+    "Manage",
+    "Manage"
+  ],
+  "307": [
+    "view",
+    "View",
+    "View"
+  ],
+  "308": [
+    "seethisad",
+    "See this ad",
+    "See this ad"
+  ],
+  "309": [
+    "upgrade",
+    "Upgrade",
+    "Upgrade"
+  ],
+  "310": [
+    "defineyouraccount",
+    "Define your account",
+    "Define your account"
+  ],
+  "311": [
+    "pleaseselect..",
+    "Please, select...",
+    "Please, select..."
+  ],
+  "312": [
+    "inwitchcontryislocatedtheagencytojoin",
+    "In which country is located the agency you want to join ?",
+    "In which country is located the agency you want to join ?"
+  ],
+  "313": [
+    "areyousurethatyouwanttoremovethisfromfavorite",
+    "Are you sure that you want to remove\nthis ad from favorite?",
+    "Are you sure that you want to remove\nthis ad from favorite?"
+  ],
+  "314": [
+    "areyousurethatyouwanttoremovethisad",
+    "Are you sure that you want\nto remove this ad?",
+    "Are you sure that you want\nto remove this ad?"
+  ],
+  "315": [
+    "choosethisoptionfor",
+    "Choose this option for",
+    "Choose this option for"
+  ],
+  "316": [
+    "default",
+    "Default",
+    "Default"
+  ],
+  "317": [
+    "newcard",
+    "New Card",
+    "New Card"
+  ],
+  "318": [
+    "adlimiexccededdisblesomeadsorupgrade",
+    "Ad limit exceeded. Disable some ads or upgrade your plan",
+    "Ad limit exceeded. Disable some ads or upgrade your plan"
+  ],
+  "319": [
+    "selectyouragency",
+    "Select your agency",
+    "Select your agency"
+  ],
+  "320": [
+    "searchanagemceyin",
+    "Search an agency in",
+    "Search an agency in"
+  ],
+  "321": [
+    "summary",
+    "Summary",
+    "Summary"
+  ],
+  "322": [
+    "accessagencyplan",
+    "Access Agency\nPlan",
+    "Access Agency\nPlan"
+  ],
+  "323": [
+    "arequestemailwillbesenttoagenceymanage",
+    "A request email will be sent to the agency manager to confirm your membership",
+    "A request email will be sent to the agency manager to confirm your membership"
+  ],
+  "324": [
+    "pleaseasktomanagertocheck",
+    "Please ask to your manager to check\nhis email or spam folder",
+    "Please ask to your manager to check\nhis email or spam folder"
+  ],
+  "325": [
+    "yourbillinginfos",
+    "Your Billing Informations",
+    "Your Billing Informations"
+  ],
+  "326": [
+    "billinginfos",
+    "Billing Infos",
+    "Billing Infos"
+  ],
+  "327": [
+    "openstreetview",
+    "Open Street View",
+    "Open Street View"
+  ],
+  "328": [
+    "thisemailalreadyused",
+    "This email already used",
+    "This email already used"
+  ],
+  "329": [
+    "areyousurethatyouwanttodeletethisad",
+    "Are you sure that you want to delete\nthis ad permanently ? ",
+    "Are you sure that you want to delete\nthis ad permanently ? "
+  ],
+  "330": [
+    "delete",
+    "Delete",
+    "Delete"
+  ],
+  "331": [
+    "areyousurethatyouwantdeletethisads",
+    "Are you sure that you want to delete this ad ?",
+    "Are you sure that you want to delete this ad ?"
+  ],
+  "332": [
+    "youwillquitthisscreenandadraftwillnecreate",
+    "If you quit this screen now\na draft will be created\nautomatically for you ",
+    "If you quit this screen now\na draft will be created\nautomatically for you "
+  ],
+  "333": [
+    "signupnow",
+    "Sign up now",
+    "Sign up now"
+  ],
+  "334": [
+    "hintsentence1",
+    "I am looking to rent a flat in Paris, under 2000\u20ac, min 80m2, 3 bedrooms.",
+    "I am looking to rent a flat in Paris, under 2000\u20ac, min 80m2, 3 bedrooms."
+  ],
+  "335": [
+    "hintsentence2",
+    "Nice House in Bruxelles center, min 2 bedrooms",
+    "Nice House in Bruxelles center, min 2 bedrooms"
+  ],
+  "336": [
+    "hintsentence3",
+    "I am looking for a flat share in Rome with people between 20 and 30 years old",
+    "I am looking for a flat share in Rome with people between 20 and 30 years old"
+  ],
+  "337": [
+    "publistfirstadnowonly",
+    "Publish you first ad now for only",
+    "Publish you first ad now for only"
+  ],
+  "338": [
+    "proaccess",
+    "Pro Access",
+    "Pro Access"
+  ],
+  "339": [
+    "areyouaproagent?",
+    "Are you a professional agent? \nSee how to Access to your new dashboard here ",
+    "Are you a professional agent? \nSee how to Access to your new dashboard here "
+  ],
+  "340": [
+    "chat",
+    "Chat",
+    "Chat"
+  ],
+  "341": [
+    "favorite",
+    "Favorite",
+    "Favorite"
+  ],
+  "342": [
+    "settings",
+    "Settings",
+    "Settings"
+  ],
+  "343": [
+    "acodewassento",
+    "a code was sent to: ",
+    "a code was sent to: "
+  ],
+  "344": [
+    "youhaveeneterawrongemail",
+    "You have entered a wrong email ? back",
+    "You have entered a wrong email ? back"
+  ],
+  "345": [
+    "youhaveeneterawrongphone",
+    "You have entered a wrong phone ? back",
+    "You have entered a wrong phone ? back"
+  ],
+  "346": [
+    "yearly-20%",
+    "Yearly  (-20%)",
+    "Yearly  (-20%)"
+  ],
+  "347": [
+    "thepropertyyouarelookingforcannotdisplay",
+    "Oops, the Property you are looking for cannot be displayed - It may have been deleted or does not exist",
+    "Oops, the Property you are looking for cannot be displayed - It may have been deleted or does not exist"
+  ],
+  "348": [
+    "clickonthebuttonbellowtocontinuebrowselist",
+    "Click on the button bellow to continue to browse our other listings to find a property\nthat suits your needs.",
+    "Click on the button bellow to continue to browse our other listings to find a property\nthat suits your needs."
+  ],
+  "349": [
+    "backtohomepage",
+    "Back to Homepage",
+    "Back to Homepage"
+  ],
+  "350": [
+    "featuredads",
+    "Featured Ads",
+    "Featured Ads"
+  ],
+  "351": [
+    "visible online",
+    "Visible online",
+    "Visible online"
+  ],
+  "352": [
+    "not visible online",
+    "Not visible online",
+    "Not visible online"
+  ],
+  "353": [
+    "countryallowed:",
+    "country allowed : ",
+    "country allowed : "
+  ],
+  "354": [
+    "|forsale",
+    " | for sale",
+    " | for sale"
+  ],
+  "355": [
+    "/month",
+    " / month",
+    " / month"
+  ],
+  "356": [
+    "/lifeannutity",
+    " / life annuity",
+    " / life annuity"
+  ],
+  "357": [
+    "shopnow",
+    "Shop now",
+    "Shop now"
+  ],
+  "358": [
+    "wallview",
+    "Wall view",
+    "Wall view"
+  ],
+  "359": [
+    "allscreens",
+    "All screens",
+    "All screens"
+  ],
+  "360": [
+    "searchascreenbynameorserial",
+    "Search a screen by name or serial",
+    "Search a screen by name or serial"
+  ],
+  "361": [
+    "searchaadsbypricetitle",
+    "Search a ads by price, title, category...",
+    "Search a ads by price, title, category..."
+  ],
+  "362": [
+    "listads",
+    "List ads",
+    "List ads"
+  ],
+  "363": [
+    "preview",
+    "Preview",
+    "Preview"
+  ],
+  "364": [
+    "elevateyourrealstateshowcasewith",
+    "Elevate Your Real Estate Showcase with\nCutting-Edge Technology !",
+    "Elevate Your Real Estate Showcase with\nCutting-Edge Technology !"
+  ],
+  "365": [
+    "elevateyourrealstateshowcasewithnote",
+    "Transform your real estate sales strategy with our innovative ad synchronisation solution. With our high-end screens, you can easily publish and synchronise your listings directly from our platform. No need to waste time manually transferring information. Everything is automated and easy to use. Our screens offer exceptional image quality and an immersive visual experience for your potential customers. Discover now how we can improve your property presentation.",
+    "Transform your real estate sales strategy with our innovative ad synchronisation solution. With our high-end screens, you can easily publish and synchronise your listings directly from our platform. No need to waste time manually transferring information. Everything is automated and easy to use. Our screens offer exceptional image quality and an immersive visual experience for your potential customers. Discover now how we can improve your property presentation."
+  ],
+  "366": [
+    "gallery",
+    "Gallery",
+    "Gallery"
+  ],
+  "367": [
+    "shop",
+    "Shop",
+    "Shop"
+  ],
+  "368": [
+    "searchAProductByType",
+    "Search a product by type",
+    "Search a product by type"
+  ],
+  "369": [
+    "cart",
+    "Cart",
+    "Cart"
+  ],
+  "370": [
+    "subTotal",
+    "Subtotal",
+    "Subtotal"
+  ],
+  "371": [
+    "subtotal",
+    "Subtotal",
+    "Subtotal"
+  ],
+  "372": [
+    "taxFeeVAT",
+    "Taxes, Fees, VAT",
+    "Taxes, Fees, VAT"
+  ],
+  "373": [
+    "moreInfo",
+    "More info",
+    "More info"
+  ],
+  "374": [
+    "addToCart",
+    "Add to cart",
+    "Add to cart"
+  ],
+  "375": [
+    "paymentInstruction",
+    "Choose the publication duration and highlighting options",
+    "Choose the publication duration and highlighting options"
+  ],
+  "376": [
+    "deliveryAddress",
+    "Delivery Address",
+    "Delivery Address"
+  ],
+  "377": [
+    "billingInfo",
+    "Billing Info",
+    "Billing Info"
+  ],
+  "378": [
+    "addBillingInfo",
+    "Add billing info",
+    "Add billing info"
+  ],
+  "379": [
+    "myDeliveryAddress",
+    "My delivery address",
+    "My delivery address"
+  ],
+  "380": [
+    "chooseALabelForYouToRemember",
+    "Choose a label for you to remember",
+    "Choose a label for you to remember"
+  ],
+  "381": [
+    "billingName",
+    "Billing name",
+    "Billing name"
+  ],
+  "382": [
+    "companyname",
+    "Company name",
+    "Company name"
+  ],
+  "383": [
+    "companyNumber",
+    "Company number",
+    "Company number"
+  ],
+  "384": [
+    "streetAndNumber",
+    "Street, number",
+    "Street, number"
+  ],
+  "385": [
+    "VATNumber",
+    "VAT number",
+    "VAT number"
+  ],
+  "386": [
+    "city",
+    "City",
+    "City"
+  ],
+  "387": [
+    "country",
+    "Country",
+    "Country"
+  ],
+  "388": [
+    "whereDoYouNeedToDeliver",
+    "Where do we need to deliver ?",
+    "Where do we need to deliver ?"
+  ],
+  "389": [
+    "totalsurface",
+    "Total Surface",
+    "Total Surface"
+  ],
+  "390": [
+    "rooms",
+    "Rooms",
+    "Rooms"
+  ],
+  "391": [
+    "alreadylinkedfromotherside",
+    "Already linked from other side",
+    "Already linked from other side"
+  ],
+  "392": [
+    "yourads",
+    "Your ads",
+    "Your ads"
+  ],
+  "393": [
+    "searchlocation",
+    "Search location",
+    "Search location"
+  ],
+  "394": [
+    "loginbyusername",
+    "Login by username",
+    "Login by username"
+  ],
+  "395": [
+    "registerpro",
+    "Register Pro",
+    "Register Pro"
+  ],
+  "396": [
+    "joinnow",
+    "Join now",
+    "Join now"
+  ],
+  "397": [
+    "joinnow2",
+    "Join Now",
+    "Join Now"
+  ],
+  "398": [
+    "joinusnow",
+    "Join us now",
+    "Join us now"
+  ],
+  "399": [
+    "jointhe",
+    "Join the",
+    "Join the"
+  ],
+  "400": [
+    "future",
+    "Future",
+    "Future"
+  ],
+  "401": [
+    "ofrealestate",
+    "of Real Estate",
+    "of Real Estate"
+  ],
+  "402": [
+    "unlockingthepowerofseamless",
+    "Unlocking the power of seamless collaboration and\nincreased efficiency.",
+    "Unlocking the power of seamless collaboration and\nincreased efficiency."
+  ],
+  "403": [
+    "allinone",
+    "ALL-IN-ONE",
+    "ALL-IN-ONE"
+  ],
+  "404": [
+    "homelido",
+    "Homelido",
+    "Homelido"
+  ],
+  "405": [
+    "foranyrealestateneed",
+    "for any\nreal estate need",
+    "for any\nreal estate need"
+  ],
+  "406": [
+    "introducinghomelido",
+    "Introducing Homelido, the first all-in-one\nReal Estate platform",
+    "Introducing Homelido, the first all-in-one\nReal Estate platform"
+  ],
+  "407": [
+    "manageeverystep",
+    "Manage every step of the Real Estate\nprocess, from construction to managing\nand referencing estates.",
+    "Manage every step of the Real Estate\nprocess, from construction to managing\nand referencing estates."
+  ],
+  "408": [
+    "joinusandrevolutionize",
+    "Join us and revolutionize the industry.",
+    "Join us and revolutionize the industry."
+  ],
+  "409": [
+    "painpoints",
+    "PAIN POINTS",
+    "PAIN POINTS"
+  ],
+  "410": [
+    "addressingtheindustry",
+    "Addressing the Industry's",
+    "Addressing the Industry's"
+  ],
+  "411": [
+    "mostpressingchallenges",
+    "Most\nPressing Challenges",
+    "Most\nPressing Challenges"
+  ],
+  "412": [
+    "ourmarketresearch",
+    "Our market research has shown that",
+    "Our market research has shown that"
+  ],
+  "413": [
+    "technologyobsolescence",
+    "Technology Obsolescence",
+    "Technology Obsolescence"
+  ],
+  "414": [
+    "keepupwithtech",
+    "Keeping up with Tech is one of\nthe biggest challenges for agencies\nand realtors",
+    "Keeping up with Tech is one of\nthe biggest challenges for agencies\nand realtors"
+  ],
+  "415": [
+    "proptechunderutilization",
+    "PropTech Underutilization",
+    "PropTech Underutilization"
+  ],
+  "416": [
+    "onlyaround12%",
+    "Only around 12% of real estate companies\nin Europe have fully integrated PropTech\ninto their business models",
+    "Only around 12% of real estate companies\nin Europe have fully integrated PropTech\ninto their business models"
+  ],
+  "417": [
+    "untappeddigitalpotential",
+    "Untapped Digital Potential",
+    "Untapped Digital Potential"
+  ],
+  "418": [
+    "believethattheyarenottaking",
+    "Believe that they are not taking full\nadvantage of the potential of digital\ntechnologies",
+    "Believe that they are not taking full\nadvantage of the potential of digital\ntechnologies"
+  ],
+  "419": [
+    "weareseizingthe",
+    "We Are Seizing The",
+    "We Are Seizing The"
+  ],
+  "420": [
+    "opportunitiesnow",
+    "Opportunities Now",
+    "Opportunities Now"
+  ],
+  "421": [
+    "proptechcanreducerealestate",
+    "PropTech can reduce real estate transaction times by up to",
+    "PropTech can reduce real estate transaction times by up to"
+  ],
+  "422": [
+    "40%andreduceoperationalcosts",
+    "40%, and reduce operational costs by up to 30%",
+    "40%, and reduce operational costs by up to 30%"
+  ],
+  "423": [
+    "proptechmarketineurope",
+    "PropTech market in Europe is expected to grow at a CAGR (compound annual growth rate) of",
+    "PropTech market in Europe is expected to grow at a CAGR (compound annual growth rate) of"
+  ],
+  "424": [
+    "24.5%between2021and2026",
+    "24.5% between 2021 and 2026",
+    "24.5% between 2021 and 2026"
+  ],
+  "425": [
+    "europeanrealestatecompanies",
+    "European real estate companies\nare investing in PropTech and \ndigital innovation to improve their\noperations and gain a competitive\nadvantage",
+    "European real estate companies\nare investing in PropTech and \ndigital innovation to improve their\noperations and gain a competitive\nadvantage"
+  ],
+  "426": [
+    "believethatanallinonerealestate",
+    "Believe that an all-in-one real\nestate platform would be a valuable\naddition to their business, and could\nhelp them to improve efficiency,\nreduce costs, and increase revenue",
+    "Believe that an all-in-one real\nestate platform would be a valuable\naddition to their business, and could\nhelp them to improve efficiency,\nreduce costs, and increase revenue"
+  ],
+  "427": [
+    "functionalities",
+    "FUNCTIONALITIES",
+    "FUNCTIONALITIES"
+  ],
+  "428": [
+    "whatmakehomelido",
+    "What makes Homelido",
+    "What makes Homelido"
+  ],
+  "429": [
+    "sounique",
+    "so unique?",
+    "so unique?"
+  ],
+  "430": [
+    "anunparalleledlevel",
+    "An unparalleled level of completeness and synchronization across all\nreal estate business processes",
+    "An unparalleled level of completeness and synchronization across all\nreal estate business processes"
+  ],
+  "431": [
+    "propertymanagement",
+    "Property management\ndone intuitively",
+    "Property management\ndone intuitively"
+  ],
+  "432": [
+    "homelidoallowspropertymanagerstotrack",
+    "Homelido allows property managers to track\nleases, manage requests, and handle\ncommunication all in one place.",
+    "Homelido allows property managers to track\nleases, manage requests, and handle\ncommunication all in one place."
+  ],
+  "433": [
+    "homelidopersonalizeddigital",
+    "Homelido's Personalized\nDigital Signage Showcase",
+    "Homelido's Personalized\nDigital Signage Showcase"
+  ],
+  "434": [
+    "agenciescanpublishtheirhomelido",
+    "Agencies can publish their Homelido ads on\ninterlinked advertising screens in just a few\nseconds, saving them a lot of time and effort. ",
+    "Agencies can publish their Homelido ads on\ninterlinked advertising screens in just a few\nseconds, saving them a lot of time and effort. "
+  ],
+  "435": [
+    "onlinepropertymarketplace",
+    "Online property marketplace\nfor any type of property",
+    "Online property marketplace\nfor any type of property"
+  ],
+  "436": [
+    "allowagenciesrealtorsandlandlords",
+    "Allow agencies, realtors and landlords to list and\nmarket properties online, reaching a wider,\ninternational audience.",
+    "Allow agencies, realtors and landlords to list and\nmarket properties online, reaching a wider,\ninternational audience."
+  ],
+  "437": [
+    "adaptedtoeveryneed",
+    "Adapted to every need",
+    "Adapted to every need"
+  ],
+  "438": [
+    "weareaimedataninternational",
+    "We are aimed at an international, dynamic\naudience",
+    "We are aimed at an international, dynamic\naudience"
+  ],
+  "439": [
+    "mobileapp",
+    "Mobile App",
+    "Mobile App"
+  ],
+  "440": [
+    "multicurrencylanguages",
+    "Multi-Currency/ Languages",
+    "Multi-Currency/ Languages"
+  ],
+  "441": [
+    "personalizedsearchfunction",
+    "Personalized Search\nFunction",
+    "Personalized Search\nFunction"
+  ],
+  "442": [
+    "signupincentives",
+    "SIGN UP INCENTIVES",
+    "SIGN UP INCENTIVES"
+  ],
+  "443": [
+    "integration",
+    "Integration",
+    "Integration"
+  ],
+  "444": [
+    "weprovideourplatformusers",
+    "We provide our platform users the opportunity to build their reach even further through\nsmart integration. ",
+    "We provide our platform users the opportunity to build their reach even further through\nsmart integration. "
+  ],
+  "445": [
+    "morecomingsoon",
+    "More coming\nsoon...",
+    "More coming\nsoon..."
+  ],
+  "446": [
+    "subtitle",
+    "SUBTITLE",
+    "SUBTITLE"
+  ],
+  "447": [
+    "discoverthebenefits",
+    "Discover the Benefits",
+    "Discover the Benefits"
+  ],
+  "448": [
+    "ofworkingwithhomelido",
+    "of Working with Homelido",
+    "of Working with Homelido"
+  ],
+  "449": [
+    "competitivecommissions",
+    "Competitive Commissions",
+    "Competitive Commissions"
+  ],
+  "450": [
+    "weshareoursuccesswithyou",
+    "We share our success with you. When we\nreach our company goals, you will be\nincentivized too.",
+    "We share our success with you. When we\nreach our company goals, you will be\nincentivized too."
+  ],
+  "451": [
+    "excitinggrowthopportunities",
+    "Exciting Growth Opportunities",
+    "Exciting Growth Opportunities"
+  ],
+  "452": [
+    "wecreateaclearmapforyou",
+    "We create a clear map for you to develop\nyour skills and raise your salary over time",
+    "We create a clear map for you to develop\nyour skills and raise your salary over time"
+  ],
+  "453": [
+    "workremotely",
+    "Work Remotely",
+    "Work Remotely"
+  ],
+  "454": [
+    "liveandworkwhereeveryoulike",
+    "Live and work wherever you like!",
+    "Live and work wherever you like!"
+  ],
+  "455": [
+    "impactdrivenleadership",
+    "Impact-Driven Leadership",
+    "Impact-Driven Leadership"
+  ],
+  "456": [
+    "homelidostrivestochangetherealestatebusiness",
+    "Homelido strives to change the real estate\nbusiness for the good, providing real\nsolutions.",
+    "Homelido strives to change the real estate\nbusiness for the good, providing real\nsolutions."
+  ],
+  "457": [
+    "diversecustomerbase",
+    "Diverse Customer Base",
+    "Diverse Customer Base"
+  ],
+  "458": [
+    "homelidoprovidessolutionstodifferenttarget",
+    "Homelido provides solutions to different\ntarget groups, pick yours an thrive!",
+    "Homelido provides solutions to different\ntarget groups, pick yours an thrive!"
+  ],
+  "459": [
+    "fastmovingstartup",
+    "Fast-Moving Startup",
+    "Fast-Moving Startup"
+  ],
+  "460": [
+    "wearechanginghowrealestateprofessionals",
+    "We are changing how real estate\nprofessionals work worldwide! Join us for\nthe ride and make a difference in your\nindustry.",
+    "We are changing how real estate\nprofessionals work worldwide! Join us for\nthe ride and make a difference in your\nindustry."
+  ],
+  "461": [
+    "title",
+    "Title",
+    "Title"
+  ],
+  "462": [
+    "platformlaunch",
+    "Platform Launch",
+    "Platform Launch"
+  ],
+  "463": [
+    "takeadvantageoftheuniqueopportunity",
+    "Take advantage of the unique\nopportunity to play a part in our\nsales strategy with your expertise\nand knowledge.",
+    "Take advantage of the unique\nopportunity to play a part in our\nsales strategy with your expertise\nand knowledge."
+  ],
+  "464": [
+    "customerbasegrowth",
+    "Customer Base Growth",
+    "Customer Base Growth"
+  ],
+  "465": [
+    "putoursalesstrategyintopractice",
+    "Put our sales strategy into practice\nand get interestinzg commissions.\nOnly you set your own limits!",
+    "Put our sales strategy into practice\nand get interestinzg commissions.\nOnly you set your own limits!"
+  ],
+  "466": [
+    "phase3",
+    "Phase 3",
+    "Phase 3"
+  ],
+  "467": [
+    "createyourownsalesteam",
+    "Create your own sales team and manage\nas many people as you need to keep\nHomelido growing while creating long-\nterm passive income through shares of\neach enrolment sold on Homelido.",
+    "Create your own sales team and manage\nas many people as you need to keep\nHomelido growing while creating long-\nterm passive income through shares of\neach enrolment sold on Homelido."
+  ],
+  "468": [
+    "joinhomelido",
+    "JOIN HOMELIDO",
+    "JOIN HOMELIDO"
+  ],
+  "469": [
+    "stepintothefutureof",
+    "Step into the future of",
+    "Step into the future of"
+  ],
+  "470": [
+    "realestatewithus",
+    "\nreal estate with us - join now!",
+    "\nreal estate with us - join now!"
+  ],
+  "471": [
+    "areyouadrivenbusinessdeveloper",
+    "Are you a driven business developer with a hunger for success?",
+    "Are you a driven business developer with a hunger for success?"
+  ],
+  "472": [
+    "contactustodaytolearnhowyoucanhelpus",
+    "Contact us today to learn how you can help us take our real estate platform to the next\nlevel and achieve our goals together.",
+    "Contact us today to learn how you can help us take our real estate platform to the next\nlevel and achieve our goals together."
+  ],
+  "473": [
+    "enteryouremailaddressnumberphone",
+    "Enter your email address / number phone",
+    "Enter your email address / number phone"
+  ],
+  "474": [
+    "chooseyourplan",
+    "Choose your plan",
+    "Choose your plan"
+  ],
+  "475": [
+    "thisscreenisnotyetaddawall",
+    "This screen is not yet added a wall",
+    "This screen is not yet added a wall"
+  ],
+  "476": [
+    "createawall",
+    "Create a wall",
+    "Create a wall"
+  ],
+  "477": [
+    "addtoandexistwall",
+    "Add to an existing a wall",
+    "Add to an existing a wall"
+  ],
+  "478": [
+    "myscreens",
+    "My Screens",
+    "My Screens"
+  ],
+  "479": [
+    "qr_code",
+    "QR Code",
+    "QR Code"
+  ],
+  "480": [
+    "moreads",
+    "More ads",
+    "More ads"
+  ],
+  "481": [
+    "adreference",
+    "Ad reference",
+    "Ad reference"
+  ],
+  "482": [
+    "seethephonenumber",
+    "See the phone number",
+    "See the phone number"
+  ],
+  "483": [
+    "roommates",
+    "Roommates",
+    "Roommates"
+  ],
+  "484": [
+    "on_2",
+    "on",
+    "on"
+  ],
+  "485": [
+    "introduceyourself",
+    "Introduce yourself",
+    "Introduce yourself"
+  ],
+  "486": [
+    "loremipsumcontent",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo"
+  ],
+  "487": [
+    "whatprofilearetheylookingfor",
+    "What profile are they looking for ?",
+    "What profile are they looking for ?"
+  ],
+  "488": [
+    "depositamount",
+    "Deposit amount",
+    "Deposit amount"
+  ],
+  "489": [
+    "wifielectricityandwatercost",
+    "Wi-Fi electricity and water costs",
+    "Wi-Fi electricity and water costs"
+  ],
+  "490": [
+    "age",
+    "Age",
+    "Age"
+  ],
+  "491": [
+    "activityfield",
+    "Activity field",
+    "Activity field"
+  ],
+  "492": [
+    "kids",
+    "Kids",
+    "Kids"
+  ],
+  "493": [
+    "pets",
+    "Pets",
+    "Pets"
+  ],
+  "494": [
+    "hoursofoperation",
+    "Hours of Operation",
+    "Hours of Operation"
+  ],
+  "495": [
+    "featured",
+    "Featured",
+    "Featured"
+  ],
+  "496": [
+    "asaprofessional,youhavetoverifyyourinfos",
+    "As a professional, You have to verify your information",
+    "As a professional, You have to verify your information"
+  ],
+  "497": [
+    "passport",
+    "Passport",
+    "Passport"
+  ],
+  "498": [
+    "selfiewithpassport",
+    "Take a selfie with your passport",
+    "Take a selfie with your passport"
+  ],
+  "499": [
+    "iconsenttothetermsandconditions",
+    "I consent to the terms and conditions and privacy policy",
+    "I consent to the terms and conditions and privacy policy"
+  ],
+  "500": [
+    "uploadyourpassportpicture",
+    "Upload your passport picture",
+    "Upload your passport picture"
+  ],
+  "501": [
+    "selectfileformdevice",
+    "Select file from device",
+    "Select file from device"
+  ],
+  "502": [
+    "comingsoonselectfilefromdevice",
+    "Select file from device",
+    "Select file from device"
+  ],
+  "503": [
+    "canEditAds",
+    "Can edit ad",
+    "Can edit ad"
+  ],
+  "504": [
+    "canMakeVisit",
+    "Can make visit",
+    "Can make visit"
+  ],
+  "505": [
+    "isPubliclyVisible",
+    "Is publicly visible",
+    "Is publicly visible"
+  ],
+  "506": [
+    "youradsisnotfeatureboostyouradforaweek",
+    "Your ads is not featured :  Boost your ad for One week !",
+    "Your ads is not featured :  Boost your ad for One week !"
+  ],
+  "507": [
+    "clickhere",
+    "Click here",
+    "Click here"
+  ],
+  "508": [
+    "congratulationyouradsisfeaturedulti:",
+    "Congratulation ! Your ad is featured until :",
+    "Congratulation ! Your ad is featured until :"
+  ],
+  "509": [
+    "boostlonger",
+    "Boost Longer ? ",
+    "Boost Longer ? "
+  ],
+  "510": [
+    "contact",
+    "Contact",
+    "Contact"
+  ],
+  "511": [
+    "agencies",
+    "Agencies",
+    "Agencies"
+  ],
+  "512": [
+    "othertab",
+    "Other tab",
+    "Other tab"
+  ],
+  "513": [
+    "export",
+    "Export",
+    "Export"
+  ],
+  "514": [
+    "createcontact",
+    "Create contact",
+    "Create contact"
+  ],
+  "515": [
+    "showing",
+    "Showing",
+    "Showing"
+  ],
+  "516": [
+    "searchanything",
+    "Search anything...",
+    "Search anything..."
+  ],
+  "517": [
+    "contactname",
+    "Contact name",
+    "Contact name"
+  ],
+  "518": [
+    "phone",
+    "Phone",
+    "Phone"
+  ],
+  "519": [
+    "property",
+    "Property",
+    "Property"
+  ],
+  "520": [
+    "status",
+    "Status",
+    "Status"
+  ],
+  "521": [
+    "contactowner",
+    "Contact owner",
+    "Contact owner"
+  ],
+  "522": [
+    "other",
+    "Other",
+    "Other"
+  ],
+  "523": [
+    "add",
+    "Add",
+    "Add"
+  ],
+  "524": [
+    "peopleresponsibleforthisads",
+    "People responsible for this ads",
+    "People responsible for this ads"
+  ],
+  "525": [
+    "createanewcontact",
+    "Create a new contact",
+    "Create a new contact"
+  ],
+  "526": [
+    "statusoflead",
+    "Status of lead",
+    "Status of lead"
+  ],
+  "527": [
+    "create",
+    "Create",
+    "Create"
+  ],
+  "528": [
+    "live",
+    "Live",
+    "Live"
+  ],
+  "529": [
+    "details",
+    "Details",
+    "Details"
+  ],
+  "530": [
+    "lastactivities",
+    "Last activities",
+    "Last activities"
+  ],
+  "531": [
+    "company",
+    "Company",
+    "Company"
+  ],
+  "532": [
+    "callnow",
+    "Call now",
+    "Call now"
+  ],
+  "533": [
+    "chatnow",
+    "Chat now",
+    "Chat now"
+  ],
+  "534": [
+    "more",
+    "More",
+    "More"
+  ],
+  "535": [
+    "clientdetails",
+    "Client details",
+    "Client details"
+  ],
+  "536": [
+    "favorites",
+    "Favorites",
+    "Favorites"
+  ],
+  "537": [
+    "fullname",
+    "Full name",
+    "Full name"
+  ],
+  "538": [
+    "numberphone",
+    "Number phone",
+    "Number phone"
+  ],
+  "539": [
+    "dateofbirth",
+    "Date of birth",
+    "Date of birth"
+  ],
+  "540": [
+    "address",
+    "Address",
+    "Address"
+  ],
+  "541": [
+    "latesttasks",
+    "Latest Tasks",
+    "Latest Tasks"
+  ],
+  "542": [
+    "lastactivites",
+    "Last Activities",
+    "Last Activities"
+  ],
+  "543": [
+    "createdby",
+    "created by",
+    "created by"
+  ],
+  "544": [
+    "due",
+    "Due",
+    "Due"
+  ],
+  "545": [
+    "reminder",
+    "Reminder",
+    "Reminder"
+  ],
+  "546": [
+    "noreminder",
+    "No Reminder",
+    "No Reminder"
+  ],
+  "547": [
+    "taskpriority",
+    "Task priority",
+    "Task priority"
+  ],
+  "548": [
+    "urgent",
+    "Urgent",
+    "Urgent"
+  ],
+  "549": [
+    "assignedtask",
+    "Assigned task",
+    "Assigned task"
+  ],
+  "550": [
+    "overview",
+    "Overview",
+    "Overview"
+  ],
+  "551": [
+    "tasks",
+    "Tasks",
+    "Tasks"
+  ],
+  "552": [
+    "appointments",
+    "Appointments",
+    "Appointments"
+  ],
+  "553": [
+    "billing",
+    "Billing",
+    "Billing"
+  ],
+  "554": [
+    "notes",
+    "Notes",
+    "Notes"
+  ],
+  "555": [
+    "note",
+    "Note",
+    "Note"
+  ],
+  "556": [
+    "documents",
+    "Documents",
+    "Documents"
+  ],
+  "557": [
+    "addnewcomment",
+    "add new comment",
+    "add new comment"
+  ],
+  "558": [
+    "addnewfile",
+    "add new file",
+    "add new file"
+  ],
+  "559": [
+    "edit2",
+    "edit",
+    "edit"
+  ],
+  "560": [
+    "today",
+    "Today",
+    "Today"
+  ],
+  "561": [
+    "seemorepropertiesfromthisowner",
+    "See more properties from this owner",
+    "See more properties from this owner"
+  ],
+  "562": [
+    "bookappointment",
+    "Book appointment",
+    "Book appointment"
+  ],
+  "563": [
+    "requestappointmentwithclient",
+    "Request appointment with client",
+    "Request appointment with client"
+  ],
+  "564": [
+    "addclientfield",
+    "Add client field",
+    "Add client field"
+  ],
+  "565": [
+    "addnote",
+    "Add note",
+    "Add note"
+  ],
+  "566": [
+    "addtask",
+    "Add task",
+    "Add task"
+  ],
+  "567": [
+    "attachdocuments",
+    "Attach documents",
+    "Attach documents"
+  ],
+  "568": [
+    "tasksremaining",
+    "Tasks Remaining",
+    "Tasks Remaining"
+  ],
+  "569": [
+    "tasksdone",
+    "Tasks Done",
+    "Tasks Done"
+  ],
+  "570": [
+    "tasksleft",
+    "Tasks Left",
+    "Tasks Left"
+  ],
+  "571": [
+    "new",
+    "New",
+    "New"
+  ],
+  "572": [
+    "ongoing",
+    "On going",
+    "On going"
+  ],
+  "573": [
+    "completed",
+    "Completed",
+    "Completed"
+  ],
+  "574": [
+    "contactlist",
+    "Contact list",
+    "Contact list"
+  ],
+  "575": [
+    "calendar",
+    "Calendar",
+    "Calendar"
+  ],
+  "576": [
+    "cover",
+    "Cover",
+    "Cover"
+  ],
+  "577": [
+    "task",
+    "Task",
+    "Task"
+  ],
+  "578": [
+    "limitedaccess",
+    "Limited access",
+    "Limited access"
+  ],
+  "579": [
+    "addanewtask",
+    "Add a new task",
+    "Add a new task"
+  ],
+  "580": [
+    "duetoday",
+    "Due today",
+    "Due today"
+  ],
+  "581": [
+    "deadlinetoday",
+    "Deadline today",
+    "Deadline today"
+  ],
+  "582": [
+    "taskdetail",
+    "Task detail",
+    "Task detail"
+  ],
+  "583": [
+    "assignees",
+    "Assignees",
+    "Assignees"
+  ],
+  "584": [
+    "duedate",
+    "Due date",
+    "Due date"
+  ],
+  "585": [
+    "tags",
+    "Tags",
+    "Tags"
+  ],
+  "586": [
+    "createdby2",
+    "Created by",
+    "Created by"
+  ],
+  "587": [
+    "viewers",
+    "Viewers",
+    "Viewers"
+  ],
+  "588": [
+    "activities",
+    "Activities",
+    "Activities"
+  ],
+  "589": [
+    "comments",
+    "Comments",
+    "Comments"
+  ],
+  "590": [
+    "subtask",
+    "Subtask",
+    "Subtask"
+  ],
+  "591": [
+    "attachments",
+    "Attachments",
+    "Attachments"
+  ],
+  "592": [
+    "createanewtask",
+    "Create a new task",
+    "Create a new task"
+  ],
+  "593": [
+    "selectaproject",
+    "Select a project",
+    "Select a project"
+  ],
+  "594": [
+    "day",
+    "Day",
+    "Day"
+  ],
+  "595": [
+    "selectday",
+    "Select day",
+    "Select day"
+  ],
+  "596": [
+    "time",
+    "Time",
+    "Time"
+  ],
+  "597": [
+    "selecttime",
+    "Select time",
+    "Select time"
+  ],
+  "598": [
+    "color",
+    "Color",
+    "Color"
+  ],
+  "599": [
+    "priority",
+    "Priority",
+    "Priority"
+  ],
+  "600": [
+    "selectpriority",
+    "Select priority",
+    "Select priority"
+  ],
+  "601": [
+    "selectstatus",
+    "Select status",
+    "Select status"
+  ],
+  "602": [
+    "assignto",
+    "Assign to",
+    "Assign to"
+  ],
+  "603": [
+    "attachfile",
+    "Attach file",
+    "Attach file"
+  ],
+  "604": [
+    "draganddropthemainpicture",
+    "Drag and Drop the main picture here*",
+    "Drag and Drop the main picture here*"
+  ],
+  "605": [
+    "uploadfronyourdevice",
+    "Upload from your device",
+    "Upload from your device"
+  ],
+  "606": [
+    "uploadfromyourdevice",
+    "Upload from your device",
+    "Upload from your device"
+  ],
+  "607": [
+    "addanewevents",
+    "Add a new events",
+    "Add a new events"
+  ],
+  "608": [
+    "eventdetail",
+    "Event detail",
+    "Event detail"
+  ],
+  "609": [
+    "event",
+    "Event",
+    "Event"
+  ],
+  "610": [
+    "careers",
+    "Careers",
+    "Careers"
+  ],
+  "611": [
+    "our",
+    "Our",
+    "Our"
+  ],
+  "612": [
+    "jobs",
+    "Jobs",
+    "Jobs"
+  ],
+  "613": [
+    "work",
+    "Work",
+    "Work"
+  ],
+  "614": [
+    "personal",
+    "Personal",
+    "Personal"
+  ],
+  "615": [
+    "essentials",
+    "Essentials",
+    "Essentials"
+  ],
+  "616": [
+    "appointment",
+    "Appointment",
+    "Appointment"
+  ],
+  "617": [
+    "createaschedule",
+    "Create a schedule",
+    "Create a schedule"
+  ],
+  "618": [
+    "notification",
+    "Notification",
+    "Notification"
+  ],
+  "619": [
+    "timefrom",
+    "Time-from",
+    "Time-from"
+  ],
+  "620": [
+    "timeto",
+    "Time-to",
+    "Time-to"
+  ],
+  "621": [
+    "addlocation",
+    "Add location",
+    "Add location"
+  ],
+  "622": [
+    "addguests",
+    "Add guests",
+    "Add guests"
+  ],
+  "623": [
+    "selectguest",
+    "Select guest",
+    "Select guest"
+  ],
+  "624": [
+    "sharedcalendar",
+    "Shared calendar",
+    "Shared calendar"
+  ],
+  "625": [
+    "reminderbeforetheevent",
+    "Reminder before the event :",
+    "Reminder before the event :"
+  ],
+  "626": [
+    "crm",
+    "CRM",
+    "CRM"
+  ],
+  "627": [
+    "filter",
+    "Filter",
+    "Filter"
+  ],
+  "628": [
+    "group",
+    "Group",
+    "Group"
+  ],
+  "629": [
+    "creategroup",
+    "Create group",
+    "Create group"
+  ],
+  "630": [
+    "leadstatus",
+    "Lead status",
+    "Lead status"
+  ],
+  "631": [
+    "contacted",
+    "Contacted",
+    "Contacted"
+  ],
+  "632": [
+    "qualified",
+    "Qualified",
+    "Qualified"
+  ],
+  "633": [
+    "nurtured",
+    "Nurtured",
+    "Nurtured"
+  ],
+  "634": [
+    "proposalsent",
+    "Proposal sent",
+    "Proposal sent"
+  ],
+  "635": [
+    "negotiating",
+    "Negotiating",
+    "Negotiating"
+  ],
+  "636": [
+    "closedwon",
+    "Closed - Won",
+    "Closed - Won"
+  ],
+  "637": [
+    "closedlost",
+    "Closed - Lost",
+    "Closed - Lost"
+  ],
+  "638": [
+    "junk",
+    "Junk",
+    "Junk"
+  ],
+  "639": [
+    "addtype",
+    "Add type",
+    "Add type"
+  ],
+  "640": [
+    "leadvalue",
+    "Lead value",
+    "Lead value"
+  ],
+  "641": [
+    "productofservice",
+    "Product of Service",
+    "Product of Service"
+  ],
+  "642": [
+    "agencycollaborator",
+    "Agency collaborator",
+    "Agency collaborator"
+  ],
+  "643": [
+    "realestate",
+    "Real Estate",
+    "Real Estate"
+  ],
+  "644": [
+    "realestate2",
+    "Real Estate",
+    "Real Estate"
+  ],
+  "645": [
+    "name",
+    "Name",
+    "Name"
+  ],
+  "646": [
+    "callvideonow",
+    "Call video now",
+    "Call video now"
+  ],
+  "647": [
+    "emailaddress",
+    "Email address",
+    "Email address"
+  ],
+  "648": [
+    "jobtitle",
+    "Job title",
+    "Job title"
+  ],
+  "649": [
+    "officialaddress",
+    "Official address",
+    "Official address"
+  ],
+  "650": [
+    "source",
+    "Source",
+    "Source"
+  ],
+  "651": [
+    "leadscore",
+    "Lead score",
+    "Lead score"
+  ],
+  "652": [
+    "commissionrateforthislead",
+    "Commission Rate for this Lead",
+    "Commission Rate for this Lead"
+  ],
+  "653": [
+    "document",
+    "Document",
+    "Document"
+  ],
+  "654": [
+    "adddocuments",
+    "Add documents",
+    "Add documents"
+  ],
+  "655": [
+    "product",
+    "Product",
+    "Product"
+  ],
+  "656": [
+    "products",
+    "Products",
+    "Products"
+  ],
+  "657": [
+    "productdetails",
+    "Product details",
+    "Product details"
+  ],
+  "658": [
+    "productcategory",
+    "Product category",
+    "Product category"
+  ],
+  "659": [
+    "referenceid",
+    "Reference (ID)",
+    "Reference (ID)"
+  ],
+  "660": [
+    "messagedeleted",
+    "The message has been deleted",
+    "The message has been deleted"
+  ],
+  "661": [
+    "createbilling",
+    "Create billing",
+    "Create billing"
+  ],
+  "662": [
+    "sendemail",
+    "Send email",
+    "Send email"
+  ],
+  "663": [
+    "planandbilling",
+    "Plan and billing",
+    "Plan and billing"
+  ],
+  "664": [
+    "upgradeplan",
+    "Upgrade plan",
+    "Upgrade plan"
+  ],
+  "665": [
+    "permonth",
+    "/ per month",
+    "/ per month"
+  ],
+  "666": [
+    "mastercard",
+    "Mastercard",
+    "Mastercard"
+  ],
+  "667": [
+    "paymentmethod",
+    "Payment method",
+    "Payment method"
+  ],
+  "668": [
+    "expdate",
+    "Exp. date",
+    "Exp. date"
+  ],
+  "669": [
+    "billinghistory",
+    "Billing history",
+    "Billing history"
+  ],
+  "670": [
+    "downloadall",
+    "Download all",
+    "Download all"
+  ],
+  "671": [
+    "plan",
+    "Plan",
+    "Plan"
+  ],
+  "672": [
+    "recipient",
+    "Recipient",
+    "Recipient"
+  ],
+  "673": [
+    "pending",
+    "Pending",
+    "Pending"
+  ],
+  "674": [
+    "paid",
+    "Paid",
+    "Paid"
+  ],
+  "675": [
+    "sendon",
+    "Send on",
+    "Send on"
+  ],
+  "676": [
+    "dueon",
+    "Due on",
+    "Due on"
+  ],
+  "677": [
+    "emailrecipient",
+    "Email Recipient",
+    "Email Recipient"
+  ],
+  "678": [
+    "dropdragthemainpdfdocexcelhere",
+    "Drag and Drop the main .Pdf, .Doc .Excel here*",
+    "Drag and Drop the main .Pdf, .Doc .Excel here*"
+  ],
+  "679": [
+    "invoicepaid",
+    "Invoice paid",
+    "Invoice paid"
+  ],
+  "680": [
+    "downloadfile",
+    "Download file",
+    "Download file"
+  ],
+  "681": [
+    "createnote",
+    "Create note",
+    "Create note"
+  ],
+  "682": [
+    "mynote",
+    "My note",
+    "My note"
+  ],
+  "683": [
+    "notedetail",
+    "Note detail",
+    "Note detail"
+  ],
+  "684": [
+    "folder",
+    "Folder",
+    "Folder"
+  ],
+  "685": [
+    "image",
+    "Image",
+    "Image"
+  ],
+  "686": [
+    "standout",
+    "Stand Out",
+    "Stand Out"
+  ],
+  "687": [
+    "withsignage",
+    " with\nSignage",
+    " with\nSignage"
+  ],
+  "688": [
+    "readtoupgradeyoureastatebusiness",
+    "Ready to Upgrade Your Real Estate Business? Homelido Has the Digital Tools You Need",
+    "Ready to Upgrade Your Real Estate Business? Homelido Has the Digital Tools You Need"
+  ],
+  "689": [
+    "getstarted",
+    "Get Started",
+    "Get Started"
+  ],
+  "690": [
+    "yourbusiness",
+    "YOUR BUSINESS",
+    "YOUR BUSINESS"
+  ],
+  "691": [
+    "doyouwanttoknow",
+    "Do you want to know ",
+    "Do you want to know "
+  ],
+  "692": [
+    "howtoget",
+    "how to get:",
+    "how to get:"
+  ],
+  "693": [
+    "moremandates",
+    "More Mandates?",
+    "More Mandates?"
+  ],
+  "694": [
+    "moremandatesnote",
+    "Lorem ipsum dolor sit amet\nconsectetur.",
+    "Lorem ipsum dolor sit amet\nconsectetur."
+  ],
+  "695": [
+    "btterworkfolws",
+    "Better Workflows?",
+    "Better Workflows?"
+  ],
+  "696": [
+    "btterworkfolwsnote",
+    "Better Workflows?",
+    "Better Workflows?"
+  ],
+  "697": [
+    "lessexpenses",
+    "Less Expenses?",
+    "Less Expenses?"
+  ],
+  "698": [
+    "lessexpensesnote",
+    "Less Expenses?",
+    "Less Expenses?"
+  ],
+  "699": [
+    "1step",
+    "1.STEP",
+    "1.STEP"
+  ],
+  "700": [
+    "2step",
+    "2.STEP",
+    "2.STEP"
+  ],
+  "701": [
+    "case",
+    "Case",
+    "Case"
+  ],
+  "702": [
+    "areyouathomassophieor",
+    "Are you a Thomas, a Sophie, or a David in the real estate world?",
+    "Are you a Thomas, a Sophie, or a David in the real estate world?"
+  ],
+  "703": [
+    "discover",
+    "Discover",
+    "Discover"
+  ],
+  "704": [
+    "whyanthonygetsmoremandates",
+    "why Anthony gets more mandates",
+    "why Anthony gets more mandates"
+  ],
+  "705": [
+    "whyanthonygetsmoremandatesnote",
+    "Let's find out why your brand is your greatest asset when it comes to acquiring new customers in the short and long term.",
+    "Let's find out why your brand is your greatest asset when it comes to acquiring new customers in the short and long term."
+  ],
+  "706": [
+    "datedriven",
+    "DATA-DRIVEN",
+    "DATA-DRIVEN"
+  ],
+  "707": [
+    "embracing",
+    "Embracing ",
+    "Embracing "
+  ],
+  "708": [
+    "thepossibilities",
+    "the\npossibilities",
+    "the\npossibilities"
+  ],
+  "709": [
+    "thepossibilitiesnote",
+    "The Future is Digital: Don't Miss Out on the Benefits of Digital Signage for Your Real Estate Agency",
+    "The Future is Digital: Don't Miss Out on the Benefits of Digital Signage for Your Real Estate Agency"
+  ],
+  "710": [
+    "areyourready",
+    "are your ready",
+    "are your ready"
+  ],
+  "711": [
+    "tobecomehomelidocomliant",
+    " to become Homelido Compliant ?",
+    " to become Homelido Compliant ?"
+  ],
+  "712": [
+    "tobecomehomelidocomliant1",
+    "With Homelido's ",
+    "With Homelido's "
+  ],
+  "713": [
+    "tobecomehomelidocomliant2",
+    "powerful CMS ",
+    "powerful CMS "
+  ],
+  "714": [
+    "tobecomehomelidocomliant3",
+    "(Content Management System) and ",
+    "(Content Management System) and "
+  ],
+  "715": [
+    "tobecomehomelidocomliant4",
+    "dynamic showcase screens ",
+    "dynamic showcase screens "
+  ],
+  "716": [
+    "tobecomehomelidocomliant5",
+    "you can say goodbye to the hassle of ",
+    "you can say goodbye to the hassle of "
+  ],
+  "717": [
+    "tobecomehomelidocomliant6",
+    "attracting clients ",
+    "attracting clients "
+  ],
+  "718": [
+    "tobecomehomelidocomliant7",
+    "while you take ",
+    "while you take "
+  ],
+  "719": [
+    "tobecomehomelidocomliant8",
+    "your brand image ",
+    "your brand image "
+  ],
+  "720": [
+    "tobecomehomelidocomliant9",
+    "to new heights and leave your competitors in the dust. Get ready to optimize the way you do business \u2013 let ",
+    "to new heights and leave your competitors in the dust. Get ready to optimize the way you do business \u2013 let "
+  ],
+  "721": [
+    "tobecomehomelidocomliant10",
+    "Homelido ",
+    "Homelido "
+  ],
+  "722": [
+    "tobecomehomelidocomliant11",
+    "show you the way.",
+    "show you the way."
+  ],
+  "723": [
+    "createyouradsincms",
+    "1. Create your ads in the CMS",
+    "1. Create your ads in the CMS"
+  ],
+  "724": [
+    "createyouradsincms1",
+    "Streamline your real estate agency activities with Homelido's all-in-one PropTech tool. ",
+    "Streamline your real estate agency activities with Homelido's all-in-one PropTech tool. "
+  ],
+  "725": [
+    "createyouradsincms2",
+    "Our centralized dashboard and intuitive CMS make it easy to create, manage, and showcase your real estate ads using our high-definition Digital Showcase Screens.",
+    "Our centralized dashboard and intuitive CMS make it easy to create, manage, and showcase your real estate ads using our high-definition Digital Showcase Screens."
+  ],
+  "726": [
+    "pushonshowcasescreen",
+    "2. Publish on Showcase Screen",
+    "2. Publish on Showcase Screen"
+  ],
+  "727": [
+    "pushonshowcasescreen1",
+    "Efficiently manage your ads on the screen with just two clicks using our new CMS and showcase screens.",
+    "Efficiently manage your ads on the screen with just two clicks using our new CMS and showcase screens."
+  ],
+  "728": [
+    "pushonshowcasescreen2",
+    "Create and edit ads quickly and easily, and display them in an attractive way to attract potential buyers.",
+    "Create and edit ads quickly and easily, and display them in an attractive way to attract potential buyers."
+  ],
+  "729": [
+    "getviewed",
+    "3. Get viewed",
+    "3. Get viewed"
+  ],
+  "730": [
+    "getviewed1",
+    " Attract more potential buyers, and increase your revenue",
+    " Attract more potential buyers, and increase your revenue"
+  ],
+  "731": [
+    "getviewed2",
+    "Homelido allows property managers to track leases, manage requests, and handle  communication all in one place.",
+    "Homelido allows property managers to track leases, manage requests, and handle  communication all in one place."
+  ],
+  "732": [
+    "creating",
+    "Creating ",
+    "Creating "
+  ],
+  "733": [
+    "thelastingimpression",
+    "The Lasting Impression",
+    "The Lasting Impression"
+  ],
+  "734": [
+    "digitalscreenpackage",
+    "Digital Screen Package",
+    "Digital Screen Package"
+  ],
+  "735": [
+    "digitalscreenpackagenote",
+    "Our solutions come with all the equipment you need, fully compatible with our application. With easy installation, you can quickly set up and use our technology in your real estate agency.",
+    "Our solutions come with all the equipment you need, fully compatible with our application. With easy installation, you can quickly set up and use our technology in your real estate agency."
+  ],
+  "736": [
+    "digitalscreenpackage1",
+    "High brightness\nscreen",
+    "High brightness\nscreen"
+  ],
+  "737": [
+    "digitalscreenpackage2",
+    "A pre-configured\nmini PC",
+    "A pre-configured\nmini PC"
+  ],
+  "738": [
+    "digitalscreenpackage3",
+    "A screen\nsupport",
+    "A screen\nsupport"
+  ],
+  "739": [
+    "digitalscreenpackage4",
+    "On-site\ninstallation",
+    "On-site\ninstallation"
+  ],
+  "740": [
+    "getourscreencatelougehere",
+    "Get our screen catalogue here",
+    "Get our screen catalogue here"
+  ],
+  "741": [
+    "introuchomelidoeshowcasescreen",
+    "Introducing Homelido's Showcase Screens: The ",
+    "Introducing Homelido's Showcase Screens: The "
+  ],
+  "742": [
+    "ulimatetoolforyourrealeastateads",
+    "\nUltimate Tool for Your Real Estate Ads",
+    "\nUltimate Tool for Your Real Estate Ads"
+  ],
+  "743": [
+    "getyouragenceyfullyhomelidocomplianttoday",
+    "Get your Agency fully\nHomlido compliant today",
+    "Get your Agency fully\nHomlido compliant today"
+  ],
+  "744": [
+    "getcompliant",
+    "Get compliant",
+    "Get compliant"
+  ],
+  "745": [
+    "getcompliant1",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "746": [
+    "getcompliant2",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "747": [
+    "getcompliant3",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "748": [
+    "getcompliant4",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "749": [
+    "getcompliant5",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "750": [
+    "getcompliant6",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. ",
+    "Manage every step of the Real Estate process, from construction to managing and referencing estates. "
+  ],
+  "751": [
+    "faqs",
+    "FAQs",
+    "FAQs"
+  ],
+  "752": [
+    "weaccompanyyou",
+    "We accompany you ",
+    "We accompany you "
+  ],
+  "753": [
+    "oneverystep",
+    "on every step",
+    "on every step"
+  ],
+  "754": [
+    "faqs1q",
+    "Why should I invest in showcase screens for my real estate agency?",
+    "Why should I invest in showcase screens for my real estate agency?"
+  ],
+  "755": [
+    "faqs4q",
+    "Why should I invest in showcase screens for my real estate agency?",
+    "Why should I invest in showcase screens for my real estate agency?"
+  ],
+  "756": [
+    "faqs5q",
+    "Why should I invest in showcase screens for my real estate agency?",
+    "Why should I invest in showcase screens for my real estate agency?"
+  ],
+  "757": [
+    "faqs6q",
+    "Why should I invest in showcase screens for my real estate agency?",
+    "Why should I invest in showcase screens for my real estate agency?"
+  ],
+  "758": [
+    "faqs1a",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency."
+  ],
+  "759": [
+    "faqs4a",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency."
+  ],
+  "760": [
+    "faqs5a",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency."
+  ],
+  "761": [
+    "faqs6a",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.",
+    "Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency."
+  ],
+  "762": [
+    "faqs2q",
+    "How much maintenance do the showcase screens require?",
+    "How much maintenance do the showcase screens require?"
+  ],
+  "763": [
+    "faqs2a",
+    "The showcase screens are designed to be low-maintenance. They come with a protective cover to prevent scratches and other damage. We also provide regular software updates to ensure that the screens are always functioning at their best.",
+    "The showcase screens are designed to be low-maintenance. They come with a protective cover to prevent scratches and other damage. We also provide regular software updates to ensure that the screens are always functioning at their best."
+  ],
+  "764": [
+    "faqs3q",
+    "How much do the showcase screens cost?",
+    "How much do the showcase screens cost?"
+  ],
+  "765": [
+    "faqs3a",
+    "Our showcase screens are available for purchase at a special rate of only \u20ac899 per unit for Homelido clients. Additionally, when you purchase showcase screens from us, you get access to the complete Homelido Platform for only \u20ac89 per month, compared to the regular price of over \u20ac200 per month. It's a great deal that gives you access to all of our powerful tools and",
+    "Our showcase screens are available for purchase at a special rate of only \u20ac899 per unit for Homelido clients. Additionally, when you purchase showcase screens from us, you get access to the complete Homelido Platform for only \u20ac89 per month, compared to the regular price of over \u20ac200 per month. It's a great deal that gives you access to all of our powerful tools and"
+  ],
+  "766": [
+    "personalizedproject",
+    "Personalized Project",
+    "Personalized Project"
+  ],
+  "767": [
+    "personalizedprojectnote",
+    "Our showcase screens come in a range of sizes and specifications to suit any real estate agency's needs. Prices starting at just 3000\u20ac, our showcase screens are an affordable investment that will pay off in no time.",
+    "Our showcase screens come in a range of sizes and specifications to suit any real estate agency's needs. Prices starting at just 3000\u20ac, our showcase screens are an affordable investment that will pay off in no time."
+  ],
+  "768": [
+    "exclusuvedeal:",
+    "Exclusive Deal:\n",
+    "Exclusive Deal:\n"
+  ],
+  "769": [
+    "getaccesstotheentire",
+    "Get Access to the entire Homelido Platform",
+    "Get Access to the entire Homelido Platform"
+  ],
+  "770": [
+    "getaccesstotheentirenote",
+    "when you purchase a showcase screen from Homelido, you'll also gain access to our complete platform for just 89\u20ac per month. This is an exclusive offer for our showcase screen customers, giving you access to all the features and benefits of Homelido's powerful PropTech tool at a fraction of the regular cost.",
+    "when you purchase a showcase screen from Homelido, you'll also gain access to our complete platform for just 89\u20ac per month. This is an exclusive offer for our showcase screen customers, giving you access to all the features and benefits of Homelido's powerful PropTech tool at a fraction of the regular cost."
+  ],
+  "771": [
+    "followergrowth1",
+    "Follower Growth",
+    "Follower Growth"
+  ],
+  "772": [
+    "followergrowth2",
+    "Follower Growth",
+    "Follower Growth"
+  ],
+  "773": [
+    "followergrowth3",
+    "Follower Growth",
+    "Follower Growth"
+  ],
+  "774": [
+    "followergrowthnote1",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency."
+  ],
+  "775": [
+    "followergrowthnote2",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency."
+  ],
+  "776": [
+    "followergrowthnote3",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.",
+    "Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency."
+  ],
+  "777": [
+    "moreviews",
+    "More views",
+    "More views"
+  ],
+  "778": [
+    "reimagine",
+    "Reimagine ",
+    "Reimagine "
+  ],
+  "779": [
+    "realestate2note",
+    "Join us to reivent the future of real estate with cutting-\nedge tools. Experience the difference.",
+    "Join us to reivent the future of real estate with cutting-\nedge tools. Experience the difference."
+  ],
+  "780": [
+    "areyouanageninvestervv",
+    "Are you an agent, investor, property manager, #proptech enthusiast....?",
+    "Are you an agent, investor, property manager, #proptech enthusiast....?"
+  ],
+  "781": [
+    "areyouanageninvestervv2",
+    "Built with us the future of real estate together",
+    "Built with us the future of real estate together"
+  ],
+  "782": [
+    "getin",
+    "Get in ",
+    "Get in "
+  ],
+  "783": [
+    "touch",
+    "Touch",
+    "Touch"
+  ],
+  "784": [
+    "enteryourphoneadcalledback",
+    "Submitting your inquiry is a virtual handshake ! We're excited to learn more about you and will be in touch soon.",
+    "Submitting your inquiry is a virtual handshake ! We're excited to learn more about you and will be in touch soon."
+  ],
+  "785": [
+    "send",
+    "Send",
+    "Send"
+  ],
+  "786": [
+    "enteryoupreauthcode",
+    "Enter you pre-authorized code here",
+    "Enter you pre-authorized code here"
+  ],
+  "787": [
+    "selectyourposition",
+    "Select your position",
+    "Select your position"
+  ],
+  "788": [
+    "organisationname",
+    "Organisation name",
+    "Organisation name"
+  ],
+  "789": [
+    "enteryoufullname",
+    "Enter your full name",
+    "Enter your full name"
+  ],
+  "790": [
+    "enteryourphone",
+    "Enter your phone",
+    "Enter your phone"
+  ],
+  "791": [
+    "enteryouphone",
+    "Enter your phone",
+    "Enter your phone"
+  ],
+  "792": [
+    "enteryouremail",
+    "Enter your email",
+    "Enter your email"
+  ],
+  "793": [
+    "enteryouemail",
+    "Enter your email",
+    "Enter your email"
+  ],
+  "794": [
+    "comment",
+    "Comment",
+    "Comment"
+  ],
+  "795": [
+    "comingsoonuploadvideofiel",
+    "Upload video file",
+    "Upload video file"
+  ],
+  "796": [
+    "comingsoonuploadvideofielnote",
+    "Please upload a short intro video of yourself and tell us why you want to work with us and what you expect from the collaboration. We would be happy to get to know you better!",
+    "Please upload a short intro video of yourself and tell us why you want to work with us and what you expect from the collaboration. We would be happy to get to know you better!"
+  ],
+  "797": [
+    "sendmyapplication",
+    "Send my application",
+    "Send my application"
+  ],
+  "798": [
+    "comingsoonselectotherfilefromdevice",
+    "Select other file from device",
+    "Select other file from device"
+  ],
+  "799": [
+    "comingsoonuploadvideofielnote2",
+    "Add a video File (mp4, mov)  max 1Gb",
+    "Add a video File (mp4, mov)  max 1Gb"
+  ],
+  "800": [
+    "applicant",
+    "Applicant",
+    "Applicant"
+  ],
+  "801": [
+    "selectedfile@name",
+    "Selected: @name",
+    "Selected: @name"
+  ],
+  "802": [
+    "comingsoon_thankyou",
+    "Thank you!",
+    "Thank you!"
+  ],
+  "803": [
+    "comingsoon_thankyounote",
+    "Thank you for submitting your application! We\nappreciate your interest and will review it as\nsoon as posiable. You can expect to hear back\nfrom us in the future",
+    "Thank you for submitting your application! We\nappreciate your interest and will review it as\nsoon as posiable. You can expect to hear back\nfrom us in the future"
+  ],
+  "804": [
+    "seemyourcodenotcorrect",
+    "Sorry, the authentication code you entered is incorrect. Please try again",
+    "Sorry, the authentication code you entered is incorrect. Please try again"
+  ],
+  "805": [
+    "experienceSaleshowmanyyear",
+    "How many years of sales experience do you have?",
+    "How many years of sales experience do you have?"
+  ],
+  "806": [
+    "networkRealEstate",
+    "Do you have a real estate network to leverage for future business development?",
+    "Do you have a real estate network to leverage for future business development?"
+  ],
+  "807": [
+    "seemyourcodealreadysubmited",
+    "Sorry, this authentication code has already been used.",
+    "Sorry, this authentication code has already been used."
+  ],
+  "808": [
+    "strangethingswithyourrequest",
+    "Strange thing with your request, please try again!",
+    "Strange thing with your request, please try again!"
+  ],
+  "809": [
+    "hours",
+    "Hours",
+    "Hours"
+  ],
+  "810": [
+    "mins",
+    "Mins",
+    "Mins"
+  ],
+  "811": [
+    "secs",
+    "Sec",
+    "Sec"
+  ],
+  "812": [
+    "agreeandapply",
+    "Agree & Send",
+    "Agree & Send"
+  ],
+  "813": [
+    "privacypolicy",
+    "Privacy Policy",
+    "Privacy Policy"
+  ],
+  "814": [
+    "comingsoon_privacy",
+    "Privacy Policy",
+    "Privacy Policy"
+  ],
+  "815": [
+    "comingsoon_privacynote",
+    "By submiting my application I accept the  flowing conditions  and privacy policy",
+    "By submiting my application I accept the  flowing conditions  and privacy policy"
+  ],
+  "816": [
+    "ilivein",
+    "My Current Country",
+    "My Current Country"
+  ],
+  "817": [
+    "ispeack",
+    "I speak ",
+    "I speak "
+  ],
+  "818": [
+    "days2",
+    "Days",
+    "Days"
+  ],
+  "819": [
+    "fileuploading:",
+    "Files uploading:",
+    "Files uploading:"
+  ],
+  "820": [
+    "chooseafolder",
+    "Choose a folder",
+    "Choose a folder"
+  ],
+  "821": [
+    "createanewfolder",
+    "Create a new folder",
+    "Create a new folder"
+  ],
+  "822": [
+    "draganddropyourfilehere",
+    "Drag and Drop your file here*",
+    "Drag and Drop your file here*"
+  ],
+  "823": [
+    "link",
+    "Link",
+    "Link"
+  ],
+  "824": [
+    "adddocument",
+    "Add document",
+    "Add document"
+  ],
+  "825": [
+    "allfolders",
+    "All folders",
+    "All folders"
+  ],
+  "826": [
+    "allfiles",
+    "All files",
+    "All files"
+  ],
+  "827": [
+    "documentdetail",
+    "Document detail",
+    "Document detail"
+  ],
+  "828": [
+    "up",
+    "Up",
+    "Up"
+  ],
+  "829": [
+    "newfolder",
+    "New folder",
+    "New folder"
+  ],
+  "830": [
+    "fileupload",
+    "File upload",
+    "File upload"
+  ],
+  "831": [
+    "uploadfolder",
+    "Upload folder",
+    "Upload folder"
+  ],
+  "832": [
+    "searchingyourposition",
+    "searching\nyour position",
+    "searching\nyour position"
+  ],
+  "833": [
+    "iamwaitting",
+    "... I'm waiting",
+    "... I'm waiting"
+  ],
+  "834": [
+    "call",
+    "Call",
+    "Call"
+  ],
+  "835": [
+    "seetheprofile",
+    "See the profile",
+    "See the profile"
+  ],
+  "836": [
+    "privateowner",
+    "Private Owner",
+    "Private Owner"
+  ],
+  "837": [
+    "professional",
+    "Professional",
+    "Professional"
+  ],
+  "838": [
+    "reference:",
+    "Reference:",
+    "Reference:"
+  ],
+  "839": [
+    "seepropertiesfromthisagency",
+    "See properties from this agency",
+    "See properties from this agency"
+  ],
+  "840": [
+    "liveonly",
+    "Live only",
+    "Live only"
+  ],
+  "841": [
+    "selectastatuschat",
+    "Select a status chat",
+    "Select a status chat"
+  ],
+  "842": [
+    "sort",
+    "Sort",
+    "Sort"
+  ],
+  "843": [
+    "youdonnothaveaccountyet",
+    "You don't have yet an account ? ",
+    "You don't have yet an account ? "
+  ],
+  "844": [
+    "homelidoprofessinal",
+    "Homelido professionial : ",
+    "Homelido professionial : "
+  ],
+  "845": [
+    "accountconfiguration",
+    "account configuration",
+    "account configuration"
+  ],
+  "846": [
+    "needhelp",
+    "Need help ?",
+    "Need help ?"
+  ],
+  "847": [
+    "clickheretowatchanexpaliner",
+    "click here to watch an expaliner",
+    "click here to watch an expaliner"
+  ],
+  "848": [
+    "youare:",
+    "You are:",
+    "You are:"
+  ],
+  "849": [
+    "agencymanager",
+    "Agency Manager",
+    "Agency Manager"
+  ],
+  "850": [
+    "agencymanagernote",
+    "You, as a construction professional, have the power to turn designs into reality and create functional spaces that improve people's lives. Your dedication and hard work are crucial to the success of every project, ",
+    "You, as a construction professional, have the power to turn designs into reality and create functional spaces that improve people's lives. Your dedication and hard work are crucial to the success of every project, "
+  ],
+  "851": [
+    "youchoose",
+    "You choose : ",
+    "You choose : "
+  ],
+  "852": [
+    "agencymanagernote1",
+    "I'm an agency\nmanager",
+    "I'm an agency\nmanager"
+  ],
+  "853": [
+    "agencymanagernote2",
+    "I own my own agency and\nI'm working  with several\nagents",
+    "I own my own agency and\nI'm working  with several\nagents"
+  ],
+  "854": [
+    "agencymanagernote3",
+    "I've the licence and the\nright to practice this\nprofession in my country",
+    "I've the licence and the\nright to practice this\nprofession in my country"
+  ],
+  "855": [
+    "agencymanagernote4",
+    "I'm not an independent\nagent working alone",
+    "I'm not an independent\nagent working alone"
+  ],
+  "856": [
+    "agencymanagerconfirm1",
+    "I understand that my account will be verified by a Homelido member and may be deleted  if my profile does not meet the requirements of the platform.",
+    "I understand that my account will be verified by a Homelido member and may be deleted  if my profile does not meet the requirements of the platform."
+  ],
+  "857": [
+    "agencymanagerconfirm2",
+    "I understand that my account will be verot meet the requirements of the platform.",
+    "I understand that my account will be verot meet the requirements of the platform."
+  ],
+  "858": [
+    "asname",
+    "As @name :",
+    "As @name :"
+  ],
+  "859": [
+    "asagenceymanager1",
+    "One more case",
+    "One more case"
+  ],
+  "860": [
+    "asagenceymanager2",
+    "All agents working with you will take profits of your subscription",
+    "All agents working with you will take profits of your subscription"
+  ],
+  "861": [
+    "asagenceymanager5",
+    "All agents working with you will take profits of your subscription",
+    "All agents working with you will take profits of your subscription"
+  ],
+  "862": [
+    "asagenceymanager3",
+    "The interface will be adjusted to brings you relevant tools to manage your mandateto collaborate with your team, and more",
+    "The interface will be adjusted to brings you relevant tools to manage your mandateto collaborate with your team, and more"
+  ],
+  "863": [
+    "asagenceymanager4",
+    "the interface will be adjusted to bringsyou relevant tools to manage your mandateto collaborate with your team, and more",
+    "the interface will be adjusted to bringsyou relevant tools to manage your mandateto collaborate with your team, and more"
+  ],
+  "864": [
+    "asagenceymanagermoon",
+    "You get access to moonn app for free to promote, manage and improve you daily work !",
+    "You get access to moonn app for free to promote, manage and improve you daily work !"
+  ],
+  "865": [
+    "knowmoreaboutthis",
+    "Know more about this",
+    "Know more about this"
+  ],
+  "866": [
+    "downloadhere",
+    "Download here",
+    "Download here"
+  ],
+  "867": [
+    "iwanttobackandcheckmorecases",
+    "Oops ! I want to go back and check more cases",
+    "Oops ! I want to go back and check more cases"
+  ],
+  "868": [
+    "iconfirmmychoice",
+    "I confirm my choice",
+    "I confirm my choice"
+  ],
+  "869": [
+    "welcometohomelidoprofessional",
+    "Welcome to Homelido professional",
+    "Welcome to Homelido professional"
+  ],
+  "870": [
+    "clickheretowatcha1minvideo",
+    "Click here to watch a 1 min video explainer",
+    "Click here to watch a 1 min video explainer"
+  ],
+  "871": [
+    "caretaker",
+    "Caretaker",
+    "Caretaker"
+  ],
+  "872": [
+    "aprofessionalinconstruction",
+    "A Professional\nin Construction",
+    "A Professional\nin Construction"
+  ],
+  "873": [
+    "needtoconquieretheworld",
+    "Need to conquiere the world ?",
+    "Need to conquiere the world ?"
+  ],
+  "874": [
+    "worldpass",
+    "World pass",
+    "World pass"
+  ],
+  "875": [
+    "onecountryincludeinyoursubscription",
+    "One country include in your subscription",
+    "One country include in your subscription"
+  ],
+  "876": [
+    "everyadsyouwillpublishwithyouraccount",
+    "Every ads you will publish with your account must be located in {} only",
+    "Every ads you will publish with your account must be located in {} only"
+  ],
+  "877": [
+    "backtocart",
+    "Back to cart",
+    "Back to cart"
+  ],
+  "878": [
+    "procedtocheckout",
+    "Proceed to Checkout",
+    "Proceed to Checkout"
+  ],
+  "879": [
+    "mybillinginfos",
+    "My Billing Infos",
+    "My Billing Infos"
+  ],
+  "880": [
+    "delivery ",
+    "Delivery ",
+    "Delivery "
+  ],
+  "881": [
+    "givesomeinstrictionfordelevry",
+    "Give some instructions for delivery (access code, indications, ...)",
+    "Give some instructions for delivery (access code, indications, ...)"
+  ],
+  "882": [
+    "givesomeinstrictionfordelevrynote",
+    "ex: The code property is #2345, you can go by the backyard, please leave the package to the caretaker",
+    "ex: The code property is #2345, you can go by the backyard, please leave the package to the caretaker"
+  ],
+  "883": [
+    "productref",
+    "Product ref",
+    "Product ref"
+  ],
+  "884": [
+    "screens",
+    "Screens",
+    "Screens"
+  ],
+  "885": [
+    "deliveryaddress",
+    "Delivery address",
+    "Delivery address"
+  ],
+  "886": [
+    "notlive",
+    "Not live",
+    "Not live"
+  ],
+  "887": [
+    "mandate_title_1",
+    "Privacy Please",
+    "Privacy Please"
+  ],
+  "888": [
+    "privacyplease",
+    "Privacy Please",
+    "Privacy Please"
+  ],
+  "889": [
+    "mandate_content_1",
+    "Don't want to be bothered by pushy agents? No problem! Select \"Privacy Please\" and enjoy a peaceful selling experience without any interruptions. You'll have full control over your property listing, without having to worry about unsolicited calls or emails",
+    "Don't want to be bothered by pushy agents? No problem! Select \"Privacy Please\" and enjoy a peaceful selling experience without any interruptions. You'll have full control over your property listing, without having to worry about unsolicited calls or emails"
+  ],
+  "890": [
+    "mandate_title_2",
+    "Sell Fast, Win Big",
+    "Sell Fast, Win Big"
+  ],
+  "891": [
+    "sellfastwinbig",
+    "Sell Fast, Win Big",
+    "Sell Fast, Win Big"
+  ],
+  "892": [
+    "mandate_content_2",
+    "Want to sell your property quickly and efficiently? Look no further than \"Sell Fast, Win Big.\" By allowing any agent to compete for the sale, you'll get the best offers and maximize your chances of a quick sale. Whoever sells your property first at the price you want, wins the commission!",
+    "Want to sell your property quickly and efficiently? Look no further than \"Sell Fast, Win Big.\" By allowing any agent to compete for the sale, you'll get the best offers and maximize your chances of a quick sale. Whoever sells your property first at the price you want, wins the commission!"
+  ],
+  "893": [
+    "mandate_title_3",
+    "Your Pick, Our Priority",
+    "Your Pick, Our Priority"
+  ],
+  "894": [
+    "yourpickourpriority",
+    "Your Pick, Our Priority",
+    "Your Pick, Our Priority"
+  ],
+  "895": [
+    "mandate_content_3",
+    "Want to work with the best agent for your property? With \"Your Pick, Our Priority,\" you'll have the chance to receive offers from multiple agents and choose the one that fits you best. Let the agents compete for your business, and you'll end up with the perfect match.",
+    "Want to work with the best agent for your property? With \"Your Pick, Our Priority,\" you'll have the chance to receive offers from multiple agents and choose the one that fits you best. Let the agents compete for your business, and you'll end up with the perfect match."
+  ],
+  "896": [
+    "select",
+    "Select",
+    "Select"
+  ],
+  "897": [
+    "mandate",
+    "Mandate",
+    "Mandate"
+  ],
+  "898": [
+    "availability",
+    "Availability",
+    "Availability"
+  ],
+  "899": [
+    "availablefromnote",
+    "Choose the date from which the property will be available. This will allow potential tenants to see available dates for renting your property.",
+    "Choose the date from which the property will be available. This will allow potential tenants to see available dates for renting your property."
+  ],
+  "900": [
+    "availablefromnoteifdonnotknow",
+    "If you don't know yet, check this box",
+    "If you don't know yet, check this box"
+  ],
+  "901": [
+    "invoiceno",
+    "Invoice No",
+    "Invoice No"
+  ],
+  "902": [
+    "invoiceto",
+    "Invoice To",
+    "Invoice To"
+  ],
+  "903": [
+    "creditcard",
+    "Credit card",
+    "Credit card"
+  ],
+  "904": [
+    "tax",
+    "Tax",
+    "Tax"
+  ],
+  "905": [
+    "item",
+    "Item",
+    "Item"
+  ],
+  "906": [
+    "qty",
+    "Qty",
+    "Qty"
+  ],
+  "907": [
+    "mychat",
+    "My chat",
+    "My chat"
+  ],
+  "908": [
+    "groups",
+    "Groups",
+    "Groups"
+  ],
+  "909": [
+    "muteallconversation",
+    "Mute all conversation",
+    "Mute all conversation"
+  ],
+  "910": [
+    "yourodernumber",
+    "Your ordernumber",
+    "Your ordernumber"
+  ],
+  "911": [
+    "enteryourodernumber",
+    "Enter your ordernumber",
+    "Enter your ordernumber"
+  ],
+  "912": [
+    "seemyinvoice",
+    "See my invoice",
+    "See my invoice"
+  ],
+  "913": [
+    "seemyinvoiceerror",
+    "Please verify the order number as it cannot be found in the system",
+    "Please verify the order number as it cannot be found in the system"
+  ],
+  "914": [
+    "seemhavehavesomeerrorwhenuploadlettryagaon",
+    "Seem have problem when upload your image, try again?",
+    "Seem have problem when upload your image, try again?"
+  ],
+  "915": [
+    "sending...",
+    "Sending...",
+    "Sending..."
+  ],
+  "916": [
+    "sending...applynote",
+    "Please wait and do not close the pop-up or browser window during the upload process, especially for large files. The process can take a few minutes depending on your internet speed. Once the upload is complete, you will receive a confirmation message on the screen. Thank you for your patience.",
+    "Please wait and do not close the pop-up or browser window during the upload process, especially for large files. The process can take a few minutes depending on your internet speed. Once the upload is complete, you will receive a confirmation message on the screen. Thank you for your patience."
+  ],
+  "917": [
+    "oops...",
+    "Oops...",
+    "Oops..."
+  ],
+  "918": [
+    "oops...applynote1",
+    "We're sorry, but it looks like something went wrong. There may be several causes, such as a bad internet connection, current network problems or even a temporary server problem. We may not always have control over the situation. Please click the \"back\" button and try again. If the problem persists, you can email us at",
+    "We're sorry, but it looks like something went wrong. There may be several causes, such as a bad internet connection, current network problems or even a temporary server problem. We may not always have control over the situation. Please click the \"back\" button and try again. If the problem persists, you can email us at"
+  ],
+  "919": [
+    "oops...applynote2",
+    "and we are sure we will find a solution. Thank you for your patience and understanding.",
+    "and we are sure we will find a solution. Thank you for your patience and understanding."
+  ],
+  "920": [
+    "format",
+    " format ",
+    " format "
+  ],
+  "921": [
+    "*.mp4",
+    "*.mp4 ",
+    "*.mp4 "
+  ],
+  "922": [
+    "or",
+    "or ",
+    "or "
+  ],
+  "923": [
+    "*.mov",
+    "*.mov ",
+    "*.mov "
+  ],
+  "924": [
+    " max 1 Gb !",
+    "max 1 Gb !",
+    "max 1 Gb !"
+  ],
+  "925": [
+    "invalidvideoapplynote",
+    "The size or format allowed is not correct",
+    "The size or format allowed is not correct"
+  ],
+  "926": [
+    "searchfilters",
+    "Search filters",
+    "Search filters"
+  ],
+  "927": [
+    "startyourverificationnow",
+    "Start you verification now",
+    "Start you verification now"
+  ],
+  "928": [
+    "agents",
+    "Agents",
+    "Agents"
+  ],
+  "929": [
+    "regularagent",
+    "Regular Agent",
+    "Regular Agent"
+  ],
+  "930": [
+    "permission",
+    "Permission",
+    "Permission"
+  ],
+  "931": [
+    "activeautomatic",
+    "Active Automatic permissions for this agent",
+    "Active Automatic permissions for this agent"
+  ],
+  "932": [
+    "whenanewadiscreatedinyouragency",
+    "When a new ad is created in your agency, this agent  will be automatically added to this ad and can :",
+    "When a new ad is created in your agency, this agent  will be automatically added to this ad and can :"
+  ],
+  "933": [
+    "seethisadinhisportfolio",
+    "See this ad in his portfolio and be contacted",
+    "See this ad in his portfolio and be contacted"
+  ],
+  "934": [
+    "caneditthecontentofthisad",
+    "Can edit the content of this ad",
+    "Can edit the content of this ad"
+  ],
+  "935": [
+    "canmakeorganise",
+    "Can make organise and make visit for this ad",
+    "Can make organise and make visit for this ad"
+  ],
+  "936": [
+    "role",
+    "Role",
+    "Role"
+  ],
+  "937": [
+    "configmyagency",
+    "Config my agency",
+    "Config my agency"
+  ],
+  "938": [
+    "meetingtype",
+    "Meeting type",
+    "Meeting type"
+  ],
+  "939": [
+    "videoconsultation",
+    "Video consultation",
+    "Video consultation"
+  ],
+  "940": [
+    "videomeeting",
+    "Video meeting",
+    "Video meeting"
+  ],
+  "941": [
+    "visittomyoffice",
+    "Visit to my office",
+    "Visit to my office"
+  ],
+  "942": [
+    "homelidovisit",
+    "Homelido visit",
+    "Homelido visit"
+  ],
+  "943": [
+    "homevisit",
+    "Home visit",
+    "Home visit"
+  ],
+  "944": [
+    "wwhen",
+    "When",
+    "When"
+  ],
+  "945": [
+    "realestatemeeting",
+    "Real estate meeting",
+    "Real estate meeting"
+  ],
+  "946": [
+    "meetings",
+    "Meetings",
+    "Meetings"
+  ],
+  "947": [
+    "conversationinformation",
+    "Conversation information",
+    "Conversation information"
+  ],
+  "948": [
+    "fullday",
+    "Full day",
+    "Full day"
+  ],
+  "949": [
+    "startday",
+    "Start day",
+    "Start day"
+  ],
+  "950": [
+    "endday",
+    "End day",
+    "End day"
+  ],
+  "951": [
+    "@name@statusforthisinvitation",
+    "@name@status for this invitation",
+    "@name@status for this invitation"
+  ],
+  "952": [
+    "accepted",
+    "Accepted",
+    "Accepted"
+  ],
+  "953": [
+    "refused ",
+    "Refused ",
+    "Refused "
+  ],
+  "954": [
+    "waitingresponse",
+    "Waiting response",
+    "Waiting response"
+  ],
+  "955": [
+    "ifyouchosetopublishyourads",
+    "If you have chosen to publish your advertisements through the Whise platform, you must also use it to edit your ads.\nPlease click on the button below if you wish to be redirected to Whise.",
+    "If you have chosen to publish your advertisements through the Whise platform, you must also use it to edit your ads.\nPlease click on the button below if you wish to be redirected to Whise."
+  ],
+  "956": [
+    "qrcode/map",
+    "QR code / Map",
+    "QR code / Map"
+  ],
+  "957": [
+    "refuse",
+    "Refuse",
+    "Refuse"
+  ],
+  "958": [
+    "accept",
+    "Accept",
+    "Accept"
+  ],
+  "959": [
+    "wefondamoonuseruseingthisusername",
+    "We've found a moonn user using this @username !",
+    "We've found a moonn user using this @username !"
+  ],
+  "960": [
+    "originaltext",
+    "Original text",
+    "Original text"
+  ],
+  "961": [
+    "privacyplease!",
+    "Privacy please !",
+    "Privacy please !"
+  ],
+  "962": [
+    "dearagenciespleasedontdisturbemewithanyproposition",
+    "Dear agencies, please don't\ndisturbe me with any  proposition\nI will manage the sale of my property\nby myself.\n\nThanks for you understanding",
+    "Dear agencies, please don't\ndisturbe me with any  proposition\nI will manage the sale of my property\nby myself.\n\nThanks for you understanding"
+  ],
+  "963": [
+    "youareanagentoranagencies",
+    "You are an agent or an agencies who\nperfectly fit to sell my property ?\nLet's keep in touch",
+    "You are an agent or an agencies who\nperfectly fit to sell my property ?\nLet's keep in touch"
+  ],
+  "964": [
+    "salefast",
+    "Sell Fast",
+    "Sell Fast"
+  ],
+  "965": [
+    "contactme",
+    "Contact me",
+    "Contact me"
+  ],
+  "966": [
+    "startnow!",
+    "Start Now !",
+    "Start Now !"
+  ],
+  "967": [
+    "introducinganewandexcitingwaytoincreaseyourrevenue",
+    "Introducing a new and exciting way to increase your revenue and showcase your skills as a real estate agent - \"Sell Fast, Win Big\"!",
+    "Introducing a new and exciting way to increase your revenue and showcase your skills as a real estate agent - \"Sell Fast, Win Big\"!"
+  ],
+  "968": [
+    "thisinnovativeconceptallowsagentandagencies",
+    "This innovative concept allows agents and agencies to enter into a friendly competition to sell properties as quickly as possible. By participating in this challenge, you'll have the opportunity to demonstrate your expertise, network, and dedication to your clients.",
+    "This innovative concept allows agents and agencies to enter into a friendly competition to sell properties as quickly as possible. By participating in this challenge, you'll have the opportunity to demonstrate your expertise, network, and dedication to your clients."
+  ],
+  "969": [
+    "withsellfastwinbigyouwillhavethechance",
+    "With \"Sell Fast, Win Big\", you'll have the chance to earn a commission quickly while providing top-notch service to your clients. And, because you'll be competing with other agents and agencies, you'll be motivated to go above and beyond to sell the property as fast as possible.",
+    "With \"Sell Fast, Win Big\", you'll have the chance to earn a commission quickly while providing top-notch service to your clients. And, because you'll be competing with other agents and agencies, you'll be motivated to go above and beyond to sell the property as fast as possible."
+  ],
+  "970": [
+    "forclientsthismeanspeaceofmindknowing",
+    "For clients, this means peace of mind knowing that their property is in good hands and that their agent is dedicated to selling their property quickly. And, for agents and agencies, this means the chance to increase your revenue, build your reputation, and potentially attract new clients through word-of-mouth referrals. So what are you waiting for? Join the \"Sell Fast, Win Big\" challenge and showcase your skills as a top-performing real estate agent!",
+    "For clients, this means peace of mind knowing that their property is in good hands and that their agent is dedicated to selling their property quickly. And, for agents and agencies, this means the chance to increase your revenue, build your reputation, and potentially attract new clients through word-of-mouth referrals. So what are you waiting for? Join the \"Sell Fast, Win Big\" challenge and showcase your skills as a top-performing real estate agent!"
+  ],
+  "971": [
+    "watchavideohere",
+    "Watch a video here",
+    "Watch a video here"
+  ],
+  "972": [
+    "wanttofightforthissale",
+    "Want to fight for this sale ?",
+    "Want to fight for this sale ?"
+  ],
+  "973": [
+    "fastselling",
+    "Fast selling",
+    "Fast selling"
+  ],
+  "974": [
+    "fastsellingcontent",
+    "Agents must prioritize selling the property as quickly as possible, within a set timeframe agreed upon with the seller.",
+    "Agents must prioritize selling the property as quickly as possible, within a set timeframe agreed upon with the seller."
+  ],
+  "975": [
+    "effectivemarketing",
+    "Effective marketing",
+    "Effective marketing"
+  ],
+  "976": [
+    "effectivemarketingcontent",
+    "Agents must use effective marketing strategies to attract potential buyers, such as targeted advertising and social media campaigns.",
+    "Agents must use effective marketing strategies to attract potential buyers, such as targeted advertising and social media campaigns."
+  ],
+  "977": [
+    "networking",
+    "Networking",
+    "Networking"
+  ],
+  "978": [
+    "networkingcontent",
+    "Agents must use their existing network of contacts to promote the property and find potential buyers.",
+    "Agents must use their existing network of contacts to promote the property and find potential buyers."
+  ],
+  "979": [
+    "strongnegotiationskill",
+    "Strong negotiation skills",
+    "Strong negotiation skills"
+  ],
+  "980": [
+    "strongnegotiationskillcontent",
+    "Agents must negotiate in good faith and work to secure the best possible price and terms for their client.",
+    "Agents must negotiate in good faith and work to secure the best possible price and terms for their client."
+  ],
+  "981": [
+    "communication",
+    "Communication",
+    "Communication"
+  ],
+  "982": [
+    "communicationcontent",
+    "Agents must keep the seller informed of progress and provide regular updates on showings, feedback, and offers.",
+    "Agents must keep the seller informed of progress and provide regular updates on showings, feedback, and offers."
+  ],
+  "983": [
+    "clientsatisfaction",
+    "Client satisfaction",
+    "Client satisfaction"
+  ],
+  "984": [
+    "clientsatisfactioncontent",
+    "Agents must prioritize client satisfaction and work to exceed their expectations throughout the buying and selling process.",
+    "Agents must prioritize client satisfaction and work to exceed their expectations throughout the buying and selling process."
+  ],
+  "985": [
+    "commission",
+    "Commission",
+    "Commission"
+  ],
+  "986": [
+    "commissioncontent",
+    "Agents will receive a commission for their services, which will be based on the sale price of the property and agreed upon with the seller in advance.",
+    "Agents will receive a commission for their services, which will be based on the sale price of the property and agreed upon with the seller in advance."
+  ],
+  "987": [
+    "ifyoucancheckalltheseboxes",
+    "If you can check all theses boxes, so you're ready to start !",
+    "If you can check all theses boxes, so you're ready to start !"
+  ],
+  "988": [
+    "saleprice",
+    "Sale price",
+    "Sale price"
+  ],
+  "989": [
+    "fastcommission",
+    "Fast commission",
+    "Fast commission"
+  ],
+  "990": [
+    "youearn",
+    "You earn",
+    "You earn"
+  ],
+  "991": [
+    "pleasecheckallboxes",
+    "Please check all boxes",
+    "Please check all boxes"
+  ],
+  "992": [
+    "athomelidorespectforotherusers",
+    "At Homelido, respect for other users is very important to us.",
+    "At Homelido, respect for other users is very important to us."
+  ],
+  "993": [
+    "inordertomaintainanatmosphereoftrust",
+    "In order to maintain an atmosphere of trust and mutual respect, we strongly encourage agents to avoid bothering owners who do not wish to be contacted. We believe that this approach fosters a healthy and lasting working relationship between agents and owners.\n\nWe recognize that for real estate agents, finding new business is a major challenge. That's why we've implemented specific features to make this search easier. To avoid wasting your time soliciting people who will show you a refusal, we recommend that you look for ads with the labels \"exclusive mandate\" or \"self fast, big win.\"",
+    "In order to maintain an atmosphere of trust and mutual respect, we strongly encourage agents to avoid bothering owners who do not wish to be contacted. We believe that this approach fosters a healthy and lasting working relationship between agents and owners.\n\nWe recognize that for real estate agents, finding new business is a major challenge. That's why we've implemented specific features to make this search easier. To avoid wasting your time soliciting people who will show you a refusal, we recommend that you look for ads with the labels \"exclusive mandate\" or \"self fast, big win.\""
+  ],
+  "994": [
+    "exclusivemandate",
+    "Exclusive mandate",
+    "Exclusive mandate"
+  ],
+  "995": [
+    "ownerslookingforanexclusiveagent",
+    "owners looking for an exclusive agent to sell their property will use this label",
+    "owners looking for an exclusive agent to sell their property will use this label"
+  ],
+  "996": [
+    "mandatesimmediatelyavailable",
+    "mandates immediately available to all, but highly competitive will be indicated by the \"sell fast, big win\" label",
+    "mandates immediately available to all, but highly competitive will be indicated by the \"sell fast, big win\" label"
+  ],
+  "997": [
+    "aniceopportunityforexclusiveagent",
+    "A nice opportunity for exclusive agent !",
+    "A nice opportunity for exclusive agent !"
+  ],
+  "998": [
+    "ifyouthinkyouaretherightagentfortheproperty",
+    "If you think you are the right agent for the property in question, don't hesitate to contact the owner now. Briefly introduce yourself and explain why you are the best choice to sell their property. You can also talk about your work history, your buyer networks and the marketing techniques you will use to ensure the property sells quickly and efficiently. By highlighting your unique advantages, you can increase your chances of being selected as the exclusive agent to sell the property.",
+    "If you think you are the right agent for the property in question, don't hesitate to contact the owner now. Briefly introduce yourself and explain why you are the best choice to sell their property. You can also talk about your work history, your buyer networks and the marketing techniques you will use to ensure the property sells quickly and efficiently. By highlighting your unique advantages, you can increase your chances of being selected as the exclusive agent to sell the property."
+  ],
+  "999": [
+    "starttochatnowwiththeowner",
+    "Start to chat now with the owner",
+    "Start to chat now with the owner"
+  ],
+  "1000": [
+    "accessibleanytimeanywhere",
+    "Accessible anytime, anywhere, and available in multiple languages",
+    "Accessible anytime, anywhere, and available in multiple languages"
+  ],
+  "1001": [
+    "providesclearandsimpleinfor",
+    "Provides clear and simple information to avoid confusion",
+    "Provides clear and simple information to avoid confusion"
+  ],
+  "1002": [
+    "offerscompletetransparency",
+    "Offers complete transparency with no hidden clauses",
+    "Offers complete transparency with no hidden clauses"
+  ],
+  "1003": [
+    "AIpoweredfeatureallowsforimmediateanswers",
+    "AI-powered feature allows for immediate answers to tenant questions, making the process more efficient.",
+    "AI-powered feature allows for immediate answers to tenant questions, making the process more efficient."
+  ],
+  "1004": [
+    "seethecontract",
+    "See the contract",
+    "See the contract"
+  ],
+  "1005": [
+    "download",
+    "Download",
+    "Download"
+  ],
+  "1006": [
+    "duration",
+    "Duration",
+    "Duration"
+  ],
+  "1007": [
+    "commitment",
+    "Commitment",
+    "Commitment"
+  ],
+  "1008": [
+    "endnotice",
+    "End notice",
+    "End notice"
+  ],
+  "1009": [
+    "itendsattheendoftheagreedperiod",
+    "It ends at the end of the agreed period upon notice given by the Landlord at least six months before the expiration date or by the Tenant at least three months before the expiration date.",
+    "It ends at the end of the agreed period upon notice given by the Landlord at least six months before the expiration date or by the Tenant at least three months before the expiration date."
+  ],
+  "1010": [
+    "intheabsenceofnoticegivenwithintheserespectiveperiods",
+    "In the absence of notice given within these respective periods, the lease is extended each time for a period of three years, on the same terms.",
+    "In the absence of notice given within these respective periods, the lease is extended each time for a period of three years, on the same terms."
+  ],
+  "1011": [
+    "commonexpenses",
+    "Common expenses",
+    "Common expenses"
+  ],
+  "1012": [
+    "estimation",
+    "Estimation",
+    "Estimation"
+  ],
+  "1013": [
+    "commonexpensescontent",
+    "The common expenses of the building in which the leased property is located, due by the Tenant the Tenant's share, include the costs of consumption of water, gas, electricity, heating heating, the salary and charges of any janitors, the remuneration of the trustee as well as all maintenance and minor repairs, including those relating to the elevators and technical equipment and technical equipment, as described in the decree of the Walloon Region Government of Government of the Walloon Region of June 28, 2018 establishing a non-limitative list of repairs, works and repairs, works and maintenance to be carried out by the Tenant or the Landlord.\n\nThe share of the common charges due by the Tenant shall be calculated on the basis of the statements communicated at least once a year by the Landlord, his representative or the managing agent. For the purpose of forecasting, anticipating and amortizing, the Tenant shall pay, at the same time as his rent, a with his rent, a provision intended to cover these costs, unless the parties agree on a fixed amount\na lump sum, payable at the same time as the rent.\n\nUpon receipt of the pre-described statement, the Lessor or the Lessee shall immediately pay to the other party the difference between the provisions paid and the actual charges. The amount of the provision will be revised annually according to the amount of the actual expenses of the past year, and the the evolution of the prices of certain goods and services, or of the foreseeable evolution of the\ncommon consumption.\n\nAll subscriptions and contracts relating to individualized services for private use, such as such as cable television, telephone, electricity, gas or meter rental will be at the exclusive charge of the Tenant",
+    "The common expenses of the building in which the leased property is located, due by the Tenant the Tenant's share, include the costs of consumption of water, gas, electricity, heating heating, the salary and charges of any janitors, the remuneration of the trustee as well as all maintenance and minor repairs, including those relating to the elevators and technical equipment and technical equipment, as described in the decree of the Walloon Region Government of Government of the Walloon Region of June 28, 2018 establishing a non-limitative list of repairs, works and repairs, works and maintenance to be carried out by the Tenant or the Landlord.\n\nThe share of the common charges due by the Tenant shall be calculated on the basis of the statements communicated at least once a year by the Landlord, his representative or the managing agent. For the purpose of forecasting, anticipating and amortizing, the Tenant shall pay, at the same time as his rent, a with his rent, a provision intended to cover these costs, unless the parties agree on a fixed amount\na lump sum, payable at the same time as the rent.\n\nUpon receipt of the pre-described statement, the Lessor or the Lessee shall immediately pay to the other party the difference between the provisions paid and the actual charges. The amount of the provision will be revised annually according to the amount of the actual expenses of the past year, and the the evolution of the prices of certain goods and services, or of the foreseeable evolution of the\ncommon consumption.\n\nAll subscriptions and contracts relating to individualized services for private use, such as such as cable television, telephone, electricity, gas or meter rental will be at the exclusive charge of the Tenant"
+  ],
+  "1014": [
+    "imyourlegalbotassistant",
+    "\ud83e\udd16 I'm your legal bot assistant.  You are lazy to read and you have a specific question in mind ?\nJust ask, I'll read the contract for you and see if the answer is there.",
+    "\ud83e\udd16 I'm your legal bot assistant.  You are lazy to read and you have a specific question in mind ?\nJust ask, I'll read the contract for you and see if the answer is there."
+  ],
+  "1015": [
+    "yourquestion",
+    "Your question",
+    "Your question"
+  ],
+  "1016": [
+    "answer",
+    "Answer",
+    "Answer"
+  ],
+  "1017": [
+    "doyouhaveanyotherquestion",
+    "Do you have any other question ?",
+    "Do you have any other question ?"
+  ],
+  "1018": [
+    "enteryourquestion",
+    "Enter your question",
+    "Enter your question"
+  ],
+  "1019": [
+    "notesentmail1",
+    "We just sent an email to {}\n(Please wait up to 2 min and check also your junk box)",
+    "We just sent an email to {}\n(Please wait up to 2 min and check also your junk box)"
+  ],
+  "1020": [
+    "notesentmail2",
+    "You have not entered the email verification OTP code.\nThe reasons may be:\n\n-  You were busy doing something else during these two minutes?\n-  We are victims of our success and our servers are experiencing a high demand at the moment, and it may take longer to receive the email.\n- You entered an incorrect email.\n\nIn any case, please try again.",
+    "You have not entered the email verification OTP code.\nThe reasons may be:\n\n-  You were busy doing something else during these two minutes?\n-  We are victims of our success and our servers are experiencing a high demand at the moment, and it may take longer to receive the email.\n- You entered an incorrect email.\n\nIn any case, please try again."
+  ],
+  "1021": [
+    "notesentphone1",
+    "We just sent an OTP to {}\n(Please wait up to 2 min)",
+    "We just sent an OTP to {}\n(Please wait up to 2 min)"
+  ],
+  "1022": [
+    "createdadsfaild",
+    "Ops, detected something strange here, please try again!",
+    "Ops, detected something strange here, please try again!"
+  ],
+  "1023": [
+    "updateadsfaild",
+    "Ops, detected something strange here, please try again!",
+    "Ops, detected something strange here, please try again!"
+  ],
+  "1024": [
+    "suggestedlanguageincountry",
+    "Suggested language in @country",
+    "Suggested language in @country"
+  ],
+  "1025": [
+    "lifeanuity",
+    "Life Anuity",
+    "Life Anuity"
+  ],
+  "1026": [
+    "magical waynote",
+    "Tired of the time-consuming and often frustrating process of creating a real estate ad? With our Magical Way feature, you can generate an ad in minutes without the hassle of the traditional step-by-step approach. Instead of slogging through multiple screens and inputs, the Magical Way uses advanced AI technology to automatically create a comprehensive and captivating ad based on just a few details about your property. Say hello to effortless real estate advertising with the Magical Way!",
+    "Tired of the time-consuming and often frustrating process of creating a real estate ad? With our Magical Way feature, you can generate an ad in minutes without the hassle of the traditional step-by-step approach. Instead of slogging through multiple screens and inputs, the Magical Way uses advanced AI technology to automatically create a comprehensive and captivating ad based on just a few details about your property. Say hello to effortless real estate advertising with the Magical Way!"
+  ],
+  "1027": [
+    "classical waynote",
+    "If you prefer a more traditional approach to creating a real estate ad, you can use our classical step-by-step method. This method involves guiding you through each section of the ad creation process, allowing you to input detailed information about your property and tailor the ad to your specific needs. While this approach may take longer than the Magical Way, it provides a more personalized touch and may be preferable if you have specific requirements for your ad. ",
+    "If you prefer a more traditional approach to creating a real estate ad, you can use our classical step-by-step method. This method involves guiding you through each section of the ad creation process, allowing you to input detailed information about your property and tailor the ad to your specific needs. While this approach may take longer than the Magical Way, it provides a more personalized touch and may be preferable if you have specific requirements for your ad. "
+  ],
+  "1028": [
+    "magical waynote2",
+    "Ready to generate your real estate ad effortlessly?",
+    "Ready to generate your real estate ad effortlessly?"
+  ],
+  "1029": [
+    "magical waynoteex",
+    "ex:  appartement for rent, 120m2, 890\u20ac/month, 2 bedrooms, 1 bathroom, located at 23 big street 75000  Paris, France. peb A, available from 23 april, ...",
+    "ex:  appartement for rent, 120m2, 890\u20ac/month, 2 bedrooms, 1 bathroom, located at 23 big street 75000  Paris, France. peb A, available from 23 april, ..."
+  ],
+  "1030": [
+    "attribute",
+    "Attribute",
+    "Attribute"
+  ],
+  "1031": [
+    "In which country is located the agency you want to join ?",
+    "In which country is located the agency you want to join ? ",
+    "In which country is located the agency you want to join ? "
+  ],
+  "1032": [
+    "Why to choose a location ? note",
+    "Why to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? note",
+    "Why to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? note"
+  ],
+  "1033": [
+    "You don't find your agency ?note",
+    "If you don't find your agency, you must ensure first that you have selected the right country where this abency is located",
+    "If you don't find your agency, you must ensure first that you have selected the right country where this abency is located"
+  ],
+  "1034": [
+    "billinginfosnote",
+    "In order to provide you with a correct invoice, please fill in your billing information carefully",
+    "In order to provide you with a correct invoice, please fill in your billing information carefully"
+  ],
+  "1035": [
+    "street",
+    "Street",
+    "Street"
+  ],
+  "1036": [
+    "Your subscription is\nactive until",
+    "Your subscription is\nactive until ",
+    "Your subscription is\nactive until "
+  ],
+  "1037": [
+    "Number of ads in\nyour plan",
+    "Number of ads in\nyour plan ",
+    "Number of ads in\nyour plan "
+  ],
+  "1038": [
+    "Number of ads\nremaining",
+    "Number of ads\nremaining ",
+    "Number of ads\nremaining "
+  ],
+  "1039": [
+    "Congratulations ! Your ads are  in\ngood hands.",
+    "Congratulations ! Your ads are  in\ngood hands. ",
+    "Congratulations ! Your ads are  in\ngood hands. "
+  ],
+  "1040": [
+    "AgreePrivacyNOTE",
+    "To use our services on Homelido, it is essential that you agree to the terms and conditions of use. If you do not agree with these terms, the system will log you out, and you will not be able to access the great features of Homelido.\n\nIf you would like to accept the terms and conditions and start using our platform, click on the \"Back\" button and proceed.",
+    "To use our services on Homelido, it is essential that you agree to the terms and conditions of use. If you do not agree with these terms, the system will log you out, and you will not be able to access the great features of Homelido.\n\nIf you would like to accept the terms and conditions and start using our platform, click on the \"Back\" button and proceed."
+  ],
+  "1041": [
+    "logout",
+    "Logout",
+    "Logout"
+  ],
+  "1042": [
+    "back",
+    "Back",
+    "Back"
+  ],
+  "1043": [
+    "behomelido",
+    "Be Homelido",
+    "Be Homelido"
+  ],
+  "1044": [
+    "compliant",
+    "Compliant",
+    "Compliant"
+  ],
+  "1045": [
+    "athomelidowearededicatedtoupholding",
+    "At Homelido we are dedicated to upholding the highest standards\nof integrity and professionalism.",
+    "At Homelido we are dedicated to upholding the highest standards\nof integrity and professionalism."
+  ],
+  "1046": [
+    "professionalagencyhomelidocompliant",
+    "Professional agency\nHomelido compliant",
+    "Professional agency\nHomelido compliant"
+  ],
+  "1047": [
+    "easycommunication",
+    "Easy communication",
+    "Easy communication"
+  ],
+  "1048": [
+    "legaltransparency",
+    "Legal transparency",
+    "Legal transparency"
+  ],
+  "1049": [
+    "ethicalbusiness",
+    "Ethical business practices",
+    "Ethical business practices"
+  ],
+  "1050": [
+    "clientfocusedservice",
+    "Client-focused service",
+    "Client-focused service"
+  ],
+  "1051": [
+    "professionalconduct",
+    "Professional conduct",
+    "Professional conduct"
+  ],
+  "1052": [
+    "timelyresponsiveness",
+    "Timely responsiveness",
+    "Timely responsiveness"
+  ],
+  "1053": [
+    "uptodateindustryknowledge",
+    "Up-to-date industry knowledge",
+    "Up-to-date industry knowledge"
+  ],
+  "1054": [
+    "personalizedapproach",
+    "Personalized approach",
+    "Personalized approach"
+  ],
+  "1055": [
+    "attentiontodetail",
+    "Attention to detail",
+    "Attention to detail"
+  ],
+  "1056": [
+    "innovativesolutions",
+    "Innovative solutions",
+    "Innovative solutions"
+  ],
+  "1057": [
+    "trustworthyreputation",
+    "Trustworthy reputation",
+    "Trustworthy reputation"
+  ],
+  "1058": [
+    "commitmenttoexcellence",
+    "Commitment to excellence",
+    "Commitment to excellence"
+  ],
+  "1059": [
+    "enhancedtrust",
+    "Enhanced Trust",
+    "Enhanced Trust"
+  ],
+  "1060": [
+    "enhancedtrustcontent",
+    "Being \"Homelido compliant\" signals that they are engaging with a business that adheres to a recognized set of standards. This can foster trust, a key factor in any real estate transaction.",
+    "Being \"Homelido compliant\" signals that they are engaging with a business that adheres to a recognized set of standards. This can foster trust, a key factor in any real estate transaction."
+  ],
+  "1061": [
+    "streamlinedprocess",
+    "Streamlined Processes",
+    "Streamlined Processes"
+  ],
+  "1062": [
+    "streamlinedprocesscontent",
+    "Compliance likely means adopting Homelido's systematic approach to real estate transactions. This could simplify processes, save time, and increase efficiency - all of which can lead to cost savings and higher customer satisfaction.",
+    "Compliance likely means adopting Homelido's systematic approach to real estate transactions. This could simplify processes, save time, and increase efficiency - all of which can lead to cost savings and higher customer satisfaction."
+  ],
+  "1063": [
+    "marketdifferentiation",
+    "Market Differentiation",
+    "Market Differentiation"
+  ],
+  "1064": [
+    "marketdifferentiationcontent",
+    "In a competitive real estate landscape, being a \"Homelido compliant\" franchisee can set one apart. It's a point of differentiation that can attract customers who value standards-based services.",
+    "In a competitive real estate landscape, being a \"Homelido compliant\" franchisee can set one apart. It's a point of differentiation that can attract customers who value standards-based services."
+  ],
+  "1065": [
+    "supportfromhomelido",
+    "Support from Homelido",
+    "Support from Homelido"
+  ],
+  "1066": [
+    "supportfromhomelidocontent",
+    "Compliance usually means more robust support from the parent organization. As a \"Homelido compliant\" franchisee, one can expect better assistance and resources from Homelido, helping to drive success.",
+    "Compliance usually means more robust support from the parent organization. As a \"Homelido compliant\" franchisee, one can expect better assistance and resources from Homelido, helping to drive success."
+  ],
+  "1067": [
+    "communityengagement",
+    "Community Engagement",
+    "Community Engagement"
+  ],
+  "1068": [
+    "communityengagementcontent",
+    "Being part of a compliant network can help franchisees engage more effectively with the community, building relationships that contribute to long-term success.",
+    "Being part of a compliant network can help franchisees engage more effectively with the community, building relationships that contribute to long-term success."
+  ],
+  "1069": [
+    "continuousimprovement",
+    "Continuous Improvement",
+    "Continuous Improvement"
+  ],
+  "1070": [
+    "continuousimprovementcontent",
+    "Compliance often involves regular assessments, which can help franchisees identify areas for improvement and ensure they are always operating at their best.",
+    "Compliance often involves regular assessments, which can help franchisees identify areas for improvement and ensure they are always operating at their best."
+  ],
+  "1071": [
+    "howcanyou",
+    "How can you",
+    "How can you"
+  ],
+  "1072": [
+    "becomecompliant",
+    "become compliant?",
+    "become compliant?"
+  ],
+  "1073": [
+    "becominghomelidocompliantiseasierthanyouthink",
+    "Becoming Homelido compliant is easier than you think.\nFollow these steps to also get certified.",
+    "Becoming Homelido compliant is easier than you think.\nFollow these steps to also get certified."
+  ],
+  "1074": [
+    "understandinghomelidostandards",
+    "Understanding Homelido's Standards: The first step towards\nbecoming \"Homelido compliant\" involves thoroughly understanding\nour standards and requirements. We provide comprehensive\neducational resources and training modules to help you familiarize\nyourself with our values, ethical guidelines, and operational protocols.",
+    "Understanding Homelido's Standards: The first step towards\nbecoming \"Homelido compliant\" involves thoroughly understanding\nour standards and requirements. We provide comprehensive\neducational resources and training modules to help you familiarize\nyourself with our values, ethical guidelines, and operational protocols."
+  ],
+  "1075": [
+    "implementingthestandards",
+    "Implementing the Standards: After understanding our standards, the\nnext step is to incorporate them into your business operations. This\ninvolves aligning your business practices with our guidelines, adopting\nour systematic approach to real estate transactions, and utilizing our\ntools and resources to ensure compliance.",
+    "Implementing the Standards: After understanding our standards, the\nnext step is to incorporate them into your business operations. This\ninvolves aligning your business practices with our guidelines, adopting\nour systematic approach to real estate transactions, and utilizing our\ntools and resources to ensure compliance."
+  ],
+  "1076": [
+    "complianceassessment",
+    "Compliance Assessment: The final step is undergoing a compliance\nassessment. Our team of experts will evaluate your business\noperations against our established standards. Once you successfully\npass this assessment, you will be officially recognized as a \"Homelido\ncompliant\" , and will be able to leverage this status to build trust,\ndifferentiate your services, and drive success.",
+    "Compliance Assessment: The final step is undergoing a compliance\nassessment. Our team of experts will evaluate your business\noperations against our established standards. Once you successfully\npass this assessment, you will be officially recognized as a \"Homelido\ncompliant\" , and will be able to leverage this status to build trust,\ndifferentiate your services, and drive success."
+  ],
+  "1077": [
+    "notyethomelido",
+    "Not yet Homelido",
+    "Not yet Homelido"
+  ],
+  "1078": [
+    "doyouwanttobecomecompliant",
+    "Do you want to become compliant? Click on the button bellow\nand get call back by one of our agent",
+    "Do you want to become compliant? Click on the button bellow\nand get call back by one of our agent"
+  ],
+  "1079": [
+    "number of sms\nremaining",
+    "number of sms\nremaining ",
+    "number of sms\nremaining "
+  ],
+  "1080": [
+    "monday",
+    "Monday",
+    "Monday"
+  ],
+  "1081": [
+    "tuesday",
+    "Tuesday",
+    "Tuesday"
+  ],
+  "1082": [
+    "wednesday",
+    "Wednesday",
+    "Wednesday"
+  ],
+  "1083": [
+    "thursday",
+    "Thursday",
+    "Thursday"
+  ],
+  "1084": [
+    "friday",
+    "Friday",
+    "Friday"
+  ],
+  "1085": [
+    "saturday",
+    "Saturday",
+    "Saturday"
+  ],
+  "1086": [
+    "sunday",
+    "Sunday",
+    "Sunday"
+  ],
+  "1087": [
+    "cconfig",
+    "Config",
+    "Config"
+  ],
+  "1088": [
+    "holidays",
+    "Holidays",
+    "Holidays"
+  ],
+  "1089": [
+    "chooseyouropendaysandhours",
+    "Choose your open days and hours, you can split the service hours",
+    "Choose your open days and hours, you can split the service hours"
+  ],
+  "1090": [
+    "holiday",
+    "Holiday",
+    "Holiday"
+  ],
+  "1091": [
+    "timeframeduration",
+    "Timeframe duration",
+    "Timeframe duration"
+  ],
+  "1092": [
+    "breakbetweentickets",
+    "Break between tickets ?",
+    "Break between tickets ?"
+  ],
+  "1093": [
+    "lastticketallowed",
+    "Last ticket allowed",
+    "Last ticket allowed"
+  ],
+  "1094": [
+    "summerholiday",
+    "Summer holiday",
+    "Summer holiday"
+  ],
+  "1095": [
+    "winterholiday",
+    "Winter holiday",
+    "Winter holiday"
+  ],
+  "1096": [
+    "configureschedules",
+    "Configure schedules",
+    "Configure schedules"
+  ],
+  "1097": [
+    "existingProEmail",
+    "This email already exists for another account. Please use a one.",
+    "This email already exists for another account. Please use a one."
+  ],
+  "1098": [
+    "existingUserEmail",
+    "This email already exists for another account. Please use a one.",
+    "This email already exists for another account. Please use a one."
+  ],
+  "1099": [
+    "addmore",
+    "Add more",
+    "Add more"
+  ],
+  "1100": [
+    "draganddropanewpicture",
+    "drag n drop a new picture",
+    "drag n drop a new picture"
+  ],
+  "1101": [
+    "none",
+    "None",
+    "None"
+  ],
+  "1102": [
+    "garage",
+    "Garage",
+    "Garage"
+  ],
+  "1103": [
+    "room",
+    "Room",
+    "Room"
+  ],
+  "1104": [
+    "readmore",
+    "Read more",
+    "Read more"
+  ],
+  "1105": [
+    "Add guest by phone number",
+    "Add guest by phone number\n(your guess doesn\u2019t have yet an account? send this invitation by sms)",
+    "Add guest by phone number\n(your guess doesn\u2019t have yet an account? send this invitation by sms)"
+  ],
+  "1106": [
+    "inputusername",
+    "Input username",
+    "Input username"
+  ],
+  "1107": [
+    "saved",
+    "Saved",
+    "Saved"
+  ],
+  "1108": [
+    "edit",
+    "Edit",
+    "Edit"
+  ],
+  "1109": [
+    "sms remaining",
+    "sms remaining ",
+    "sms remaining "
+  ],
+  "1110": [
+    "displaythisautomaticmessagewhenthismodeactived",
+    "When the Auto-Message mode is enabled, the following message will be displayed in the chat",
+    "When the Auto-Message mode is enabled, the following message will be displayed in the chat"
+  ],
+  "1111": [
+    "displaythisautomaticmessagewhenthismodeactivedhint",
+    "ex: \"Hey there! Currently, I'm unavailable to respond, but feel free to leave your message, and I'll get back to you as soon as possible.\"",
+    "ex: \"Hey there! Currently, I'm unavailable to respond, but feel free to leave your message, and I'll get back to you as soon as possible.\""
+  ],
+  "1112": [
+    "thisisanautomessage",
+    "This is an auto message",
+    "This is an auto message"
+  ],
+  "1113": [
+    "worldpassoption",
+    "World pass option",
+    "World pass option"
+  ],
+  "1114": [
+    "Great News!xx",
+    " Your current plan is successfully set to auto-renewal, ensuring that you won't risk having your listing deactivated due to forgetting to make a payment.\n\nIf, for some reason, you wish to deactivate the auto-renewal process, simply click on \u201cdeactivate\u201d button.",
+    " Your current plan is successfully set to auto-renewal, ensuring that you won't risk having your listing deactivated due to forgetting to make a payment.\n\nIf, for some reason, you wish to deactivate the auto-renewal process, simply click on \u201cdeactivate\u201d button."
+  ],
+  "1115": [
+    "preferences",
+    "Preferences",
+    "Preferences"
+  ],
+  "1116": [
+    "email",
+    "Email",
+    "Email"
+  ],
+  "1117": [
+    "EmailPreferencesxx",
+    "Please select your personal preferences and provide consent for the type of emails you would like to receive",
+    "Please select your personal preferences and provide consent for the type of emails you would like to receive"
+  ],
+  "1118": [
+    "Emails syst\u00e8me et de service (required)xx",
+    "Stay informed with essential system and service emails. These emails provide important updates, account verification, password resets, and transaction confirmations to ensure the smooth operation and security of your account.",
+    "Stay informed with essential system and service emails. These emails provide important updates, account verification, password resets, and transaction confirmations to ensure the smooth operation and security of your account."
+  ],
+  "1119": [
+    "Consent to receive our newsletterxx",
+    "By accepting to receive the newsletter, you will stay informed about the latest updates, news, promotions, and exclusive content. Our newsletter brings you valuable information and insights delivered straight to your inbox. Don't miss out on exciting updates and opportunities by subscribing to our newsletter today.",
+    "By accepting to receive the newsletter, you will stay informed about the latest updates, news, promotions, and exclusive content. Our newsletter brings you valuable information and insights delivered straight to your inbox. Don't miss out on exciting updates and opportunities by subscribing to our newsletter today."
+  ],
+  "1120": [
+    "Recieve promotional email and offers from Third partyxx",
+    "Opt-in to receive promotional emails and offers from third-party companies who may provide relevant content, exclusive deals, and special discounts. By consenting to receive these emails, you can stay updated on the latest offers and make the most of exciting opportunities.",
+    "Opt-in to receive promotional emails and offers from third-party companies who may provide relevant content, exclusive deals, and special discounts. By consenting to receive these emails, you can stay updated on the latest offers and make the most of exciting opportunities."
+  ],
+  "1121": [
+    "Agree to receive marketing and promotional emails from Homelido:xx",
+    "By agreeing to receive marketing and promotional emails from Homelido, you'll receive exciting offers, exclusive discounts, and valuable information about our products and services. Stay updated on the latest trends, special promotions, and new releases. Don't miss out on the opportunity to enhance your experience with Homelido by subscribing to our marketing and promotional emails.",
+    "By agreeing to receive marketing and promotional emails from Homelido, you'll receive exciting offers, exclusive discounts, and valuable information about our products and services. Stay updated on the latest trends, special promotions, and new releases. Don't miss out on the opportunity to enhance your experience with Homelido by subscribing to our marketing and promotional emails."
+  ],
+  "1122": [
+    "notyetverifiedtooltip",
+    "This profile has not yet been verified. It doesn't necessarily mean the professional is dishonest, but we haven't received the verification documents for this professional. Exercise caution in your interactions and refrain from engaging in transactions with unverified profiles. Your safety is our priority.",
+    "This profile has not yet been verified. It doesn't necessarily mean the professional is dishonest, but we haven't received the verification documents for this professional. Exercise caution in your interactions and refrain from engaging in transactions with unverified profiles. Your safety is our priority."
+  ],
+  "1123": [
+    "Passport / ID card verification",
+    "Passport / ID card verification:\nTo ensure your identity, please upload a clear and readable copy of your passport or Id Card. Make sure the photo and information are legible. We value your privacy and handle your data with strict confidentiality. Contact our support team for any assistance.",
+    "Passport / ID card verification:\nTo ensure your identity, please upload a clear and readable copy of your passport or Id Card. Make sure the photo and information are legible. We value your privacy and handle your data with strict confidentiality. Contact our support team for any assistance."
+  ],
+  "1124": [
+    "Take a selfie with your id...",
+    "Take a selfie with your id.\nPlease upload a selfie of yourself holding the passport near your head.\nThis ensures that you are the rightful owner of the passport. Make sure your face and passport details are clearly visible. ",
+    "Take a selfie with your id.\nPlease upload a selfie of yourself holding the passport near your head.\nThis ensures that you are the rightful owner of the passport. Make sure your face and passport details are clearly visible. "
+  ],
+  "1125": [
+    "Thank you !verificationpage",
+    "Your request has been successfully submitted. We will process it promptly. If further information is required, we will contact you.\nThank you for your patience.",
+    "Your request has been successfully submitted. We will process it promptly. If further information is required, we will contact you.\nThank you for your patience."
+  ],
+  "1126": [
+    "To enhance communication, please select your country and preferred language",
+    "To enhance communication, please select your country and preferred language.\nThis will help us better assist you.",
+    "To enhance communication, please select your country and preferred language.\nThis will help us better assist you."
+  ],
+  "1127": [
+    "Thank you !verificationpagefail",
+    "It could be due to a network issue or another process. We apologize for the inconvenience. Please try again later. If the problem persists after a few attempts, please contact our support team for assistance.",
+    "It could be due to a network issue or another process. We apologize for the inconvenience. Please try again later. If the problem persists after a few attempts, please contact our support team for assistance."
+  ],
+  "1128": [
+    "Certificate of registrationNote",
+    "Please provide any relevant documents in your country to verify the registration of a company. This may include a certificate of incorporation or similar document attesting to the legal creation of the company.",
+    "Please provide any relevant documents in your country to verify the registration of a company. This may include a certificate of incorporation or similar document attesting to the legal creation of the company."
+  ],
+  "1129": [
+    "canSeeDetails",
+    "Can see details",
+    "Can see details"
+  ],
+  "1130": [
+    "canEditDetails",
+    "Can edit details",
+    "Can edit details"
+  ],
+  "1131": [
+    "qrinvoicenote",
+    "1. Open a QR code scanning application on your mobile device.\n2. Use the app to scan the QR code displayed on the invoice.\n3. Once you've scanned the QR code, you'll be automatically redirected to the Homelido URL.\n4. Make sure you are directed to the specific page of the corresponding invoice on Homelido.",
+    "1. Open a QR code scanning application on your mobile device.\n2. Use the app to scan the QR code displayed on the invoice.\n3. Once you've scanned the QR code, you'll be automatically redirected to the Homelido URL.\n4. Make sure you are directed to the specific page of the corresponding invoice on Homelido."
+  ],
+  "1132": [
+    "Is this invoice genuine",
+    "Is this invoice genuine ?",
+    "Is this invoice genuine ?"
+  ],
+  "1133": [
+    "Tell me what you are looking for...",
+    "What you are looking for ? (version test)",
+    "What you are looking for ? (version test)"
+  ],
+  "1134": [
+    "price",
+    "Price",
+    "Price"
+  ],
+  "1135": [
+    "energy",
+    "Energy",
+    "Energy"
+  ],
+  "1136": [
+    "login",
+    "Login",
+    "Login"
+  ],
+  "1137": [
+    "is now online \ud83c\udf89",
+    "is\nnow online \ud83c\udf89",
+    "is\nnow online \ud83c\udf89"
+  ],
+  "1138": [
+    "So, Where Do I Start and How Does Homelido Work?",
+    "So, Where Do I Start and\nHow Does Homelido Work?",
+    "So, Where Do I Start and\nHow Does Homelido Work?"
+  ],
+  "1139": [
+    "So I\u2019ve got a CRM tool with AI features. But how is it more personalized? Many platforms promote personalization...how are you different?",
+    "So I\u2019ve got a CRM tool with AI features.\nBut how is it more personalized? Many platforms promote\npersonalization...\nhow are you different?",
+    "So I\u2019ve got a CRM tool with AI features.\nBut how is it more personalized? Many platforms promote\npersonalization...\nhow are you different?"
+  ],
+  "1140": [
+    "Homelido is ready to become the tool of your dreams.Not only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!Why should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.And the best part? You don't need a substantial budget or intricate tech knowledge to harness its power!",
+    "Homelido is ready to become the tool of your dreams.\nNot only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!\nWhy should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.\n\nAnd the best part? You don't need a substantial budget or intricate tech knowledge to harness its power!",
+    "Homelido is ready to become the tool of your dreams.\nNot only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!\nWhy should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.\n\nAnd the best part? You don't need a substantial budget or intricate tech knowledge to harness its power!"
+  ],
+  "1141": [
+    "Let the miracle become true:",
+    "Let the miracle become true:\n",
+    "Let the miracle become true:\n"
+  ],
+  "1142": [
+    "Homelido delivers high-end features and capabilities at a fraction of the expected cost",
+    "Homelido delivers high-end features and capabilities at a fraction\nof the expected cost.",
+    "Homelido delivers high-end features and capabilities at a fraction\nof the expected cost."
+  ],
+  "1143": [
+    "and includes a",
+    "and includes a\n",
+    "and includes a\n"
+  ],
+  "1144": [
+    "complimentary iPad OR a showcase Screen with 50inches",
+    "complimentary iPad OR a showcase Screen with 50inches,",
+    "complimentary iPad OR a showcase Screen with 50inches,"
+  ],
+  "1145": [
+    "providing you with unparalleled value from day one.",
+    "providing you with\nunparalleled value from day one.",
+    "providing you with\nunparalleled value from day one."
+  ],
+  "1146": [
+    "D\u00e9couvrez comment nous pouvons",
+    "D\u00e9couvrez comment nous pouvons vous aider \u00e0 d\u00e9velopper des logiciels\npersonnalis\u00e9s qui s'adapteront parfaitement \u00e0 vos solutions existantes, cr\u00e9ant ainsi\nun environnement de travail coh\u00e9rent et harmonieux. Notre priorit\u00e9 est d'assurer une\ntransition fluide et d'optimiser vos flux de travail. C'est pourquoi nous vous proposons\nnos services d'int\u00e9gration sur mesure, sp\u00e9cialement adapt\u00e9s \u00e0 votre entreprise.\nGr\u00e2ce \u00e0 notre approche d'int\u00e9gration hybride sur mesure, vous pouvez \u00e9conomiser\nsur les co\u00fbts de d\u00e9veloppement \u00e9lev\u00e9s des solutions isol\u00e9es. Profitez d'une\nint\u00e9gration fluide qui r\u00e9pond pr\u00e9cis\u00e9ment \u00e0 vos besoins.\n\nN'h\u00e9sitez pas \u00e0 demander un devis d\u00e8s aujourd'hui pour d\u00e9couvrir comment notre\nexpertise peut optimiser votre activit\u00e9.",
+    "D\u00e9couvrez comment nous pouvons vous aider \u00e0 d\u00e9velopper des logiciels\npersonnalis\u00e9s qui s'adapteront parfaitement \u00e0 vos solutions existantes, cr\u00e9ant ainsi\nun environnement de travail coh\u00e9rent et harmonieux. Notre priorit\u00e9 est d'assurer une\ntransition fluide et d'optimiser vos flux de travail. C'est pourquoi nous vous proposons\nnos services d'int\u00e9gration sur mesure, sp\u00e9cialement adapt\u00e9s \u00e0 votre entreprise.\nGr\u00e2ce \u00e0 notre approche d'int\u00e9gration hybride sur mesure, vous pouvez \u00e9conomiser\nsur les co\u00fbts de d\u00e9veloppement \u00e9lev\u00e9s des solutions isol\u00e9es. Profitez d'une\nint\u00e9gration fluide qui r\u00e9pond pr\u00e9cis\u00e9ment \u00e0 vos besoins.\n\nN'h\u00e9sitez pas \u00e0 demander un devis d\u00e8s aujourd'hui pour d\u00e9couvrir comment notre\nexpertise peut optimiser votre activit\u00e9."
+  ],
+  "1147": [
+    "we'reonthefinalstretchwithHomelido",
+    "We're on the final stretch with Homelido, 90% of the way to a game-changing launch. As we perfect our platform, we're offering you an exclusive opportunity. By becoming an early adopter, you have the unique chance to influence right now the features implemented in the platform. Instead of paying 100.000\u20ac for a developer team you receive the possiblity to impact Homelido for free! Why spend your hard-earned revenue developing your own tools when Homelido can provide everything you need, and more, right??\nThis is your moment to collaborate with us, ensuring the features we complete are tailored to your exact needs.",
+    "We're on the final stretch with Homelido, 90% of the way to a game-changing launch. As we perfect our platform, we're offering you an exclusive opportunity. By becoming an early adopter, you have the unique chance to influence right now the features implemented in the platform. Instead of paying 100.000\u20ac for a developer team you receive the possiblity to impact Homelido for free! Why spend your hard-earned revenue developing your own tools when Homelido can provide everything you need, and more, right??\nThis is your moment to collaborate with us, ensuring the features we complete are tailored to your exact needs."
+  ],
+  "1148": [
+    "Don\u2019t miss out at upgrading your  real estate business \u2013 join now!",
+    "Don\u2019t miss out at upgrading your\nreal estate business \u2013 join now!",
+    "Don\u2019t miss out at upgrading your\nreal estate business \u2013 join now!"
+  ],
+  "1149": [
+    "Only out of spots left in Belgium",
+    "Only {} out of {} spots left in Belgium",
+    "Only {} out of {} spots left in Belgium"
+  ],
+  "1150": [
+    "signup",
+    "Sign up",
+    "Sign up"
+  ],
+  "1151": [
+    "with Homelido?",
+    "with\nHomelido?",
+    "with\nHomelido?"
+  ],
+  "1152": [
+    "Great !  A fast response increase customers satisfaction",
+    "Great !  A fast response\nincrease customers satisfaction",
+    "Great !  A fast response\nincrease customers satisfaction"
+  ],
+  "1153": [
+    "taxFeeVATDesc",
+    "The amount of this tax is calculated according to your country of residence. Depending on the verification status of your account, this amount may be automatically cleared or adjusted during the checkout process.",
+    "The amount of this tax is calculated according to your country of residence. Depending on the verification status of your account, this amount may be automatically cleared or adjusted during the checkout process."
+  ],
+  "1154": [
+    "firstname",
+    "First name",
+    "First name"
+  ],
+  "1155": [
+    "lastname",
+    "Last name",
+    "Last name"
+  ],
+  "1156": [
+    "editpassword",
+    "Edit Password",
+    "Edit Password"
+  ],
+  "1157": [
+    "security",
+    "Security",
+    "Security"
+  ],
+  "1158": [
+    "setupaholidayperiod",
+    "Set up a holiday period",
+    "Set up a holiday period"
+  ],
+  "1159": [
+    "houseManagement",
+    "House Management",
+    "House Management"
+  ],
+  "1160": [
+    "description",
+    "Description",
+    "Description"
+  ],
+  "1161": [
+    "rent",
+    "Rent",
+    "Rent"
+  ],
+  "1162": [
+    "Powerful Marketing Tool with Homelido Window Displays!",
+    " Powerful Marketing Tool with Homelido Window Displays!",
+    " Powerful Marketing Tool with Homelido Window Displays!"
+  ],
+  "1163": [
+    "Boost your agency's visibility today!...",
+    "Boost your agency's visibility today!\nVisit our shop, explore the Homelido Window Display series, and with just a few clicks, place your order.\n\nStart enhancing customer engagement and brand awareness immediately.",
+    "Boost your agency's visibility today!\nVisit our shop, explore the Homelido Window Display series, and with just a few clicks, place your order.\n\nStart enhancing customer engagement and brand awareness immediately."
+  ],
+  "1164": [
+    "chooseanaxistingcard",
+    "Choose An Existng Card",
+    "Choose An Existng Card"
+  ]
+}

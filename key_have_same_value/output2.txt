@@ -1,0 +1,1559 @@
+Belgium = countrycode_be : Belgium
+it = countrycode_it : Italy
+nl = countrycode_nl : Netherlands
+French = fr : French
+english = en : English
+English = en : English
+countrycode_it = it : Italy
+countrycode_nl = nl : Netherlands
+mon = Mon : Mon
+tue = Tue : Tue
+wed = Wed : Wed
+thu = Thu : Thu
+fri = Fri : Fri
+sat = Sat : Sat
+sun = Sun : Sun
+next = Next : Next
+fail = Fail : Fail
+open = Open : Open
+close = Close : Close
+success = Success : Success
+from = From : From
+to = To : To
+no = No : No
+yes = Yes : Yes
+cancel = Cancel : Cancel
+on = On : On
+off = Off : Off
+complete = Complete : Complete
+save = Save : Save
+password = Password : Password
+displayname = Display name : Display name
+phonenumber = Phone number : Phone number  
+enteryourpassword = Enter your password : Enter your password
+enteryourphonenumber = Enter your phone number : Enter your phone number
+repeatyourpassword = Repeat your password : Repeat your password
+repeat = Repeat : Repeat
+unknownerror = Unknown error : Unknown error
+welcome = Welcome : Welcome
+pleasecheckyouremailbox = Please check your
+email box ! : Please check your
+email box !
+dontforgetcheckspambox = Don't forget to check also the SPAM box : Don't forget to check also the SPAM box
+enterotpcode = Enter OTP Code : Enter OTP Code
+yourarcikipeaccount = Your arckipel account : Your arckipel account
+enterthecodereceivedbyemail = Enter the code received by email. : Enter the code received by email.
+enterthecodereceivedbyphone = Enter the code received by phone. : Enter the code received by phone.
+selectyourindustry = Select your Industry : Select your Industry
+thischoiceisveryimportant = This choice is very important ! You will not be able to publish in another country, except if you get a World Pass : This choice is very important ! You will not be able to publish in another country, except if you get a World Pass
+congratulationsregister = Congratulations, you have successfully registered! : Congratulations, you have successfully registered!
+congratulationsreset = Congratulations, you have reset your password! : Congratulations, you have reset your password!
+forgotpassword = Forgot password : Forgot password
+forgotpassword? = Forgot password? : Forgot password?
+bycontinueiacceptthe = By Continuing I accept the  : By Continuing I accept the 
+termsandconditions = Terms and Conditions : Terms and Conditions
+donnothaveanaccountyet = Don't have an account yet ? : Don't have an account yet ?
+register = Register : Register
+thisphonealreadyexisted = This phone number already existed! : This phone number already existed!
+doubleaudthactived = Double Authentication
+activated : Double Authentication
+activated
+checkyourappleauth = Check your arckipel
+and confirm the connection attempt.
+If you do not see a notification, you can also
+scan this code with the application : Check your arckipel
+and confirm the connection attempt.
+If you do not see a notification, you can also
+scan this code with the application
+getmycode = Get My Code : Get My Code
+thisemailinvalidoralreadyused = This email invalid or already used! : This email invalid or already used!
+yourcodenotmatch = Your code not match : Your code not match
+usefullinks = Useful Links : Useful Links
+listing = Listing : Listing
+contactus = Contact Us : Contact Us
+prosagencies = Pros & Agencies : Pros & Agencies
+service = Service : Service
+legal = Legal : Legal
+getintouch = Get in Touch : Get in Touch
+newsletter = Newsletter : Newsletter
+youremail = Your Email : Your Email
+submit = Submit : Submit
+currency = Currency : Currency
+orchooseacurrency = or... choose a currency : or... choose a currency
+suggestedcurrencies = Suggested currencies : Suggested currencies
+language = Language : Language
+suggestedlanguageandregionn = Suggested language and region : Suggested language and region
+unitedstates = United States : United States
+choosealanguageandregion = Choose a language : Choose a language
+m2 = m² : m²
+ft2 = ft² : ft²
+chooseametricsystem = Choose a metric system : Choose a metric system
+squaremeters = Square meters : Square meters
+quarefeet = Quare feet : Quare feet
+location = Location : Location
+typealocation = Type a location : Type a location
+morefilters = More filters : More filters
+morefilter = More filter : More filter
+resetfilters = Reset filters : Reset filters
+utilities = Utilities : Utilities
+purpose = Purpose : Purpose
+rentbuy = Rent, buy, ... : Rent, buy, ...
+buy = Buy : Buy
+type = Type : Type
+house = House : House
+villa = Villa : Villa
+smallhouse = Small House : Small House
+appartement = Appartement : Appartement
+wheredoyouwanttomove = Where to you want to move ? : Where to you want to move ?
+wheredoyouwanttomove2 = Where to you want
+to move ? : Where to you want
+to move ?
+search = Search : Search
+size = Size : Size
+sqft = SqFt : SqFt
+bedroom = Bedroom : Bedroom
+bathroom = Bathroom : Bathroom
+help = Help : Help
+iamprivateuser = I'm a Private User : I'm a Private User
+iamaprivateuser = I'm a Private User : I'm a Private User
+iamprivatepro = I'm  an Agent : I'm  an Agent
+login/signup = Login / Signup : Login / Signup
+go = Go : Go
+category = Category : Category
+subcategory = Subcategory : Subcategory
+selected = Selected : Selected
+checkyourmailbox = Check your mail box to get otp : Check your mail box to get otp
+chooseapublicname = Choose a public name : Choose a public name
+publicname = Public name : Public name
+publicnamenote = Your public name is how you choose to identify yourself to other users within the community. Unlike @username, your public name doesn't have to follow a specific format, and it doesn't need to be unique : Your public name is how you choose to identify yourself to other users within the community. Unlike @username, your public name doesn't have to follow a specific format, and it doesn't need to be unique
+yourusername = Your @Username : Your @Username
+chosoeausername = Choose a @Username : Choose a @Username
+chooseusernamenote = Your username (@username) is the key to logging in
+it must be one-of-a-kind,
+using only lowercase letters, numbers, and underscores (_),
+be between 4 and 20 characters long. : Your username (@username) is the key to logging in
+it must be one-of-a-kind,
+using only lowercase letters, numbers, and underscores (_),
+be between 4 and 20 characters long.
+chooseusername = Choose a @username : Choose a @username
+confirmpassword = Confirm Password : Confirm Password
+username = Username : Username
+unfortunatly = Unfortunatly : Unfortunatly
+isalreadytakenyourusernamebla = is already taken.
+Your username must be unique !
+Try another one.
+Note: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores. : is already taken.
+Your username must be unique !
+Try another one.
+Note: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores.
+isalreadytakenyourusernamebla2 = is invalid.
+Your username must be unique !
+Try another one.
+Note: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores. : is invalid.
+Your username must be unique !
+Try another one.
+Note: The value must be between 4 and 25 characters long, and can only contain letters, numbers, and underscores.
+registeruser = Register User : Register User
+isuniqueandnotyettaken = is unique and not yet taken : is unique and not yet taken
+isnotavaliable =  is not avaliable! :  is not avaliable!
+isvaliable =  is avaliable! :  is avaliable!
+onlylowercasenumber = only lowercase, numbers and _underscore_ : only lowercase, numbers and _underscore_
+between4end24 = between 4 and 24 characters : between 4 and 24 characters
+pleaseconfirmyourlang = Please confirm your language : Please confirm your language
+What type of account should I choose? = What type of account should I choose?  : What type of account should I choose? 
+youcanidentifyyourselfasanyfollow = You can identify yourself as any of the following profiles : : You can identify yourself as any of the following profiles :
+registernoteusersection = Private User sign-up is perfect for those who are: : Private User sign-up is perfect for those who are:
+ineedaproaccount = I need a PRO account : I need a PRO account
+share = Share : Share
+favourite = Favourite : Favourite
+agencyreference = Agency Reference : Agency Reference
+morepropertiesfromthisagency = More properties from this agency : More properties from this agency
+youmusttobeloggedtoStart a conversation = You must to be logged
+to start a conversation : You must to be logged
+to start a conversation
+finances = Finances : Finances
+rentprice = Rent price : Rent price
+deposit = Deposit : Deposit
+mincontractduration = Min contract duration : Min contract duration
+estimatemonthlyindivcharge = Estimate Monthly indiv charge : Estimate Monthly indiv charge
+locations = Locations : Locations
+whereyoullbe = Where you'll be : Where you'll be
+otherproperty = Other Property : Other Property
+thispropertyisavailablefrom = This property is available from : This property is available from
+selfcheckin = Self check-in : Self check-in
+youcancheckinwiththedoorman = You can check in with the doorman. : You can check in with the doorman.
+parkforfree = Park for free : Park for free
+thisisoneofthefewplacesintheareawithfreeparking = This is one of the few places in the area with free parking. : This is one of the few places in the area with free parking.
+whatthisplaceoffers = What this place offers : What this place offers
+showallphoto = Show all photo : Show all photo
+writesomething = Write something : Write something
+home = Home : Home
+selectone = Select one.. : Select one..
+dashboard = Dashboard : Dashboard
+light = Light : Light
+dark = Dark : Dark
+myads = My Ads : My Ads
+myprofile = My Profile : My Profile
+menu = Menu : Menu
+plot = Plot : Plot
+garageparking = Garage/Parking : Garage/Parking
+industrial = Industrial : Industrial
+office = Office : Office
+apartment = Apartment : Apartment
+commercial = Commercial : Commercial
+forbuy = For buy : For buy
+forrent = For rent : For rent
+shorttermrent = Short term rent : Short term rent
+sharehouse = Share house : Share house
+whatisthepurposeofthisad = What is the purpose of this ad? : What is the purpose of this ad?
+createad = Create Ad : Create Ad
+adsremaininginyourpackage = Ads remaining in your package : Ads remaining in your package
+availablefrom = Available From : Available From
+surface = Surface : Surface
+picture = Picture : Picture
+publish = Publish : Publish
+editmyprofile = Edit My Profile : Edit My Profile
+accountinfos = Account Infos : Account Infos
+editprofile = Edit Profile : Edit Profile
+dateformat = Date format : Date format
+mylanguage = My language : My language
+update = Update : Update
+currentpassword = Current password : Current password
+profile = Profile : Profile
+notifications = Notifications : Notifications
+lifeannuity = Life Annuity : Life Annuity
+selectasubcategory = Select a Sub-Category : Select a Sub-Category
+whereisthispropertylocated = Where is this property located? : Where is this property located?
+shortrent = Short Rent : Short Rent
+shareplace = Share Place : Share Place
+homesitting = Home Sitting : Home Sitting
+financesdescription = This property is located in an area where the following currency is used : This property is located in an area where the following currency is used
+estimatemonthlyindividualcharges = Estimate Monthly Individual Charges : Estimate Monthly Individual Charges
+fixedcharges = Fixed Charges : Fixed Charges
+thereisnoestimationforthemoment = There is no estimation for the moment : There is no estimation for the moment
+thereisnofixedcharges = There is no fixed charges : There is no fixed charges
+minimalcontractduration = Minimal Contract Duration : Minimal Contract Duration
+yearsunit = Year (s) : Year (s)
+peb = PEB : PEB
+pebvaliduntil = PEB Valid until : PEB Valid until
+bedroomslabel = Bedroom (s) : Bedroom (s)
+numberofroomlabel = Number of room (s) : Number of room (s)
+numberoffllorlabel = Number of floor (s) : Number of floor (s)
+landsize = Land Size : Land Size
+bathroomslabel = Bathroom (s) : Bathroom (s)
+garageslabel = Garage (s) : Garage (s)
+floorposition = Floor position : Floor position
+ageandhistory = Age and history : Age and history
+yearbuild = Year build : Year build
+remodelyear = Remodel Year : Remodel Year
+amenities = Amenities : Amenities
+searchinyourfavorite = Search in your favorite : Search in your favorite
+upgradenow = Upgrade now : Upgrade now
+youmaylike = You may like ... : You may like ...
+uservip = User VIP : User VIP
+follower = Follower : Follower
+numberofposts = Number of posts : Number of posts
+resultsfound = results found : results found
+noresultsforthemomentforthisrequest = No results for the moment for this request : No results for the moment for this request
+all = All : All
+yourstatistics = Your Statistics : Your Statistics
+publishlocationallowed = Publish location allowed : Publish location allowed
+homelidomonthlysubscription = Homelido, Monthly subscription : Homelido, Monthly subscription
+tablenumber = No. : No.
+postname = Post Name : Post Name
+week = Week : Week
+date = Date : Date
+amount = Amount : Amount
+invoice = Invoice : Invoice
+seemyinvoiceonline = See my invoice online : See my invoice online
+visitsplanned = Visits planned : Visits planned
+responserate = Response Rate : Response Rate
+readless = Read less : Read less
+openinghours = Opening hours : Opening hours
+latest = Latest : Latest
+ouragents = Our Agents : Our Agents
+notyetverified = Not yet verified : Not yet verified
+shareplaces = Share Places : Share Places
+groupcreated = Group created : Group created
+attachment = Attachment : Attachment
+lastseen = Last seen : Last seen
+online = Online : Online
+offline = Offline : Offline
+nothinghere = Nothing here : Nothing here
+oldFirst = Old first : Old first
+newFirst = New first : New first
+distance = Distance : Distance
+theownerdidnotsetanyinfos = The owner did't set any informations : The owner did't set any informations
+onlyonesizeforcurrentfilter = (Only one size for current filter) : (Only one size for current filter)
+nopriceforcurrentfilter = (No price for current filter) : (No price for current filter)
+onlyonepriceforcurrentfilter = (Only one price for current filter) : (Only one price for current filter)
+tosubmitashorttermdesc = To submit a short-term rental agreement (less than one year), start by creating an ad by selecting the option for "short term rental" in the first step. : To submit a short-term rental agreement (less than one year), start by creating an ad by selecting the option for "short term rental" in the first step.
+toprotectyourprivacynickname = To protect your privacy, in most circumstances we will only display your public name instead of your first and last name : To protect your privacy, in most circumstances we will only display your public name instead of your first and last name
+bouquet = Bouquet : Bouquet
+rentannuity = Rent Annuity : Rent Annuity
+financesdescriptionrentannuity = Ongoing payment that are made to the annuitant on a regular basis, usually once a month : Ongoing payment that are made to the annuitant on a regular basis, usually once a month
+completethisdraft = Complete this draft : Complete this draft
+createyourfirstad = Create your first ad : Create your first ad
+disclaimer = Disclaimer : Disclaimer
+termandcondition = Terms & Conditions : Terms & Conditions
+listtingrules = Listing Rules : Listing Rules
+generaltermsofsale = General Terms of Sale : General Terms of Sale
+pictures = Pictures : Pictures
+mainpic = Main picture : Main picture
+drophere! = Drop here! : Drop here!
+draganddropthemainpic = Drag and Drop
+the main picture here* : Drag and Drop
+the main picture here*
+draganddroptheonenpic = Drag and Drop
+one picture here* : Drag and Drop
+one picture here*
+GDPRCompliance = GDPR Compliance : GDPR Compliance
+DMCAPolicy = DMCA Policy : DMCA Policy
+seenumberreutls = See {} results : See {} results
+list = List : List
+map = Map : Map
+youarehere = You are here : You are here
+seeall = See all : See all
+hello = Hello : Hello
+mylisadsitem = My List Ads @item : My List Ads @item
+payment = Payment : Payment
+step1chooseoptions = Step 1: Choose options : Step 1: Choose options
+step3payment = Step 3: Payment : Step 3: Payment
+featuread = Feature ad : Feature ad
+total = Total : Total
+addanewbillingaddress = Add a new billing address : Add a new billing address
+totalamount = Total Amount : Total Amount
+ordernumber = Order number : Order number
+yourorder = Your order : Your order
+billingaddress = Billing Address : Billing Address
+addbillinginfos = Add Billing Infos : Add Billing Infos
+numberofbeds = Number of bedroom(s) : Number of bedroom(s)
+numberofbaths = Number of bathroom(s) : Number of bathroom(s)
+forsale = For sale : For sale
+youmustbeloggedrorevealthecontactinfos = You must be logged to reveal the contact infos : You must be logged to reveal the contact infos
+chatindashboard = Chat in
+dashboard : Chat in
+dashboard
+message = Message : Message
+searchmessages = Search messages : Search messages
+manage = Manage : Manage
+view = View : View
+seethisad = See this ad : See this ad
+upgrade = Upgrade : Upgrade
+defineyouraccount = Define your account : Define your account
+pleaseselect.. = Please, select... : Please, select...
+inwitchcontryislocatedtheagencytojoin = In which country is located the agency you want to join ? : In which country is located the agency you want to join ?
+areyousurethatyouwanttoremovethisfromfavorite = Are you sure that you want to remove
+this ad from favorite? : Are you sure that you want to remove
+this ad from favorite?
+areyousurethatyouwanttoremovethisad = Are you sure that you want
+to remove this ad? : Are you sure that you want
+to remove this ad?
+choosethisoptionfor = Choose this option for : Choose this option for
+default = Default : Default
+newcard = New Card : New Card
+adlimiexccededdisblesomeadsorupgrade = Ad limit exceeded. Disable some ads or upgrade your plan : Ad limit exceeded. Disable some ads or upgrade your plan
+selectyouragency = Select your agency : Select your agency
+searchanagemceyin = Search an agency in : Search an agency in
+summary = Summary : Summary
+accessagencyplan = Access Agency
+Plan : Access Agency
+Plan
+arequestemailwillbesenttoagenceymanage = A request email will be sent to the agency manager to confirm your membership : A request email will be sent to the agency manager to confirm your membership
+pleaseasktomanagertocheck = Please ask to your manager to check
+his email or spam folder : Please ask to your manager to check
+his email or spam folder
+yourbillinginfos = Your Billing Informations : Your Billing Informations
+billinginfos = Billing Infos : Billing Infos
+openstreetview = Open Street View : Open Street View
+thisemailalreadyused = This email already used : This email already used
+areyousurethatyouwanttodeletethisad = Are you sure that you want to delete
+this ad permanently ?  : Are you sure that you want to delete
+this ad permanently ? 
+delete = Delete : Delete
+areyousurethatyouwantdeletethisads = Are you sure that you want to delete this ad ? : Are you sure that you want to delete this ad ?
+youwillquitthisscreenandadraftwillnecreate = If you quit this screen now
+a draft will be created
+automatically for you  : If you quit this screen now
+a draft will be created
+automatically for you 
+signupnow = Sign up now : Sign up now
+hintsentence1 = I am looking to rent a flat in Paris, under 2000€, min 80m2, 3 bedrooms. : I am looking to rent a flat in Paris, under 2000€, min 80m2, 3 bedrooms.
+hintsentence2 = Nice House in Bruxelles center, min 2 bedrooms : Nice House in Bruxelles center, min 2 bedrooms
+hintsentence3 = I am looking for a flat share in Rome with people between 20 and 30 years old : I am looking for a flat share in Rome with people between 20 and 30 years old
+publistfirstadnowonly = Publish you first ad now for only : Publish you first ad now for only
+proaccess = Pro Access : Pro Access
+areyouaproagent? = Are you a professional agent? 
+See how to Access to your new dashboard here  : Are you a professional agent? 
+See how to Access to your new dashboard here 
+chat = Chat : Chat
+favorite = Favorite : Favorite
+settings = Settings : Settings
+acodewassento = a code was sent to:  : a code was sent to: 
+youhaveeneterawrongemail = You have entered a wrong email ? back : You have entered a wrong email ? back
+youhaveeneterawrongphone = You have entered a wrong phone ? back : You have entered a wrong phone ? back
+yearly-20% = Yearly  (-20%) : Yearly  (-20%)
+thepropertyyouarelookingforcannotdisplay = Oops, the Property you are looking for cannot be displayed - It may have been deleted or does not exist : Oops, the Property you are looking for cannot be displayed - It may have been deleted or does not exist
+clickonthebuttonbellowtocontinuebrowselist = Click on the button bellow to continue to browse our other listings to find a property
+that suits your needs. : Click on the button bellow to continue to browse our other listings to find a property
+that suits your needs.
+backtohomepage = Back to Homepage : Back to Homepage
+featuredads = Featured Ads : Featured Ads
+visible online = Visible online : Visible online
+not visible online = Not visible online : Not visible online
+countryallowed: = country allowed :  : country allowed : 
+|forsale =  | for sale :  | for sale
+/month =  / month :  / month
+/lifeannutity =  / life annuity :  / life annuity
+shopnow = Shop now : Shop now
+wallview = Wall view : Wall view
+allscreens = All screens : All screens
+searchascreenbynameorserial = Search a screen by name or serial : Search a screen by name or serial
+searchaadsbypricetitle = Search a ads by price, title, category... : Search a ads by price, title, category...
+listads = List ads : List ads
+preview = Preview : Preview
+elevateyourrealstateshowcasewith = Elevate Your Real Estate Showcase with
+Cutting-Edge Technology ! : Elevate Your Real Estate Showcase with
+Cutting-Edge Technology !
+elevateyourrealstateshowcasewithnote = Transform your real estate sales strategy with our innovative ad synchronisation solution. With our high-end screens, you can easily publish and synchronise your listings directly from our platform. No need to waste time manually transferring information. Everything is automated and easy to use. Our screens offer exceptional image quality and an immersive visual experience for your potential customers. Discover now how we can improve your property presentation. : Transform your real estate sales strategy with our innovative ad synchronisation solution. With our high-end screens, you can easily publish and synchronise your listings directly from our platform. No need to waste time manually transferring information. Everything is automated and easy to use. Our screens offer exceptional image quality and an immersive visual experience for your potential customers. Discover now how we can improve your property presentation.
+gallery = Gallery : Gallery
+shop = Shop : Shop
+searchAProductByType = Search a product by type : Search a product by type
+cart = Cart : Cart
+subTotal = Subtotal : Subtotal
+subtotal = Subtotal : Subtotal
+taxFeeVAT = Taxes, Fees, VAT : Taxes, Fees, VAT
+moreInfo = More info : More info
+addToCart = Add to cart : Add to cart
+paymentInstruction = Choose the publication duration and highlighting options : Choose the publication duration and highlighting options
+deliveryAddress = Delivery Address : Delivery Address
+billingInfo = Billing Info : Billing Info
+addBillingInfo = Add billing info : Add billing info
+myDeliveryAddress = My delivery address : My delivery address
+chooseALabelForYouToRemember = Choose a label for you to remember : Choose a label for you to remember
+billingName = Billing name : Billing name
+companyname = Company name : Company name
+companyNumber = Company number : Company number
+streetAndNumber = Street, number : Street, number
+VATNumber = VAT number : VAT number
+city = City : City
+country = Country : Country
+whereDoYouNeedToDeliver = Where do we need to deliver ? : Where do we need to deliver ?
+totalsurface = Total Surface : Total Surface
+rooms = Rooms : Rooms
+alreadylinkedfromotherside = Already linked from other side : Already linked from other side
+yourads = Your ads : Your ads
+searchlocation = Search location : Search location
+loginbyusername = Login by username : Login by username
+registerpro = Register Pro : Register Pro
+joinnow = Join now : Join now
+joinnow2 = Join Now : Join Now
+joinusnow = Join us now : Join us now
+jointhe = Join the : Join the
+future = Future : Future
+ofrealestate = of Real Estate : of Real Estate
+unlockingthepowerofseamless = Unlocking the power of seamless collaboration and
+increased efficiency. : Unlocking the power of seamless collaboration and
+increased efficiency.
+allinone = ALL-IN-ONE : ALL-IN-ONE
+homelido = Homelido : Homelido
+foranyrealestateneed = for any
+real estate need : for any
+real estate need
+introducinghomelido = Introducing Homelido, the first all-in-one
+Real Estate platform : Introducing Homelido, the first all-in-one
+Real Estate platform
+manageeverystep = Manage every step of the Real Estate
+process, from construction to managing
+and referencing estates. : Manage every step of the Real Estate
+process, from construction to managing
+and referencing estates.
+joinusandrevolutionize = Join us and revolutionize the industry. : Join us and revolutionize the industry.
+painpoints = PAIN POINTS : PAIN POINTS
+addressingtheindustry = Addressing the Industry's : Addressing the Industry's
+mostpressingchallenges = Most
+Pressing Challenges : Most
+Pressing Challenges
+ourmarketresearch = Our market research has shown that : Our market research has shown that
+technologyobsolescence = Technology Obsolescence : Technology Obsolescence
+keepupwithtech = Keeping up with Tech is one of
+the biggest challenges for agencies
+and realtors : Keeping up with Tech is one of
+the biggest challenges for agencies
+and realtors
+proptechunderutilization = PropTech Underutilization : PropTech Underutilization
+onlyaround12% = Only around 12% of real estate companies
+in Europe have fully integrated PropTech
+into their business models : Only around 12% of real estate companies
+in Europe have fully integrated PropTech
+into their business models
+untappeddigitalpotential = Untapped Digital Potential : Untapped Digital Potential
+believethattheyarenottaking = Believe that they are not taking full
+advantage of the potential of digital
+technologies : Believe that they are not taking full
+advantage of the potential of digital
+technologies
+weareseizingthe = We Are Seizing The : We Are Seizing The
+opportunitiesnow = Opportunities Now : Opportunities Now
+proptechcanreducerealestate = PropTech can reduce real estate transaction times by up to : PropTech can reduce real estate transaction times by up to
+40%andreduceoperationalcosts = 40%, and reduce operational costs by up to 30% : 40%, and reduce operational costs by up to 30%
+proptechmarketineurope = PropTech market in Europe is expected to grow at a CAGR (compound annual growth rate) of : PropTech market in Europe is expected to grow at a CAGR (compound annual growth rate) of
+24.5%between2021and2026 = 24.5% between 2021 and 2026 : 24.5% between 2021 and 2026
+europeanrealestatecompanies = European real estate companies
+are investing in PropTech and 
+digital innovation to improve their
+operations and gain a competitive
+advantage : European real estate companies
+are investing in PropTech and 
+digital innovation to improve their
+operations and gain a competitive
+advantage
+believethatanallinonerealestate = Believe that an all-in-one real
+estate platform would be a valuable
+addition to their business, and could
+help them to improve efficiency,
+reduce costs, and increase revenue : Believe that an all-in-one real
+estate platform would be a valuable
+addition to their business, and could
+help them to improve efficiency,
+reduce costs, and increase revenue
+functionalities = FUNCTIONALITIES : FUNCTIONALITIES
+whatmakehomelido = What makes Homelido : What makes Homelido
+sounique = so unique? : so unique?
+anunparalleledlevel = An unparalleled level of completeness and synchronization across all
+real estate business processes : An unparalleled level of completeness and synchronization across all
+real estate business processes
+propertymanagement = Property management
+done intuitively : Property management
+done intuitively
+homelidoallowspropertymanagerstotrack = Homelido allows property managers to track
+leases, manage requests, and handle
+communication all in one place. : Homelido allows property managers to track
+leases, manage requests, and handle
+communication all in one place.
+homelidopersonalizeddigital = Homelido's Personalized
+Digital Signage Showcase : Homelido's Personalized
+Digital Signage Showcase
+agenciescanpublishtheirhomelido = Agencies can publish their Homelido ads on
+interlinked advertising screens in just a few
+seconds, saving them a lot of time and effort.  : Agencies can publish their Homelido ads on
+interlinked advertising screens in just a few
+seconds, saving them a lot of time and effort. 
+onlinepropertymarketplace = Online property marketplace
+for any type of property : Online property marketplace
+for any type of property
+allowagenciesrealtorsandlandlords = Allow agencies, realtors and landlords to list and
+market properties online, reaching a wider,
+international audience. : Allow agencies, realtors and landlords to list and
+market properties online, reaching a wider,
+international audience.
+adaptedtoeveryneed = Adapted to every need : Adapted to every need
+weareaimedataninternational = We are aimed at an international, dynamic
+audience : We are aimed at an international, dynamic
+audience
+mobileapp = Mobile App : Mobile App
+multicurrencylanguages = Multi-Currency/ Languages : Multi-Currency/ Languages
+personalizedsearchfunction = Personalized Search
+Function : Personalized Search
+Function
+signupincentives = SIGN UP INCENTIVES : SIGN UP INCENTIVES
+integration = Integration : Integration
+weprovideourplatformusers = We provide our platform users the opportunity to build their reach even further through
+smart integration.  : We provide our platform users the opportunity to build their reach even further through
+smart integration. 
+morecomingsoon = More coming
+soon... : More coming
+soon...
+subtitle = SUBTITLE : SUBTITLE
+discoverthebenefits = Discover the Benefits : Discover the Benefits
+ofworkingwithhomelido = of Working with Homelido : of Working with Homelido
+competitivecommissions = Competitive Commissions : Competitive Commissions
+weshareoursuccesswithyou = We share our success with you. When we
+reach our company goals, you will be
+incentivized too. : We share our success with you. When we
+reach our company goals, you will be
+incentivized too.
+excitinggrowthopportunities = Exciting Growth Opportunities : Exciting Growth Opportunities
+wecreateaclearmapforyou = We create a clear map for you to develop
+your skills and raise your salary over time : We create a clear map for you to develop
+your skills and raise your salary over time
+workremotely = Work Remotely : Work Remotely
+liveandworkwhereeveryoulike = Live and work wherever you like! : Live and work wherever you like!
+impactdrivenleadership = Impact-Driven Leadership : Impact-Driven Leadership
+homelidostrivestochangetherealestatebusiness = Homelido strives to change the real estate
+business for the good, providing real
+solutions. : Homelido strives to change the real estate
+business for the good, providing real
+solutions.
+diversecustomerbase = Diverse Customer Base : Diverse Customer Base
+homelidoprovidessolutionstodifferenttarget = Homelido provides solutions to different
+target groups, pick yours an thrive! : Homelido provides solutions to different
+target groups, pick yours an thrive!
+fastmovingstartup = Fast-Moving Startup : Fast-Moving Startup
+wearechanginghowrealestateprofessionals = We are changing how real estate
+professionals work worldwide! Join us for
+the ride and make a difference in your
+industry. : We are changing how real estate
+professionals work worldwide! Join us for
+the ride and make a difference in your
+industry.
+title = Title : Title
+platformlaunch = Platform Launch : Platform Launch
+takeadvantageoftheuniqueopportunity = Take advantage of the unique
+opportunity to play a part in our
+sales strategy with your expertise
+and knowledge. : Take advantage of the unique
+opportunity to play a part in our
+sales strategy with your expertise
+and knowledge.
+customerbasegrowth = Customer Base Growth : Customer Base Growth
+putoursalesstrategyintopractice = Put our sales strategy into practice
+and get interestinzg commissions.
+Only you set your own limits! : Put our sales strategy into practice
+and get interestinzg commissions.
+Only you set your own limits!
+phase3 = Phase 3 : Phase 3
+createyourownsalesteam = Create your own sales team and manage
+as many people as you need to keep
+Homelido growing while creating long-
+term passive income through shares of
+each enrolment sold on Homelido. : Create your own sales team and manage
+as many people as you need to keep
+Homelido growing while creating long-
+term passive income through shares of
+each enrolment sold on Homelido.
+joinhomelido = JOIN HOMELIDO : JOIN HOMELIDO
+stepintothefutureof = Step into the future of : Step into the future of
+realestatewithus = 
+real estate with us - join now! : 
+real estate with us - join now!
+areyouadrivenbusinessdeveloper = Are you a driven business developer with a hunger for success? : Are you a driven business developer with a hunger for success?
+contactustodaytolearnhowyoucanhelpus = Contact us today to learn how you can help us take our real estate platform to the next
+level and achieve our goals together. : Contact us today to learn how you can help us take our real estate platform to the next
+level and achieve our goals together.
+enteryouremailaddressnumberphone = Enter your email address / number phone : Enter your email address / number phone
+chooseyourplan = Choose your plan : Choose your plan
+thisscreenisnotyetaddawall = This screen is not yet added a wall : This screen is not yet added a wall
+createawall = Create a wall : Create a wall
+addtoandexistwall = Add to an existing a wall : Add to an existing a wall
+myscreens = My Screens : My Screens
+qr_code = QR Code : QR Code
+moreads = More ads : More ads
+adreference = Ad reference : Ad reference
+seethephonenumber = See the phone number : See the phone number
+roommates = Roommates : Roommates
+on_2 = on : on
+introduceyourself = Introduce yourself : Introduce yourself
+loremipsumcontent = Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo
+whatprofilearetheylookingfor = What profile are they looking for ? : What profile are they looking for ?
+depositamount = Deposit amount : Deposit amount
+wifielectricityandwatercost = Wi-Fi electricity and water costs : Wi-Fi electricity and water costs
+age = Age : Age
+activityfield = Activity field : Activity field
+kids = Kids : Kids
+pets = Pets : Pets
+hoursofoperation = Hours of Operation : Hours of Operation
+featured = Featured : Featured
+asaprofessional,youhavetoverifyyourinfos = As a professional, You have to verify your information : As a professional, You have to verify your information
+passport = Passport : Passport
+selfiewithpassport = Take a selfie with your passport : Take a selfie with your passport
+iconsenttothetermsandconditions = I consent to the terms and conditions and privacy policy : I consent to the terms and conditions and privacy policy
+uploadyourpassportpicture = Upload your passport picture : Upload your passport picture
+selectfileformdevice = Select file from device : Select file from device
+comingsoonselectfilefromdevice = Select file from device : Select file from device
+canEditAds = Can edit ad : Can edit ad
+canMakeVisit = Can make visit : Can make visit
+isPubliclyVisible = Is publicly visible : Is publicly visible
+youradsisnotfeatureboostyouradforaweek = Your ads is not featured :  Boost your ad for One week ! : Your ads is not featured :  Boost your ad for One week !
+clickhere = Click here : Click here
+congratulationyouradsisfeaturedulti: = Congratulation ! Your ad is featured until : : Congratulation ! Your ad is featured until :
+boostlonger = Boost Longer ?  : Boost Longer ? 
+contact = Contact : Contact
+agencies = Agencies : Agencies
+othertab = Other tab : Other tab
+export = Export : Export
+createcontact = Create contact : Create contact
+showing = Showing : Showing
+searchanything = Search anything... : Search anything...
+contactname = Contact name : Contact name
+phone = Phone : Phone
+property = Property : Property
+status = Status : Status
+contactowner = Contact owner : Contact owner
+other = Other : Other
+add = Add : Add
+peopleresponsibleforthisads = People responsible for this ads : People responsible for this ads
+createanewcontact = Create a new contact : Create a new contact
+statusoflead = Status of lead : Status of lead
+create = Create : Create
+live = Live : Live
+details = Details : Details
+lastactivities = Last activities : Last activities
+company = Company : Company
+callnow = Call now : Call now
+chatnow = Chat now : Chat now
+more = More : More
+clientdetails = Client details : Client details
+favorites = Favorites : Favorites
+fullname = Full name : Full name
+numberphone = Number phone : Number phone
+dateofbirth = Date of birth : Date of birth
+address = Address : Address
+latesttasks = Latest Tasks : Latest Tasks
+lastactivites = Last Activities : Last Activities
+createdby = created by : created by
+due = Due : Due
+reminder = Reminder : Reminder
+noreminder = No Reminder : No Reminder
+taskpriority = Task priority : Task priority
+urgent = Urgent : Urgent
+assignedtask = Assigned task : Assigned task
+overview = Overview : Overview
+tasks = Tasks : Tasks
+appointments = Appointments : Appointments
+billing = Billing : Billing
+notes = Notes : Notes
+note = Note : Note
+documents = Documents : Documents
+addnewcomment = add new comment : add new comment
+addnewfile = add new file : add new file
+edit2 = edit : edit
+today = Today : Today
+seemorepropertiesfromthisowner = See more properties from this owner : See more properties from this owner
+bookappointment = Book appointment : Book appointment
+requestappointmentwithclient = Request appointment with client : Request appointment with client
+addclientfield = Add client field : Add client field
+addnote = Add note : Add note
+addtask = Add task : Add task
+attachdocuments = Attach documents : Attach documents
+tasksremaining = Tasks Remaining : Tasks Remaining
+tasksdone = Tasks Done : Tasks Done
+tasksleft = Tasks Left : Tasks Left
+new = New : New
+ongoing = On going : On going
+completed = Completed : Completed
+contactlist = Contact list : Contact list
+calendar = Calendar : Calendar
+cover = Cover : Cover
+task = Task : Task
+limitedaccess = Limited access : Limited access
+addanewtask = Add a new task : Add a new task
+duetoday = Due today : Due today
+deadlinetoday = Deadline today : Deadline today
+taskdetail = Task detail : Task detail
+assignees = Assignees : Assignees
+duedate = Due date : Due date
+tags = Tags : Tags
+createdby2 = Created by : Created by
+viewers = Viewers : Viewers
+activities = Activities : Activities
+comments = Comments : Comments
+subtask = Subtask : Subtask
+attachments = Attachments : Attachments
+createanewtask = Create a new task : Create a new task
+selectaproject = Select a project : Select a project
+day = Day : Day
+selectday = Select day : Select day
+time = Time : Time
+selecttime = Select time : Select time
+color = Color : Color
+priority = Priority : Priority
+selectpriority = Select priority : Select priority
+selectstatus = Select status : Select status
+assignto = Assign to : Assign to
+attachfile = Attach file : Attach file
+draganddropthemainpicture = Drag and Drop the main picture here* : Drag and Drop the main picture here*
+uploadfronyourdevice = Upload from your device : Upload from your device
+uploadfromyourdevice = Upload from your device : Upload from your device
+addanewevents = Add a new events : Add a new events
+eventdetail = Event detail : Event detail
+event = Event : Event
+careers = Careers : Careers
+our = Our : Our
+jobs = Jobs : Jobs
+work = Work : Work
+personal = Personal : Personal
+essentials = Essentials : Essentials
+appointment = Appointment : Appointment
+createaschedule = Create a schedule : Create a schedule
+notification = Notification : Notification
+timefrom = Time-from : Time-from
+timeto = Time-to : Time-to
+addlocation = Add location : Add location
+addguests = Add guests : Add guests
+selectguest = Select guest : Select guest
+sharedcalendar = Shared calendar : Shared calendar
+reminderbeforetheevent = Reminder before the event : : Reminder before the event :
+crm = CRM : CRM
+filter = Filter : Filter
+group = Group : Group
+creategroup = Create group : Create group
+leadstatus = Lead status : Lead status
+contacted = Contacted : Contacted
+qualified = Qualified : Qualified
+nurtured = Nurtured : Nurtured
+proposalsent = Proposal sent : Proposal sent
+negotiating = Negotiating : Negotiating
+closedwon = Closed - Won : Closed - Won
+closedlost = Closed - Lost : Closed - Lost
+junk = Junk : Junk
+addtype = Add type : Add type
+leadvalue = Lead value : Lead value
+productofservice = Product of Service : Product of Service
+agencycollaborator = Agency collaborator : Agency collaborator
+realestate = Real Estate : Real Estate
+realestate2 = Real Estate : Real Estate
+name = Name : Name
+callvideonow = Call video now : Call video now
+emailaddress = Email address : Email address
+jobtitle = Job title : Job title
+officialaddress = Official address : Official address
+source = Source : Source
+leadscore = Lead score : Lead score
+commissionrateforthislead = Commission Rate for this Lead : Commission Rate for this Lead
+document = Document : Document
+adddocuments = Add documents : Add documents
+product = Product : Product
+products = Products : Products
+productdetails = Product details : Product details
+productcategory = Product category : Product category
+referenceid = Reference (ID) : Reference (ID)
+messagedeleted = The message has been deleted : The message has been deleted
+createbilling = Create billing : Create billing
+sendemail = Send email : Send email
+planandbilling = Plan and billing : Plan and billing
+upgradeplan = Upgrade plan : Upgrade plan
+permonth = / per month : / per month
+mastercard = Mastercard : Mastercard
+paymentmethod = Payment method : Payment method
+expdate = Exp. date : Exp. date
+billinghistory = Billing history : Billing history
+downloadall = Download all : Download all
+plan = Plan : Plan
+recipient = Recipient : Recipient
+pending = Pending : Pending
+paid = Paid : Paid
+sendon = Send on : Send on
+dueon = Due on : Due on
+emailrecipient = Email Recipient : Email Recipient
+dropdragthemainpdfdocexcelhere = Drag and Drop the main .Pdf, .Doc .Excel here* : Drag and Drop the main .Pdf, .Doc .Excel here*
+invoicepaid = Invoice paid : Invoice paid
+downloadfile = Download file : Download file
+createnote = Create note : Create note
+mynote = My note : My note
+notedetail = Note detail : Note detail
+folder = Folder : Folder
+image = Image : Image
+standout = Stand Out : Stand Out
+withsignage =  with
+Signage :  with
+Signage
+readtoupgradeyoureastatebusiness = Ready to Upgrade Your Real Estate Business? Homelido Has the Digital Tools You Need : Ready to Upgrade Your Real Estate Business? Homelido Has the Digital Tools You Need
+getstarted = Get Started : Get Started
+yourbusiness = YOUR BUSINESS : YOUR BUSINESS
+doyouwanttoknow = Do you want to know  : Do you want to know 
+howtoget = how to get: : how to get:
+moremandates = More Mandates? : More Mandates?
+moremandatesnote = Lorem ipsum dolor sit amet
+consectetur. : Lorem ipsum dolor sit amet
+consectetur.
+btterworkfolws = Better Workflows? : Better Workflows?
+btterworkfolwsnote = Better Workflows? : Better Workflows?
+lessexpenses = Less Expenses? : Less Expenses?
+lessexpensesnote = Less Expenses? : Less Expenses?
+1step = 1.STEP : 1.STEP
+2step = 2.STEP : 2.STEP
+case = Case : Case
+areyouathomassophieor = Are you a Thomas, a Sophie, or a David in the real estate world? : Are you a Thomas, a Sophie, or a David in the real estate world?
+discover = Discover : Discover
+whyanthonygetsmoremandates = why Anthony gets more mandates : why Anthony gets more mandates
+whyanthonygetsmoremandatesnote = Let's find out why your brand is your greatest asset when it comes to acquiring new customers in the short and long term. : Let's find out why your brand is your greatest asset when it comes to acquiring new customers in the short and long term.
+datedriven = DATA-DRIVEN : DATA-DRIVEN
+embracing = Embracing  : Embracing 
+thepossibilities = the
+possibilities : the
+possibilities
+thepossibilitiesnote = The Future is Digital: Don't Miss Out on the Benefits of Digital Signage for Your Real Estate Agency : The Future is Digital: Don't Miss Out on the Benefits of Digital Signage for Your Real Estate Agency
+areyourready = are your ready : are your ready
+tobecomehomelidocomliant =  to become Homelido Compliant ? :  to become Homelido Compliant ?
+tobecomehomelidocomliant1 = With Homelido's  : With Homelido's 
+tobecomehomelidocomliant2 = powerful CMS  : powerful CMS 
+tobecomehomelidocomliant3 = (Content Management System) and  : (Content Management System) and 
+tobecomehomelidocomliant4 = dynamic showcase screens  : dynamic showcase screens 
+tobecomehomelidocomliant5 = you can say goodbye to the hassle of  : you can say goodbye to the hassle of 
+tobecomehomelidocomliant6 = attracting clients  : attracting clients 
+tobecomehomelidocomliant7 = while you take  : while you take 
+tobecomehomelidocomliant8 = your brand image  : your brand image 
+tobecomehomelidocomliant9 = to new heights and leave your competitors in the dust. Get ready to optimize the way you do business – let  : to new heights and leave your competitors in the dust. Get ready to optimize the way you do business – let 
+tobecomehomelidocomliant10 = Homelido  : Homelido 
+tobecomehomelidocomliant11 = show you the way. : show you the way.
+createyouradsincms = 1. Create your ads in the CMS : 1. Create your ads in the CMS
+createyouradsincms1 = Streamline your real estate agency activities with Homelido's all-in-one PropTech tool.  : Streamline your real estate agency activities with Homelido's all-in-one PropTech tool. 
+createyouradsincms2 = Our centralized dashboard and intuitive CMS make it easy to create, manage, and showcase your real estate ads using our high-definition Digital Showcase Screens. : Our centralized dashboard and intuitive CMS make it easy to create, manage, and showcase your real estate ads using our high-definition Digital Showcase Screens.
+pushonshowcasescreen = 2. Publish on Showcase Screen : 2. Publish on Showcase Screen
+pushonshowcasescreen1 = Efficiently manage your ads on the screen with just two clicks using our new CMS and showcase screens. : Efficiently manage your ads on the screen with just two clicks using our new CMS and showcase screens.
+pushonshowcasescreen2 = Create and edit ads quickly and easily, and display them in an attractive way to attract potential buyers. : Create and edit ads quickly and easily, and display them in an attractive way to attract potential buyers.
+getviewed = 3. Get viewed : 3. Get viewed
+getviewed1 =  Attract more potential buyers, and increase your revenue :  Attract more potential buyers, and increase your revenue
+getviewed2 = Homelido allows property managers to track leases, manage requests, and handle  communication all in one place. : Homelido allows property managers to track leases, manage requests, and handle  communication all in one place.
+creating = Creating  : Creating 
+thelastingimpression = The Lasting Impression : The Lasting Impression
+digitalscreenpackage = Digital Screen Package : Digital Screen Package
+digitalscreenpackagenote = Our solutions come with all the equipment you need, fully compatible with our application. With easy installation, you can quickly set up and use our technology in your real estate agency. : Our solutions come with all the equipment you need, fully compatible with our application. With easy installation, you can quickly set up and use our technology in your real estate agency.
+digitalscreenpackage1 = High brightness
+screen : High brightness
+screen
+digitalscreenpackage2 = A pre-configured
+mini PC : A pre-configured
+mini PC
+digitalscreenpackage3 = A screen
+support : A screen
+support
+digitalscreenpackage4 = On-site
+installation : On-site
+installation
+getourscreencatelougehere = Get our screen catalogue here : Get our screen catalogue here
+introuchomelidoeshowcasescreen = Introducing Homelido's Showcase Screens: The  : Introducing Homelido's Showcase Screens: The 
+ulimatetoolforyourrealeastateads = 
+Ultimate Tool for Your Real Estate Ads : 
+Ultimate Tool for Your Real Estate Ads
+getyouragenceyfullyhomelidocomplianttoday = Get your Agency fully
+Homlido compliant today : Get your Agency fully
+Homlido compliant today
+getcompliant = Get compliant : Get compliant
+getcompliant1 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+getcompliant2 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+getcompliant3 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+getcompliant4 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+getcompliant5 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+getcompliant6 = Manage every step of the Real Estate process, from construction to managing and referencing estates.  : Manage every step of the Real Estate process, from construction to managing and referencing estates. 
+faqs = FAQs : FAQs
+weaccompanyyou = We accompany you  : We accompany you 
+oneverystep = on every step : on every step
+faqs1q = Why should I invest in showcase screens for my real estate agency? : Why should I invest in showcase screens for my real estate agency?
+faqs4q = Why should I invest in showcase screens for my real estate agency? : Why should I invest in showcase screens for my real estate agency?
+faqs5q = Why should I invest in showcase screens for my real estate agency? : Why should I invest in showcase screens for my real estate agency?
+faqs6q = Why should I invest in showcase screens for my real estate agency? : Why should I invest in showcase screens for my real estate agency?
+faqs1a = Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency. : Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.
+faqs4a = Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency. : Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.
+faqs5a = Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency. : Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.
+faqs6a = Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency. : Showcase screens are an innovative way to attract potential buyers and showcase your properties in high-definition quality. With our Homelido showcase screens, you can display your ads in a way that captures the attention of passersby, which can ultimately lead to more business for your agency.
+faqs2q = How much maintenance do the showcase screens require? : How much maintenance do the showcase screens require?
+faqs2a = The showcase screens are designed to be low-maintenance. They come with a protective cover to prevent scratches and other damage. We also provide regular software updates to ensure that the screens are always functioning at their best. : The showcase screens are designed to be low-maintenance. They come with a protective cover to prevent scratches and other damage. We also provide regular software updates to ensure that the screens are always functioning at their best.
+faqs3q = How much do the showcase screens cost? : How much do the showcase screens cost?
+faqs3a = Our showcase screens are available for purchase at a special rate of only €899 per unit for Homelido clients. Additionally, when you purchase showcase screens from us, you get access to the complete Homelido Platform for only €89 per month, compared to the regular price of over €200 per month. It's a great deal that gives you access to all of our powerful tools and : Our showcase screens are available for purchase at a special rate of only €899 per unit for Homelido clients. Additionally, when you purchase showcase screens from us, you get access to the complete Homelido Platform for only €89 per month, compared to the regular price of over €200 per month. It's a great deal that gives you access to all of our powerful tools and
+personalizedproject = Personalized Project : Personalized Project
+personalizedprojectnote = Our showcase screens come in a range of sizes and specifications to suit any real estate agency's needs. Prices starting at just 3000€, our showcase screens are an affordable investment that will pay off in no time. : Our showcase screens come in a range of sizes and specifications to suit any real estate agency's needs. Prices starting at just 3000€, our showcase screens are an affordable investment that will pay off in no time.
+exclusuvedeal: = Exclusive Deal:
+ : Exclusive Deal:
+
+getaccesstotheentire = Get Access to the entire Homelido Platform : Get Access to the entire Homelido Platform
+getaccesstotheentirenote = when you purchase a showcase screen from Homelido, you'll also gain access to our complete platform for just 89€ per month. This is an exclusive offer for our showcase screen customers, giving you access to all the features and benefits of Homelido's powerful PropTech tool at a fraction of the regular cost. : when you purchase a showcase screen from Homelido, you'll also gain access to our complete platform for just 89€ per month. This is an exclusive offer for our showcase screen customers, giving you access to all the features and benefits of Homelido's powerful PropTech tool at a fraction of the regular cost.
+followergrowth1 = Follower Growth : Follower Growth
+followergrowth2 = Follower Growth : Follower Growth
+followergrowth3 = Follower Growth : Follower Growth
+followergrowthnote1 = Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency. : Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.
+followergrowthnote2 = Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency. : Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.
+followergrowthnote3 = Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency. : Digital Showcase Screens can capture 400% more views of potential clients than static displays. This increases foot traffic and attracts more potential clients to your agency.
+moreviews = More views : More views
+reimagine = Reimagine  : Reimagine 
+realestate2note = Join us to reivent the future of real estate with cutting-
+edge tools. Experience the difference. : Join us to reivent the future of real estate with cutting-
+edge tools. Experience the difference.
+areyouanageninvestervv = Are you an agent, investor, property manager, #proptech enthusiast....? : Are you an agent, investor, property manager, #proptech enthusiast....?
+areyouanageninvestervv2 = Built with us the future of real estate together : Built with us the future of real estate together
+getin = Get in  : Get in 
+touch = Touch : Touch
+enteryourphoneadcalledback = Submitting your inquiry is a virtual handshake ! We're excited to learn more about you and will be in touch soon. : Submitting your inquiry is a virtual handshake ! We're excited to learn more about you and will be in touch soon.
+send = Send : Send
+enteryoupreauthcode = Enter you pre-authorized code here : Enter you pre-authorized code here
+selectyourposition = Select your position : Select your position
+organisationname = Organisation name : Organisation name
+enteryoufullname = Enter your full name : Enter your full name
+enteryourphone = Enter your phone : Enter your phone
+enteryouphone = Enter your phone : Enter your phone
+enteryouremail = Enter your email : Enter your email
+enteryouemail = Enter your email : Enter your email
+comment = Comment : Comment
+comingsoonuploadvideofiel = Upload video file : Upload video file
+comingsoonuploadvideofielnote = Please upload a short intro video of yourself and tell us why you want to work with us and what you expect from the collaboration. We would be happy to get to know you better! : Please upload a short intro video of yourself and tell us why you want to work with us and what you expect from the collaboration. We would be happy to get to know you better!
+sendmyapplication = Send my application : Send my application
+comingsoonselectotherfilefromdevice = Select other file from device : Select other file from device
+comingsoonuploadvideofielnote2 = Add a video File (mp4, mov)  max 1Gb : Add a video File (mp4, mov)  max 1Gb
+applicant = Applicant : Applicant
+selectedfile@name = Selected: @name : Selected: @name
+comingsoon_thankyou = Thank you! : Thank you!
+comingsoon_thankyounote = Thank you for submitting your application! We
+appreciate your interest and will review it as
+soon as posiable. You can expect to hear back
+from us in the future : Thank you for submitting your application! We
+appreciate your interest and will review it as
+soon as posiable. You can expect to hear back
+from us in the future
+seemyourcodenotcorrect = Sorry, the authentication code you entered is incorrect. Please try again : Sorry, the authentication code you entered is incorrect. Please try again
+experienceSaleshowmanyyear = How many years of sales experience do you have? : How many years of sales experience do you have?
+networkRealEstate = Do you have a real estate network to leverage for future business development? : Do you have a real estate network to leverage for future business development?
+seemyourcodealreadysubmited = Sorry, this authentication code has already been used. : Sorry, this authentication code has already been used.
+strangethingswithyourrequest = Strange thing with your request, please try again! : Strange thing with your request, please try again!
+hours = Hours : Hours
+mins = Mins : Mins
+secs = Sec : Sec
+agreeandapply = Agree & Send : Agree & Send
+privacypolicy = Privacy Policy : Privacy Policy
+comingsoon_privacy = Privacy Policy : Privacy Policy
+comingsoon_privacynote = By submiting my application I accept the  flowing conditions  and privacy policy : By submiting my application I accept the  flowing conditions  and privacy policy
+ilivein = My Current Country : My Current Country
+ispeack = I speak  : I speak 
+days2 = Days : Days
+fileuploading: = Files uploading: : Files uploading:
+chooseafolder = Choose a folder : Choose a folder
+createanewfolder = Create a new folder : Create a new folder
+draganddropyourfilehere = Drag and Drop your file here* : Drag and Drop your file here*
+link = Link : Link
+adddocument = Add document : Add document
+allfolders = All folders : All folders
+allfiles = All files : All files
+documentdetail = Document detail : Document detail
+up = Up : Up
+newfolder = New folder : New folder
+fileupload = File upload : File upload
+uploadfolder = Upload folder : Upload folder
+searchingyourposition = searching
+your position : searching
+your position
+iamwaitting = ... I'm waiting : ... I'm waiting
+call = Call : Call
+seetheprofile = See the profile : See the profile
+privateowner = Private Owner : Private Owner
+professional = Professional : Professional
+reference: = Reference: : Reference:
+seepropertiesfromthisagency = See properties from this agency : See properties from this agency
+liveonly = Live only : Live only
+selectastatuschat = Select a status chat : Select a status chat
+sort = Sort : Sort
+youdonnothaveaccountyet = You don't have yet an account ?  : You don't have yet an account ? 
+homelidoprofessinal = Homelido professionial :  : Homelido professionial : 
+accountconfiguration = account configuration : account configuration
+needhelp = Need help ? : Need help ?
+clickheretowatchanexpaliner = click here to watch an expaliner : click here to watch an expaliner
+youare: = You are: : You are:
+agencymanager = Agency Manager : Agency Manager
+agencymanagernote = You, as a construction professional, have the power to turn designs into reality and create functional spaces that improve people's lives. Your dedication and hard work are crucial to the success of every project,  : You, as a construction professional, have the power to turn designs into reality and create functional spaces that improve people's lives. Your dedication and hard work are crucial to the success of every project, 
+youchoose = You choose :  : You choose : 
+agencymanagernote1 = I'm an agency
+manager : I'm an agency
+manager
+agencymanagernote2 = I own my own agency and
+I'm working  with several
+agents : I own my own agency and
+I'm working  with several
+agents
+agencymanagernote3 = I've the licence and the
+right to practice this
+profession in my country : I've the licence and the
+right to practice this
+profession in my country
+agencymanagernote4 = I'm not an independent
+agent working alone : I'm not an independent
+agent working alone
+agencymanagerconfirm1 = I understand that my account will be verified by a Homelido member and may be deleted  if my profile does not meet the requirements of the platform. : I understand that my account will be verified by a Homelido member and may be deleted  if my profile does not meet the requirements of the platform.
+agencymanagerconfirm2 = I understand that my account will be verot meet the requirements of the platform. : I understand that my account will be verot meet the requirements of the platform.
+asname = As @name : : As @name :
+asagenceymanager1 = One more case : One more case
+asagenceymanager2 = All agents working with you will take profits of your subscription : All agents working with you will take profits of your subscription
+asagenceymanager5 = All agents working with you will take profits of your subscription : All agents working with you will take profits of your subscription
+asagenceymanager3 = The interface will be adjusted to brings you relevant tools to manage your mandateto collaborate with your team, and more : The interface will be adjusted to brings you relevant tools to manage your mandateto collaborate with your team, and more
+asagenceymanager4 = the interface will be adjusted to bringsyou relevant tools to manage your mandateto collaborate with your team, and more : the interface will be adjusted to bringsyou relevant tools to manage your mandateto collaborate with your team, and more
+asagenceymanagermoon = You get access to moonn app for free to promote, manage and improve you daily work ! : You get access to moonn app for free to promote, manage and improve you daily work !
+knowmoreaboutthis = Know more about this : Know more about this
+downloadhere = Download here : Download here
+iwanttobackandcheckmorecases = Oops ! I want to go back and check more cases : Oops ! I want to go back and check more cases
+iconfirmmychoice = I confirm my choice : I confirm my choice
+welcometohomelidoprofessional = Welcome to Homelido professional : Welcome to Homelido professional
+clickheretowatcha1minvideo = Click here to watch a 1 min video explainer : Click here to watch a 1 min video explainer
+caretaker = Caretaker : Caretaker
+aprofessionalinconstruction = A Professional
+in Construction : A Professional
+in Construction
+needtoconquieretheworld = Need to conquiere the world ? : Need to conquiere the world ?
+worldpass = World pass : World pass
+onecountryincludeinyoursubscription = One country include in your subscription : One country include in your subscription
+everyadsyouwillpublishwithyouraccount = Every ads you will publish with your account must be located in {} only : Every ads you will publish with your account must be located in {} only
+backtocart = Back to cart : Back to cart
+procedtocheckout = Proceed to Checkout : Proceed to Checkout
+mybillinginfos = My Billing Infos : My Billing Infos
+delivery  = Delivery  : Delivery 
+givesomeinstrictionfordelevry = Give some instructions for delivery (access code, indications, ...) : Give some instructions for delivery (access code, indications, ...)
+givesomeinstrictionfordelevrynote = ex: The code property is #2345, you can go by the backyard, please leave the package to the caretaker : ex: The code property is #2345, you can go by the backyard, please leave the package to the caretaker
+productref = Product ref : Product ref
+screens = Screens : Screens
+deliveryaddress = Delivery address : Delivery address
+notlive = Not live : Not live
+mandate_title_1 = Privacy Please : Privacy Please
+privacyplease = Privacy Please : Privacy Please
+mandate_content_1 = Don't want to be bothered by pushy agents? No problem! Select "Privacy Please" and enjoy a peaceful selling experience without any interruptions. You'll have full control over your property listing, without having to worry about unsolicited calls or emails : Don't want to be bothered by pushy agents? No problem! Select "Privacy Please" and enjoy a peaceful selling experience without any interruptions. You'll have full control over your property listing, without having to worry about unsolicited calls or emails
+mandate_title_2 = Sell Fast, Win Big : Sell Fast, Win Big
+sellfastwinbig = Sell Fast, Win Big : Sell Fast, Win Big
+mandate_content_2 = Want to sell your property quickly and efficiently? Look no further than "Sell Fast, Win Big." By allowing any agent to compete for the sale, you'll get the best offers and maximize your chances of a quick sale. Whoever sells your property first at the price you want, wins the commission! : Want to sell your property quickly and efficiently? Look no further than "Sell Fast, Win Big." By allowing any agent to compete for the sale, you'll get the best offers and maximize your chances of a quick sale. Whoever sells your property first at the price you want, wins the commission!
+mandate_title_3 = Your Pick, Our Priority : Your Pick, Our Priority
+yourpickourpriority = Your Pick, Our Priority : Your Pick, Our Priority
+mandate_content_3 = Want to work with the best agent for your property? With "Your Pick, Our Priority," you'll have the chance to receive offers from multiple agents and choose the one that fits you best. Let the agents compete for your business, and you'll end up with the perfect match. : Want to work with the best agent for your property? With "Your Pick, Our Priority," you'll have the chance to receive offers from multiple agents and choose the one that fits you best. Let the agents compete for your business, and you'll end up with the perfect match.
+select = Select : Select
+mandate = Mandate : Mandate
+availability = Availability : Availability
+availablefromnote = Choose the date from which the property will be available. This will allow potential tenants to see available dates for renting your property. : Choose the date from which the property will be available. This will allow potential tenants to see available dates for renting your property.
+availablefromnoteifdonnotknow = If you don't know yet, check this box : If you don't know yet, check this box
+invoiceno = Invoice No : Invoice No
+invoiceto = Invoice To : Invoice To
+creditcard = Credit card : Credit card
+tax = Tax : Tax
+item = Item : Item
+qty = Qty : Qty
+mychat = My chat : My chat
+groups = Groups : Groups
+muteallconversation = Mute all conversation : Mute all conversation
+yourodernumber = Your ordernumber : Your ordernumber
+enteryourodernumber = Enter your ordernumber : Enter your ordernumber
+seemyinvoice = See my invoice : See my invoice
+seemyinvoiceerror = Please verify the order number as it cannot be found in the system : Please verify the order number as it cannot be found in the system
+seemhavehavesomeerrorwhenuploadlettryagaon = Seem have problem when upload your image, try again? : Seem have problem when upload your image, try again?
+sending... = Sending... : Sending...
+sending...applynote = Please wait and do not close the pop-up or browser window during the upload process, especially for large files. The process can take a few minutes depending on your internet speed. Once the upload is complete, you will receive a confirmation message on the screen. Thank you for your patience. : Please wait and do not close the pop-up or browser window during the upload process, especially for large files. The process can take a few minutes depending on your internet speed. Once the upload is complete, you will receive a confirmation message on the screen. Thank you for your patience.
+oops... = Oops... : Oops...
+oops...applynote1 = We're sorry, but it looks like something went wrong. There may be several causes, such as a bad internet connection, current network problems or even a temporary server problem. We may not always have control over the situation. Please click the "back" button and try again. If the problem persists, you can email us at : We're sorry, but it looks like something went wrong. There may be several causes, such as a bad internet connection, current network problems or even a temporary server problem. We may not always have control over the situation. Please click the "back" button and try again. If the problem persists, you can email us at
+oops...applynote2 = and we are sure we will find a solution. Thank you for your patience and understanding. : and we are sure we will find a solution. Thank you for your patience and understanding.
+format =  format  :  format 
+*.mp4 = *.mp4  : *.mp4 
+or = or  : or 
+*.mov = *.mov  : *.mov 
+ max 1 Gb ! = max 1 Gb ! : max 1 Gb !
+invalidvideoapplynote = The size or format allowed is not correct : The size or format allowed is not correct
+searchfilters = Search filters : Search filters
+startyourverificationnow = Start you verification now : Start you verification now
+agents = Agents : Agents
+regularagent = Regular Agent : Regular Agent
+permission = Permission : Permission
+activeautomatic = Active Automatic permissions for this agent : Active Automatic permissions for this agent
+whenanewadiscreatedinyouragency = When a new ad is created in your agency, this agent  will be automatically added to this ad and can : : When a new ad is created in your agency, this agent  will be automatically added to this ad and can :
+seethisadinhisportfolio = See this ad in his portfolio and be contacted : See this ad in his portfolio and be contacted
+caneditthecontentofthisad = Can edit the content of this ad : Can edit the content of this ad
+canmakeorganise = Can make organise and make visit for this ad : Can make organise and make visit for this ad
+role = Role : Role
+configmyagency = Config my agency : Config my agency
+meetingtype = Meeting type : Meeting type
+videoconsultation = Video consultation : Video consultation
+videomeeting = Video meeting : Video meeting
+visittomyoffice = Visit to my office : Visit to my office
+homelidovisit = Homelido visit : Homelido visit
+homevisit = Home visit : Home visit
+wwhen = When : When
+realestatemeeting = Real estate meeting : Real estate meeting
+meetings = Meetings : Meetings
+conversationinformation = Conversation information : Conversation information
+fullday = Full day : Full day
+startday = Start day : Start day
+endday = End day : End day
+@name@statusforthisinvitation = @name@status for this invitation : @name@status for this invitation
+accepted = Accepted : Accepted
+refused  = Refused  : Refused 
+waitingresponse = Waiting response : Waiting response
+ifyouchosetopublishyourads = If you have chosen to publish your advertisements through the Whise platform, you must also use it to edit your ads.
+Please click on the button below if you wish to be redirected to Whise. : If you have chosen to publish your advertisements through the Whise platform, you must also use it to edit your ads.
+Please click on the button below if you wish to be redirected to Whise.
+qrcode/map = QR code / Map : QR code / Map
+refuse = Refuse : Refuse
+accept = Accept : Accept
+wefondamoonuseruseingthisusername = We've found a moonn user using this @username ! : We've found a moonn user using this @username !
+originaltext = Original text : Original text
+privacyplease! = Privacy please ! : Privacy please !
+dearagenciespleasedontdisturbemewithanyproposition = Dear agencies, please don't
+disturbe me with any  proposition
+I will manage the sale of my property
+by myself.
+
+Thanks for you understanding : Dear agencies, please don't
+disturbe me with any  proposition
+I will manage the sale of my property
+by myself.
+
+Thanks for you understanding
+youareanagentoranagencies = You are an agent or an agencies who
+perfectly fit to sell my property ?
+Let's keep in touch : You are an agent or an agencies who
+perfectly fit to sell my property ?
+Let's keep in touch
+salefast = Sell Fast : Sell Fast
+contactme = Contact me : Contact me
+startnow! = Start Now ! : Start Now !
+introducinganewandexcitingwaytoincreaseyourrevenue = Introducing a new and exciting way to increase your revenue and showcase your skills as a real estate agent - "Sell Fast, Win Big"! : Introducing a new and exciting way to increase your revenue and showcase your skills as a real estate agent - "Sell Fast, Win Big"!
+thisinnovativeconceptallowsagentandagencies = This innovative concept allows agents and agencies to enter into a friendly competition to sell properties as quickly as possible. By participating in this challenge, you'll have the opportunity to demonstrate your expertise, network, and dedication to your clients. : This innovative concept allows agents and agencies to enter into a friendly competition to sell properties as quickly as possible. By participating in this challenge, you'll have the opportunity to demonstrate your expertise, network, and dedication to your clients.
+withsellfastwinbigyouwillhavethechance = With "Sell Fast, Win Big", you'll have the chance to earn a commission quickly while providing top-notch service to your clients. And, because you'll be competing with other agents and agencies, you'll be motivated to go above and beyond to sell the property as fast as possible. : With "Sell Fast, Win Big", you'll have the chance to earn a commission quickly while providing top-notch service to your clients. And, because you'll be competing with other agents and agencies, you'll be motivated to go above and beyond to sell the property as fast as possible.
+forclientsthismeanspeaceofmindknowing = For clients, this means peace of mind knowing that their property is in good hands and that their agent is dedicated to selling their property quickly. And, for agents and agencies, this means the chance to increase your revenue, build your reputation, and potentially attract new clients through word-of-mouth referrals. So what are you waiting for? Join the "Sell Fast, Win Big" challenge and showcase your skills as a top-performing real estate agent! : For clients, this means peace of mind knowing that their property is in good hands and that their agent is dedicated to selling their property quickly. And, for agents and agencies, this means the chance to increase your revenue, build your reputation, and potentially attract new clients through word-of-mouth referrals. So what are you waiting for? Join the "Sell Fast, Win Big" challenge and showcase your skills as a top-performing real estate agent!
+watchavideohere = Watch a video here : Watch a video here
+wanttofightforthissale = Want to fight for this sale ? : Want to fight for this sale ?
+fastselling = Fast selling : Fast selling
+fastsellingcontent = Agents must prioritize selling the property as quickly as possible, within a set timeframe agreed upon with the seller. : Agents must prioritize selling the property as quickly as possible, within a set timeframe agreed upon with the seller.
+effectivemarketing = Effective marketing : Effective marketing
+effectivemarketingcontent = Agents must use effective marketing strategies to attract potential buyers, such as targeted advertising and social media campaigns. : Agents must use effective marketing strategies to attract potential buyers, such as targeted advertising and social media campaigns.
+networking = Networking : Networking
+networkingcontent = Agents must use their existing network of contacts to promote the property and find potential buyers. : Agents must use their existing network of contacts to promote the property and find potential buyers.
+strongnegotiationskill = Strong negotiation skills : Strong negotiation skills
+strongnegotiationskillcontent = Agents must negotiate in good faith and work to secure the best possible price and terms for their client. : Agents must negotiate in good faith and work to secure the best possible price and terms for their client.
+communication = Communication : Communication
+communicationcontent = Agents must keep the seller informed of progress and provide regular updates on showings, feedback, and offers. : Agents must keep the seller informed of progress and provide regular updates on showings, feedback, and offers.
+clientsatisfaction = Client satisfaction : Client satisfaction
+clientsatisfactioncontent = Agents must prioritize client satisfaction and work to exceed their expectations throughout the buying and selling process. : Agents must prioritize client satisfaction and work to exceed their expectations throughout the buying and selling process.
+commission = Commission : Commission
+commissioncontent = Agents will receive a commission for their services, which will be based on the sale price of the property and agreed upon with the seller in advance. : Agents will receive a commission for their services, which will be based on the sale price of the property and agreed upon with the seller in advance.
+ifyoucancheckalltheseboxes = If you can check all theses boxes, so you're ready to start ! : If you can check all theses boxes, so you're ready to start !
+saleprice = Sale price : Sale price
+fastcommission = Fast commission : Fast commission
+youearn = You earn : You earn
+pleasecheckallboxes = Please check all boxes : Please check all boxes
+athomelidorespectforotherusers = At Homelido, respect for other users is very important to us. : At Homelido, respect for other users is very important to us.
+inordertomaintainanatmosphereoftrust = In order to maintain an atmosphere of trust and mutual respect, we strongly encourage agents to avoid bothering owners who do not wish to be contacted. We believe that this approach fosters a healthy and lasting working relationship between agents and owners.
+
+We recognize that for real estate agents, finding new business is a major challenge. That's why we've implemented specific features to make this search easier. To avoid wasting your time soliciting people who will show you a refusal, we recommend that you look for ads with the labels "exclusive mandate" or "self fast, big win." : In order to maintain an atmosphere of trust and mutual respect, we strongly encourage agents to avoid bothering owners who do not wish to be contacted. We believe that this approach fosters a healthy and lasting working relationship between agents and owners.
+
+We recognize that for real estate agents, finding new business is a major challenge. That's why we've implemented specific features to make this search easier. To avoid wasting your time soliciting people who will show you a refusal, we recommend that you look for ads with the labels "exclusive mandate" or "self fast, big win."
+exclusivemandate = Exclusive mandate : Exclusive mandate
+ownerslookingforanexclusiveagent = owners looking for an exclusive agent to sell their property will use this label : owners looking for an exclusive agent to sell their property will use this label
+mandatesimmediatelyavailable = mandates immediately available to all, but highly competitive will be indicated by the "sell fast, big win" label : mandates immediately available to all, but highly competitive will be indicated by the "sell fast, big win" label
+aniceopportunityforexclusiveagent = A nice opportunity for exclusive agent ! : A nice opportunity for exclusive agent !
+ifyouthinkyouaretherightagentfortheproperty = If you think you are the right agent for the property in question, don't hesitate to contact the owner now. Briefly introduce yourself and explain why you are the best choice to sell their property. You can also talk about your work history, your buyer networks and the marketing techniques you will use to ensure the property sells quickly and efficiently. By highlighting your unique advantages, you can increase your chances of being selected as the exclusive agent to sell the property. : If you think you are the right agent for the property in question, don't hesitate to contact the owner now. Briefly introduce yourself and explain why you are the best choice to sell their property. You can also talk about your work history, your buyer networks and the marketing techniques you will use to ensure the property sells quickly and efficiently. By highlighting your unique advantages, you can increase your chances of being selected as the exclusive agent to sell the property.
+starttochatnowwiththeowner = Start to chat now with the owner : Start to chat now with the owner
+accessibleanytimeanywhere = Accessible anytime, anywhere, and available in multiple languages : Accessible anytime, anywhere, and available in multiple languages
+providesclearandsimpleinfor = Provides clear and simple information to avoid confusion : Provides clear and simple information to avoid confusion
+offerscompletetransparency = Offers complete transparency with no hidden clauses : Offers complete transparency with no hidden clauses
+AIpoweredfeatureallowsforimmediateanswers = AI-powered feature allows for immediate answers to tenant questions, making the process more efficient. : AI-powered feature allows for immediate answers to tenant questions, making the process more efficient.
+seethecontract = See the contract : See the contract
+download = Download : Download
+duration = Duration : Duration
+commitment = Commitment : Commitment
+endnotice = End notice : End notice
+itendsattheendoftheagreedperiod = It ends at the end of the agreed period upon notice given by the Landlord at least six months before the expiration date or by the Tenant at least three months before the expiration date. : It ends at the end of the agreed period upon notice given by the Landlord at least six months before the expiration date or by the Tenant at least three months before the expiration date.
+intheabsenceofnoticegivenwithintheserespectiveperiods = In the absence of notice given within these respective periods, the lease is extended each time for a period of three years, on the same terms. : In the absence of notice given within these respective periods, the lease is extended each time for a period of three years, on the same terms.
+commonexpenses = Common expenses : Common expenses
+estimation = Estimation : Estimation
+commonexpensescontent = The common expenses of the building in which the leased property is located, due by the Tenant the Tenant's share, include the costs of consumption of water, gas, electricity, heating heating, the salary and charges of any janitors, the remuneration of the trustee as well as all maintenance and minor repairs, including those relating to the elevators and technical equipment and technical equipment, as described in the decree of the Walloon Region Government of Government of the Walloon Region of June 28, 2018 establishing a non-limitative list of repairs, works and repairs, works and maintenance to be carried out by the Tenant or the Landlord.
+
+The share of the common charges due by the Tenant shall be calculated on the basis of the statements communicated at least once a year by the Landlord, his representative or the managing agent. For the purpose of forecasting, anticipating and amortizing, the Tenant shall pay, at the same time as his rent, a with his rent, a provision intended to cover these costs, unless the parties agree on a fixed amount
+a lump sum, payable at the same time as the rent.
+
+Upon receipt of the pre-described statement, the Lessor or the Lessee shall immediately pay to the other party the difference between the provisions paid and the actual charges. The amount of the provision will be revised annually according to the amount of the actual expenses of the past year, and the the evolution of the prices of certain goods and services, or of the foreseeable evolution of the
+common consumption.
+
+All subscriptions and contracts relating to individualized services for private use, such as such as cable television, telephone, electricity, gas or meter rental will be at the exclusive charge of the Tenant : The common expenses of the building in which the leased property is located, due by the Tenant the Tenant's share, include the costs of consumption of water, gas, electricity, heating heating, the salary and charges of any janitors, the remuneration of the trustee as well as all maintenance and minor repairs, including those relating to the elevators and technical equipment and technical equipment, as described in the decree of the Walloon Region Government of Government of the Walloon Region of June 28, 2018 establishing a non-limitative list of repairs, works and repairs, works and maintenance to be carried out by the Tenant or the Landlord.
+
+The share of the common charges due by the Tenant shall be calculated on the basis of the statements communicated at least once a year by the Landlord, his representative or the managing agent. For the purpose of forecasting, anticipating and amortizing, the Tenant shall pay, at the same time as his rent, a with his rent, a provision intended to cover these costs, unless the parties agree on a fixed amount
+a lump sum, payable at the same time as the rent.
+
+Upon receipt of the pre-described statement, the Lessor or the Lessee shall immediately pay to the other party the difference between the provisions paid and the actual charges. The amount of the provision will be revised annually according to the amount of the actual expenses of the past year, and the the evolution of the prices of certain goods and services, or of the foreseeable evolution of the
+common consumption.
+
+All subscriptions and contracts relating to individualized services for private use, such as such as cable television, telephone, electricity, gas or meter rental will be at the exclusive charge of the Tenant
+imyourlegalbotassistant = 🤖 I'm your legal bot assistant.  You are lazy to read and you have a specific question in mind ?
+Just ask, I'll read the contract for you and see if the answer is there. : 🤖 I'm your legal bot assistant.  You are lazy to read and you have a specific question in mind ?
+Just ask, I'll read the contract for you and see if the answer is there.
+yourquestion = Your question : Your question
+answer = Answer : Answer
+doyouhaveanyotherquestion = Do you have any other question ? : Do you have any other question ?
+enteryourquestion = Enter your question : Enter your question
+notesentmail1 = We just sent an email to {}
+(Please wait up to 2 min and check also your junk box) : We just sent an email to {}
+(Please wait up to 2 min and check also your junk box)
+notesentmail2 = You have not entered the email verification OTP code.
+The reasons may be:
+
+-  You were busy doing something else during these two minutes?
+-  We are victims of our success and our servers are experiencing a high demand at the moment, and it may take longer to receive the email.
+- You entered an incorrect email.
+
+In any case, please try again. : You have not entered the email verification OTP code.
+The reasons may be:
+
+-  You were busy doing something else during these two minutes?
+-  We are victims of our success and our servers are experiencing a high demand at the moment, and it may take longer to receive the email.
+- You entered an incorrect email.
+
+In any case, please try again.
+notesentphone1 = We just sent an OTP to {}
+(Please wait up to 2 min) : We just sent an OTP to {}
+(Please wait up to 2 min)
+createdadsfaild = Ops, detected something strange here, please try again! : Ops, detected something strange here, please try again!
+updateadsfaild = Ops, detected something strange here, please try again! : Ops, detected something strange here, please try again!
+suggestedlanguageincountry = Suggested language in @country : Suggested language in @country
+lifeanuity = Life Anuity : Life Anuity
+magical waynote = Tired of the time-consuming and often frustrating process of creating a real estate ad? With our Magical Way feature, you can generate an ad in minutes without the hassle of the traditional step-by-step approach. Instead of slogging through multiple screens and inputs, the Magical Way uses advanced AI technology to automatically create a comprehensive and captivating ad based on just a few details about your property. Say hello to effortless real estate advertising with the Magical Way! : Tired of the time-consuming and often frustrating process of creating a real estate ad? With our Magical Way feature, you can generate an ad in minutes without the hassle of the traditional step-by-step approach. Instead of slogging through multiple screens and inputs, the Magical Way uses advanced AI technology to automatically create a comprehensive and captivating ad based on just a few details about your property. Say hello to effortless real estate advertising with the Magical Way!
+classical waynote = If you prefer a more traditional approach to creating a real estate ad, you can use our classical step-by-step method. This method involves guiding you through each section of the ad creation process, allowing you to input detailed information about your property and tailor the ad to your specific needs. While this approach may take longer than the Magical Way, it provides a more personalized touch and may be preferable if you have specific requirements for your ad.  : If you prefer a more traditional approach to creating a real estate ad, you can use our classical step-by-step method. This method involves guiding you through each section of the ad creation process, allowing you to input detailed information about your property and tailor the ad to your specific needs. While this approach may take longer than the Magical Way, it provides a more personalized touch and may be preferable if you have specific requirements for your ad. 
+magical waynote2 = Ready to generate your real estate ad effortlessly? : Ready to generate your real estate ad effortlessly?
+magical waynoteex = ex:  appartement for rent, 120m2, 890€/month, 2 bedrooms, 1 bathroom, located at 23 big street 75000  Paris, France. peb A, available from 23 april, ... : ex:  appartement for rent, 120m2, 890€/month, 2 bedrooms, 1 bathroom, located at 23 big street 75000  Paris, France. peb A, available from 23 april, ...
+attribute = Attribute : Attribute
+In which country is located the agency you want to join ? = In which country is located the agency you want to join ?  : In which country is located the agency you want to join ? 
+Why to choose a location ? note = Why to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? note : Why to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? noteWhy to choose a location ? note
+You don't find your agency ?note = If you don't find your agency, you must ensure first that you have selected the right country where this abency is located : If you don't find your agency, you must ensure first that you have selected the right country where this abency is located
+billinginfosnote = In order to provide you with a correct invoice, please fill in your billing information carefully : In order to provide you with a correct invoice, please fill in your billing information carefully
+street = Street : Street
+Your subscription is
+active until = Your subscription is
+active until  : Your subscription is
+active until 
+Number of ads in
+your plan = Number of ads in
+your plan  : Number of ads in
+your plan 
+Number of ads
+remaining = Number of ads
+remaining  : Number of ads
+remaining 
+Congratulations ! Your ads are  in
+good hands. = Congratulations ! Your ads are  in
+good hands.  : Congratulations ! Your ads are  in
+good hands. 
+AgreePrivacyNOTE = To use our services on Homelido, it is essential that you agree to the terms and conditions of use. If you do not agree with these terms, the system will log you out, and you will not be able to access the great features of Homelido.
+
+If you would like to accept the terms and conditions and start using our platform, click on the "Back" button and proceed. : To use our services on Homelido, it is essential that you agree to the terms and conditions of use. If you do not agree with these terms, the system will log you out, and you will not be able to access the great features of Homelido.
+
+If you would like to accept the terms and conditions and start using our platform, click on the "Back" button and proceed.
+logout = Logout : Logout
+back = Back : Back
+behomelido = Be Homelido : Be Homelido
+compliant = Compliant : Compliant
+athomelidowearededicatedtoupholding = At Homelido we are dedicated to upholding the highest standards
+of integrity and professionalism. : At Homelido we are dedicated to upholding the highest standards
+of integrity and professionalism.
+professionalagencyhomelidocompliant = Professional agency
+Homelido compliant : Professional agency
+Homelido compliant
+easycommunication = Easy communication : Easy communication
+legaltransparency = Legal transparency : Legal transparency
+ethicalbusiness = Ethical business practices : Ethical business practices
+clientfocusedservice = Client-focused service : Client-focused service
+professionalconduct = Professional conduct : Professional conduct
+timelyresponsiveness = Timely responsiveness : Timely responsiveness
+uptodateindustryknowledge = Up-to-date industry knowledge : Up-to-date industry knowledge
+personalizedapproach = Personalized approach : Personalized approach
+attentiontodetail = Attention to detail : Attention to detail
+innovativesolutions = Innovative solutions : Innovative solutions
+trustworthyreputation = Trustworthy reputation : Trustworthy reputation
+commitmenttoexcellence = Commitment to excellence : Commitment to excellence
+enhancedtrust = Enhanced Trust : Enhanced Trust
+enhancedtrustcontent = Being "Homelido compliant" signals that they are engaging with a business that adheres to a recognized set of standards. This can foster trust, a key factor in any real estate transaction. : Being "Homelido compliant" signals that they are engaging with a business that adheres to a recognized set of standards. This can foster trust, a key factor in any real estate transaction.
+streamlinedprocess = Streamlined Processes : Streamlined Processes
+streamlinedprocesscontent = Compliance likely means adopting Homelido's systematic approach to real estate transactions. This could simplify processes, save time, and increase efficiency - all of which can lead to cost savings and higher customer satisfaction. : Compliance likely means adopting Homelido's systematic approach to real estate transactions. This could simplify processes, save time, and increase efficiency - all of which can lead to cost savings and higher customer satisfaction.
+marketdifferentiation = Market Differentiation : Market Differentiation
+marketdifferentiationcontent = In a competitive real estate landscape, being a "Homelido compliant" franchisee can set one apart. It's a point of differentiation that can attract customers who value standards-based services. : In a competitive real estate landscape, being a "Homelido compliant" franchisee can set one apart. It's a point of differentiation that can attract customers who value standards-based services.
+supportfromhomelido = Support from Homelido : Support from Homelido
+supportfromhomelidocontent = Compliance usually means more robust support from the parent organization. As a "Homelido compliant" franchisee, one can expect better assistance and resources from Homelido, helping to drive success. : Compliance usually means more robust support from the parent organization. As a "Homelido compliant" franchisee, one can expect better assistance and resources from Homelido, helping to drive success.
+communityengagement = Community Engagement : Community Engagement
+communityengagementcontent = Being part of a compliant network can help franchisees engage more effectively with the community, building relationships that contribute to long-term success. : Being part of a compliant network can help franchisees engage more effectively with the community, building relationships that contribute to long-term success.
+continuousimprovement = Continuous Improvement : Continuous Improvement
+continuousimprovementcontent = Compliance often involves regular assessments, which can help franchisees identify areas for improvement and ensure they are always operating at their best. : Compliance often involves regular assessments, which can help franchisees identify areas for improvement and ensure they are always operating at their best.
+howcanyou = How can you : How can you
+becomecompliant = become compliant? : become compliant?
+becominghomelidocompliantiseasierthanyouthink = Becoming Homelido compliant is easier than you think.
+Follow these steps to also get certified. : Becoming Homelido compliant is easier than you think.
+Follow these steps to also get certified.
+understandinghomelidostandards = Understanding Homelido's Standards: The first step towards
+becoming "Homelido compliant" involves thoroughly understanding
+our standards and requirements. We provide comprehensive
+educational resources and training modules to help you familiarize
+yourself with our values, ethical guidelines, and operational protocols. : Understanding Homelido's Standards: The first step towards
+becoming "Homelido compliant" involves thoroughly understanding
+our standards and requirements. We provide comprehensive
+educational resources and training modules to help you familiarize
+yourself with our values, ethical guidelines, and operational protocols.
+implementingthestandards = Implementing the Standards: After understanding our standards, the
+next step is to incorporate them into your business operations. This
+involves aligning your business practices with our guidelines, adopting
+our systematic approach to real estate transactions, and utilizing our
+tools and resources to ensure compliance. : Implementing the Standards: After understanding our standards, the
+next step is to incorporate them into your business operations. This
+involves aligning your business practices with our guidelines, adopting
+our systematic approach to real estate transactions, and utilizing our
+tools and resources to ensure compliance.
+complianceassessment = Compliance Assessment: The final step is undergoing a compliance
+assessment. Our team of experts will evaluate your business
+operations against our established standards. Once you successfully
+pass this assessment, you will be officially recognized as a "Homelido
+compliant" , and will be able to leverage this status to build trust,
+differentiate your services, and drive success. : Compliance Assessment: The final step is undergoing a compliance
+assessment. Our team of experts will evaluate your business
+operations against our established standards. Once you successfully
+pass this assessment, you will be officially recognized as a "Homelido
+compliant" , and will be able to leverage this status to build trust,
+differentiate your services, and drive success.
+notyethomelido = Not yet Homelido : Not yet Homelido
+doyouwanttobecomecompliant = Do you want to become compliant? Click on the button bellow
+and get call back by one of our agent : Do you want to become compliant? Click on the button bellow
+and get call back by one of our agent
+number of sms
+remaining = number of sms
+remaining  : number of sms
+remaining 
+monday = Monday : Monday
+tuesday = Tuesday : Tuesday
+wednesday = Wednesday : Wednesday
+thursday = Thursday : Thursday
+friday = Friday : Friday
+saturday = Saturday : Saturday
+sunday = Sunday : Sunday
+cconfig = Config : Config
+holidays = Holidays : Holidays
+chooseyouropendaysandhours = Choose your open days and hours, you can split the service hours : Choose your open days and hours, you can split the service hours
+holiday = Holiday : Holiday
+timeframeduration = Timeframe duration : Timeframe duration
+breakbetweentickets = Break between tickets ? : Break between tickets ?
+lastticketallowed = Last ticket allowed : Last ticket allowed
+summerholiday = Summer holiday : Summer holiday
+winterholiday = Winter holiday : Winter holiday
+configureschedules = Configure schedules : Configure schedules
+existingProEmail = This email already exists for another account. Please use a one. : This email already exists for another account. Please use a one.
+existingUserEmail = This email already exists for another account. Please use a one. : This email already exists for another account. Please use a one.
+addmore = Add more : Add more
+draganddropanewpicture = drag n drop a new picture : drag n drop a new picture
+none = None : None
+garage = Garage : Garage
+room = Room : Room
+readmore = Read more : Read more
+Add guest by phone number = Add guest by phone number
+(your guess doesn’t have yet an account? send this invitation by sms) : Add guest by phone number
+(your guess doesn’t have yet an account? send this invitation by sms)
+inputusername = Input username : Input username
+saved = Saved : Saved
+edit = Edit : Edit
+sms remaining = sms remaining  : sms remaining 
+displaythisautomaticmessagewhenthismodeactived = When the Auto-Message mode is enabled, the following message will be displayed in the chat : When the Auto-Message mode is enabled, the following message will be displayed in the chat
+displaythisautomaticmessagewhenthismodeactivedhint = ex: "Hey there! Currently, I'm unavailable to respond, but feel free to leave your message, and I'll get back to you as soon as possible." : ex: "Hey there! Currently, I'm unavailable to respond, but feel free to leave your message, and I'll get back to you as soon as possible."
+thisisanautomessage = This is an auto message : This is an auto message
+worldpassoption = World pass option : World pass option
+Great News!xx =  Your current plan is successfully set to auto-renewal, ensuring that you won't risk having your listing deactivated due to forgetting to make a payment.
+
+If, for some reason, you wish to deactivate the auto-renewal process, simply click on “deactivate” button. :  Your current plan is successfully set to auto-renewal, ensuring that you won't risk having your listing deactivated due to forgetting to make a payment.
+
+If, for some reason, you wish to deactivate the auto-renewal process, simply click on “deactivate” button.
+preferences = Preferences : Preferences
+email = Email : Email
+EmailPreferencesxx = Please select your personal preferences and provide consent for the type of emails you would like to receive : Please select your personal preferences and provide consent for the type of emails you would like to receive
+Emails système et de service (required)xx = Stay informed with essential system and service emails. These emails provide important updates, account verification, password resets, and transaction confirmations to ensure the smooth operation and security of your account. : Stay informed with essential system and service emails. These emails provide important updates, account verification, password resets, and transaction confirmations to ensure the smooth operation and security of your account.
+Consent to receive our newsletterxx = By accepting to receive the newsletter, you will stay informed about the latest updates, news, promotions, and exclusive content. Our newsletter brings you valuable information and insights delivered straight to your inbox. Don't miss out on exciting updates and opportunities by subscribing to our newsletter today. : By accepting to receive the newsletter, you will stay informed about the latest updates, news, promotions, and exclusive content. Our newsletter brings you valuable information and insights delivered straight to your inbox. Don't miss out on exciting updates and opportunities by subscribing to our newsletter today.
+Recieve promotional email and offers from Third partyxx = Opt-in to receive promotional emails and offers from third-party companies who may provide relevant content, exclusive deals, and special discounts. By consenting to receive these emails, you can stay updated on the latest offers and make the most of exciting opportunities. : Opt-in to receive promotional emails and offers from third-party companies who may provide relevant content, exclusive deals, and special discounts. By consenting to receive these emails, you can stay updated on the latest offers and make the most of exciting opportunities.
+Agree to receive marketing and promotional emails from Homelido:xx = By agreeing to receive marketing and promotional emails from Homelido, you'll receive exciting offers, exclusive discounts, and valuable information about our products and services. Stay updated on the latest trends, special promotions, and new releases. Don't miss out on the opportunity to enhance your experience with Homelido by subscribing to our marketing and promotional emails. : By agreeing to receive marketing and promotional emails from Homelido, you'll receive exciting offers, exclusive discounts, and valuable information about our products and services. Stay updated on the latest trends, special promotions, and new releases. Don't miss out on the opportunity to enhance your experience with Homelido by subscribing to our marketing and promotional emails.
+notyetverifiedtooltip = This profile has not yet been verified. It doesn't necessarily mean the professional is dishonest, but we haven't received the verification documents for this professional. Exercise caution in your interactions and refrain from engaging in transactions with unverified profiles. Your safety is our priority. : This profile has not yet been verified. It doesn't necessarily mean the professional is dishonest, but we haven't received the verification documents for this professional. Exercise caution in your interactions and refrain from engaging in transactions with unverified profiles. Your safety is our priority.
+Passport / ID card verification = Passport / ID card verification:
+To ensure your identity, please upload a clear and readable copy of your passport or Id Card. Make sure the photo and information are legible. We value your privacy and handle your data with strict confidentiality. Contact our support team for any assistance. : Passport / ID card verification:
+To ensure your identity, please upload a clear and readable copy of your passport or Id Card. Make sure the photo and information are legible. We value your privacy and handle your data with strict confidentiality. Contact our support team for any assistance.
+Take a selfie with your id... = Take a selfie with your id.
+Please upload a selfie of yourself holding the passport near your head.
+This ensures that you are the rightful owner of the passport. Make sure your face and passport details are clearly visible.  : Take a selfie with your id.
+Please upload a selfie of yourself holding the passport near your head.
+This ensures that you are the rightful owner of the passport. Make sure your face and passport details are clearly visible. 
+Thank you !verificationpage = Your request has been successfully submitted. We will process it promptly. If further information is required, we will contact you.
+Thank you for your patience. : Your request has been successfully submitted. We will process it promptly. If further information is required, we will contact you.
+Thank you for your patience.
+To enhance communication, please select your country and preferred language = To enhance communication, please select your country and preferred language.
+This will help us better assist you. : To enhance communication, please select your country and preferred language.
+This will help us better assist you.
+Thank you !verificationpagefail = It could be due to a network issue or another process. We apologize for the inconvenience. Please try again later. If the problem persists after a few attempts, please contact our support team for assistance. : It could be due to a network issue or another process. We apologize for the inconvenience. Please try again later. If the problem persists after a few attempts, please contact our support team for assistance.
+Certificate of registrationNote = Please provide any relevant documents in your country to verify the registration of a company. This may include a certificate of incorporation or similar document attesting to the legal creation of the company. : Please provide any relevant documents in your country to verify the registration of a company. This may include a certificate of incorporation or similar document attesting to the legal creation of the company.
+canSeeDetails = Can see details : Can see details
+canEditDetails = Can edit details : Can edit details
+qrinvoicenote = 1. Open a QR code scanning application on your mobile device.
+2. Use the app to scan the QR code displayed on the invoice.
+3. Once you've scanned the QR code, you'll be automatically redirected to the Homelido URL.
+4. Make sure you are directed to the specific page of the corresponding invoice on Homelido. : 1. Open a QR code scanning application on your mobile device.
+2. Use the app to scan the QR code displayed on the invoice.
+3. Once you've scanned the QR code, you'll be automatically redirected to the Homelido URL.
+4. Make sure you are directed to the specific page of the corresponding invoice on Homelido.
+Is this invoice genuine = Is this invoice genuine ? : Is this invoice genuine ?
+Tell me what you are looking for... = What you are looking for ? (version test) : What you are looking for ? (version test)
+price = Price : Price
+energy = Energy : Energy
+login = Login : Login
+is now online 🎉 = is
+now online 🎉 : is
+now online 🎉
+So, Where Do I Start and How Does Homelido Work? = So, Where Do I Start and
+How Does Homelido Work? : So, Where Do I Start and
+How Does Homelido Work?
+So I’ve got a CRM tool with AI features. But how is it more personalized? Many platforms promote personalization...how are you different? = So I’ve got a CRM tool with AI features.
+But how is it more personalized? Many platforms promote
+personalization...
+how are you different? : So I’ve got a CRM tool with AI features.
+But how is it more personalized? Many platforms promote
+personalization...
+how are you different?
+Homelido is ready to become the tool of your dreams.Not only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!Why should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.And the best part? You don't need a substantial budget or intricate tech knowledge to harness its power! = Homelido is ready to become the tool of your dreams.
+Not only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!
+Why should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.
+
+And the best part? You don't need a substantial budget or intricate tech knowledge to harness its power! : Homelido is ready to become the tool of your dreams.
+Not only because it combines AI-driven lead generation with an efficient CRM platform, revolutionizing the way you conduct business!
+Why should you exhaust your resources in developing your own tools when Homelido can offer everything you need, and more...save time, generate more leads, and amplify your revenue with Homelido.
+
+And the best part? You don't need a substantial budget or intricate tech knowledge to harness its power!
+Let the miracle become true: = Let the miracle become true:
+ : Let the miracle become true:
+
+Homelido delivers high-end features and capabilities at a fraction of the expected cost = Homelido delivers high-end features and capabilities at a fraction
+of the expected cost. : Homelido delivers high-end features and capabilities at a fraction
+of the expected cost.
+and includes a = and includes a
+ : and includes a
+
+complimentary iPad OR a showcase Screen with 50inches = complimentary iPad OR a showcase Screen with 50inches, : complimentary iPad OR a showcase Screen with 50inches,
+providing you with unparalleled value from day one. = providing you with
+unparalleled value from day one. : providing you with
+unparalleled value from day one.
+Découvrez comment nous pouvons = Découvrez comment nous pouvons vous aider à développer des logiciels
+personnalisés qui s'adapteront parfaitement à vos solutions existantes, créant ainsi
+un environnement de travail cohérent et harmonieux. Notre priorité est d'assurer une
+transition fluide et d'optimiser vos flux de travail. C'est pourquoi nous vous proposons
+nos services d'intégration sur mesure, spécialement adaptés à votre entreprise.
+Grâce à notre approche d'intégration hybride sur mesure, vous pouvez économiser
+sur les coûts de développement élevés des solutions isolées. Profitez d'une
+intégration fluide qui répond précisément à vos besoins.
+
+N'hésitez pas à demander un devis dès aujourd'hui pour découvrir comment notre
+expertise peut optimiser votre activité. : Découvrez comment nous pouvons vous aider à développer des logiciels
+personnalisés qui s'adapteront parfaitement à vos solutions existantes, créant ainsi
+un environnement de travail cohérent et harmonieux. Notre priorité est d'assurer une
+transition fluide et d'optimiser vos flux de travail. C'est pourquoi nous vous proposons
+nos services d'intégration sur mesure, spécialement adaptés à votre entreprise.
+Grâce à notre approche d'intégration hybride sur mesure, vous pouvez économiser
+sur les coûts de développement élevés des solutions isolées. Profitez d'une
+intégration fluide qui répond précisément à vos besoins.
+
+N'hésitez pas à demander un devis dès aujourd'hui pour découvrir comment notre
+expertise peut optimiser votre activité.
+we'reonthefinalstretchwithHomelido = We're on the final stretch with Homelido, 90% of the way to a game-changing launch. As we perfect our platform, we're offering you an exclusive opportunity. By becoming an early adopter, you have the unique chance to influence right now the features implemented in the platform. Instead of paying 100.000€ for a developer team you receive the possiblity to impact Homelido for free! Why spend your hard-earned revenue developing your own tools when Homelido can provide everything you need, and more, right??
+This is your moment to collaborate with us, ensuring the features we complete are tailored to your exact needs. : We're on the final stretch with Homelido, 90% of the way to a game-changing launch. As we perfect our platform, we're offering you an exclusive opportunity. By becoming an early adopter, you have the unique chance to influence right now the features implemented in the platform. Instead of paying 100.000€ for a developer team you receive the possiblity to impact Homelido for free! Why spend your hard-earned revenue developing your own tools when Homelido can provide everything you need, and more, right??
+This is your moment to collaborate with us, ensuring the features we complete are tailored to your exact needs.
+Don’t miss out at upgrading your  real estate business – join now! = Don’t miss out at upgrading your
+real estate business – join now! : Don’t miss out at upgrading your
+real estate business – join now!
+Only out of spots left in Belgium = Only {} out of {} spots left in Belgium : Only {} out of {} spots left in Belgium
+signup = Sign up : Sign up
+with Homelido? = with
+Homelido? : with
+Homelido?
+Great !  A fast response increase customers satisfaction = Great !  A fast response
+increase customers satisfaction : Great !  A fast response
+increase customers satisfaction
+taxFeeVATDesc = The amount of this tax is calculated according to your country of residence. Depending on the verification status of your account, this amount may be automatically cleared or adjusted during the checkout process. : The amount of this tax is calculated according to your country of residence. Depending on the verification status of your account, this amount may be automatically cleared or adjusted during the checkout process.
+firstname = First name : First name
+lastname = Last name : Last name
+editpassword = Edit Password : Edit Password
+security = Security : Security
+setupaholidayperiod = Set up a holiday period : Set up a holiday period
+houseManagement = House Management : House Management 
+Boost your agency's visibility today!... = Boost your agency's visibility today!
+Visit our shop, explore the Homelido Window Display series, and with just a few clicks, place your order.
+
+Start enhancing customer engagement and brand awareness immediately. : Boost your agency's visibility today!
+Visit our shop, explore the Homelido Window Display series, and with just a few clicks, place your order.
+
+Start enhancing customer engagement and brand awareness immediately.
+chooseanaxistingcard = Choose An Existng Card : Choose An Existng Card
