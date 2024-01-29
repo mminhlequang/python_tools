@@ -1,0 +1,1460 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Pickleball Tour API",
+    "version": "0.1"
+  },
+  "paths": {
+    "/api/login_facebook": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Login FB",
+        "operationId": "9cb9192b9d6ae3b26400943f7e5c736f",
+        "requestBody": {
+          "description": "object that needs to be login",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "access_token": {
+                    "type": "string",
+                    "example": "0964541340"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login Successful"
+          }
+        }
+      }
+    },
+    "/api/login_google": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Login Google",
+        "operationId": "81670ca45fc953557de072edb3b73415",
+        "requestBody": {
+          "description": "object that needs to be login",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "access_token": {
+                    "type": "string",
+                    "example": "0964541340"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login Successful"
+          }
+        }
+      }
+    },
+    "/api/login_apple": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Login Apple",
+        "operationId": "2faed5d2083301cbef643b79a22e8e77",
+        "requestBody": {
+          "description": "object that needs to be login",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "access_token": {
+                    "type": "string",
+                    "example": "0964541340"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login Successful"
+          }
+        }
+      }
+    },
+    "/api/update_device_token": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Update device token",
+        "operationId": "d63767da669c7e94f33485d2d02c26bc",
+        "requestBody": {
+          "description": "Product object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "device_token": {
+                    "type": "string",
+                    "example": "123456"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Update device Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/clubs": {
+      "get": {
+        "tags": [
+          "Club"
+        ],
+        "summary": "Get all videos",
+        "operationId": "354cf0c07a2c52bb4239c82240fb5ef9",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all clubs"
+          }
+        }
+      }
+    },
+    "/api/clubs/detail": {
+      "get": {
+        "tags": [
+          "Club"
+        ],
+        "summary": "Get detail club by ID",
+        "operationId": "f3a0aafac6af44edf144cd49ee80ca93",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the club",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Club details"
+          },
+          "404": {
+            "description": "Club not found"
+          }
+        }
+      }
+    },
+    "/api/clubs/create": {
+      "post": {
+        "tags": [
+          "Club"
+        ],
+        "summary": "Create Club",
+        "operationId": "7d1071a022a230be7c7a69f8420f1537",
+        "requestBody": {
+          "description": "Club object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "example": "Nguyen Van A"
+                  },
+                  "address": {
+                    "type": "string",
+                    "example": "0964541340"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Create club Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/check_phone": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Check phone",
+        "operationId": "542dd48ba59ca124844266a9a6e9483d",
+        "requestBody": {
+          "description": "Product object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "phone": {
+                    "type": "string",
+                    "example": "0964541340"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Phone successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        }
+      }
+    },
+    "/api/register": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Register",
+        "operationId": "4f4cbe2661270804e97b9c44437aa184",
+        "requestBody": {
+          "description": "Product object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "phone": {
+                    "type": "string",
+                    "example": "0964541340"
+                  },
+                  "password": {
+                    "type": "string",
+                    "example": "123456"
+                  },
+                  "height": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "weight": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "paddle": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "birth_date": {
+                    "type": "string",
+                    "format": "date",
+                    "example": "2020-08-15"
+                  },
+                  "plays": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed/Two-Handed"
+                  },
+                  "back_hand": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed/Two-Handed"
+                  },
+                  "birth_place": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed-Two-Handed"
+                  },
+                  "link_twitter": {
+                    "type": "string",
+                    "example": "https://www.24h.com.vn/"
+                  },
+                  "club_id": {
+                    "type": "integer",
+                    "example": "1"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Register successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        }
+      }
+    },
+    "/api/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Login Normal",
+        "operationId": "7f939a68445b91dbc5fde87b502c12b8",
+        "requestBody": {
+          "description": "Login Normal",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "phone": {
+                    "type": "string",
+                    "example": "0964541340"
+                  },
+                  "password": {
+                    "type": "string",
+                    "example": "123456"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        }
+      }
+    },
+    "/api/update_password": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Update Password",
+        "operationId": "968798b497a425894ffb7bf364681f1a",
+        "requestBody": {
+          "description": "Product object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "current_password": {
+                    "type": "string",
+                    "example": "123456"
+                  },
+                  "password": {
+                    "type": "string",
+                    "example": "123456"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Update Profile Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/reset_password": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Reset Password",
+        "operationId": "ab820b83d449e0089fe5c91f900bce2a",
+        "requestBody": {
+          "description": "Reset password",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "phone": {
+                    "type": "string",
+                    "example": "0964541340"
+                  },
+                  "new_password": {
+                    "type": "string",
+                    "example": "123456"
+                  },
+                  "confirm_password": {
+                    "type": "string",
+                    "example": "123456"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Reset password Successful"
+          }
+        }
+      }
+    },
+    "/api/profile": {
+      "get": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Get Profile",
+        "operationId": "e3a01a9d4fd1070055c607503f4553ed",
+        "responses": {
+          "200": {
+            "description": "Get Profile Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/update_profile": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Update Profile",
+        "operationId": "08e32544520ea03362144033f5aca0fe",
+        "requestBody": {
+          "description": "Product object that needs to be created",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "phone": {
+                    "type": "string",
+                    "example": "0964541340"
+                  },
+                  "password": {
+                    "type": "string",
+                    "example": "123456"
+                  },
+                  "height": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "weight": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "paddle": {
+                    "type": "string",
+                    "example": "Name"
+                  },
+                  "birth_date": {
+                    "type": "string",
+                    "format": "date",
+                    "example": "2020-08-15"
+                  },
+                  "plays": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed/Two-Handed"
+                  },
+                  "back_hand": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed/Two-Handed"
+                  },
+                  "birth_place": {
+                    "type": "string",
+                    "example": "Left-Handed/Right-Handed-Two-Handed"
+                  },
+                  "link_twitter": {
+                    "type": "string",
+                    "example": "https://www.24h.com.vn/"
+                  },
+                  "club_id": {
+                    "type": "integer",
+                    "example": "1"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Update Profile Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/news": {
+      "get": {
+        "tags": [
+          "News"
+        ],
+        "summary": "Get all news",
+        "operationId": "b21b8b57bc00ea6b88b37edcd5141cee",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all videos"
+          }
+        }
+      }
+    },
+    "/api/banner": {
+      "get": {
+        "tags": [
+          "Banner"
+        ],
+        "summary": "Get all banners",
+        "operationId": "bfc07289287e6f8a27c8595aeb600938",
+        "responses": {
+          "200": {
+            "description": "Get all banners"
+          }
+        }
+      }
+    },
+    "/api/news/detail": {
+      "get": {
+        "tags": [
+          "News"
+        ],
+        "summary": "Get detail news by ID",
+        "operationId": "c27c6cc20d215288f91b547c9e122654",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the task",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "News details"
+          },
+          "404": {
+            "description": "News not found"
+          }
+        }
+      }
+    },
+    "/api/player": {
+      "get": {
+        "tags": [
+          "Player"
+        ],
+        "summary": "Get all player",
+        "operationId": "1809a7db159e4b6f8c9a699d778f31de",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "keywords",
+            "in": "query",
+            "description": "keywords",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all players"
+          }
+        }
+      }
+    },
+    "/api/player/detail": {
+      "get": {
+        "tags": [
+          "Player"
+        ],
+        "summary": "Get detail player by ID",
+        "operationId": "88365199bdd4a9e2b3a8d3b0cd7a9b76",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the player",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Player details"
+          },
+          "404": {
+            "description": "Player not found"
+          }
+        }
+      }
+    },
+    "/api/player/head2head": {
+      "get": {
+        "tags": [
+          "Player"
+        ],
+        "summary": "Get head2head",
+        "operationId": "28f61757d9956db0b30dcd439e204c71",
+        "parameters": [
+          {
+            "name": "player1_id",
+            "in": "query",
+            "description": "ID player1",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "player2_id",
+            "in": "query",
+            "description": "ID player2",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all players"
+          }
+        }
+      }
+    },
+    "/api/player/favorite": {
+      "post": {
+        "tags": [
+          "Player"
+        ],
+        "summary": "Favorite player",
+        "operationId": "00f0dbb3fd7dea2e5a02ae30e59c4d19",
+        "requestBody": {
+          "description": "Favorite player",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "player_id": {
+                    "type": "integer",
+                    "example": "1"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Favorite successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/ranks": {
+      "get": {
+        "tags": [
+          "Rank"
+        ],
+        "summary": "Get all ranks",
+        "operationId": "dc0acbdb11549b173e52d846a12e84c2",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "description": "Type(1:Singles, 2:Doubles)",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "type_tour",
+            "in": "query",
+            "description": "Type_tour(1:Men, 2:Wommen)",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "player_id",
+            "in": "query",
+            "description": "Tìm kiếm player theo player_id",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all ranks"
+          }
+        }
+      }
+    },
+    "/api/tournament": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get all Tournament",
+        "operationId": "c5b08846ed11030dd82f390ed130d0c3",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "keywords",
+            "in": "query",
+            "description": "keywords",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Ngày",
+            "required": false,
+            "schema": {
+              "type": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all tournaments"
+          }
+        }
+      }
+    },
+    "/api/tournament/scores": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get all Tournament scores",
+        "operationId": "5c0522009275051dc1d2671b9dcce194",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "description": "type(1:ATP Tour, 2:Challenge Tour, 3:Hologic WTA Tour, 4:WTA Tour)",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "keywords",
+            "in": "query",
+            "description": "keywords",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Ngày(Y-m-d)",
+            "required": false,
+            "schema": {
+              "type": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all scores"
+          }
+        }
+      }
+    },
+    "/api/tournament/calendar": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get all Tournament calendar",
+        "operationId": "1435b568a649bf8c950d22403114d47c",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "description": "type(1:ATP & Hologic, 2:Challenge & WTA 125)",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "keywords",
+            "in": "query",
+            "description": "keywords",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Ngày(Y-m-d)",
+            "required": false,
+            "schema": {
+              "type": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all tournaments"
+          }
+        }
+      }
+    },
+    "/api/tournament/detail": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get detail tournament by ID",
+        "operationId": "d9458ff06122b8848e1eacd164a05fc1",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the tournament",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Tournament details"
+          },
+          "404": {
+            "description": "Tournament not found"
+          }
+        }
+      }
+    },
+    "/api/tournament/lives": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get matches Live",
+        "operationId": "2d169b88dbaeeb070663e3471b57e827",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "description": "type(1:Singles, 2:Doubles)",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Ngày",
+            "required": false,
+            "schema": {
+              "type": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all matches success"
+          },
+          "404": {
+            "description": "Matches not found"
+          }
+        }
+      }
+    },
+    "/api/tournament/matches": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get matches by tournament ID",
+        "operationId": "3f98df0e58328f1253947e0f1092fc68",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID tournament",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "type(1:live, 2:completed, 3:schedule)",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Ngày",
+            "required": false,
+            "schema": {
+              "type": "date"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all matches success"
+          },
+          "404": {
+            "description": "Matches not found"
+          }
+        }
+      }
+    },
+    "/api/tournament/singles_draws": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get singles_draws tournament by ID",
+        "operationId": "c8810da4c0bcc0ac04496fe9c2df842f",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the tournament",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "round_id",
+            "in": "query",
+            "description": "ID of round",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Tournament singles_draws"
+          },
+          "404": {
+            "description": "Tournament singles_draws not found"
+          }
+        }
+      }
+    },
+    "/api/tournament/doubles_draws": {
+      "get": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Get doubles_draws tournament by ID",
+        "operationId": "eb55d2abc150c69b04c522c2082f07b8",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the tournament",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "round_id",
+            "in": "query",
+            "description": "ID of round",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Tournament doubles_draws"
+          },
+          "404": {
+            "description": "Tournament doubles_draws not found"
+          }
+        }
+      }
+    },
+    "/api/tournament/favorite": {
+      "post": {
+        "tags": [
+          "Tournament"
+        ],
+        "summary": "Favorite tournament",
+        "operationId": "07130baf840aca8a39892b0490de25b6",
+        "requestBody": {
+          "description": "Favorite tournament",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "tournament_id": {
+                    "type": "integer",
+                    "example": "1"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Favorite successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/tv": {
+      "get": {
+        "tags": [
+          "TV"
+        ],
+        "summary": "Get all tv",
+        "operationId": "5c9b022cc62c9c9fff1a0cf5e4a41716",
+        "responses": {
+          "200": {
+            "description": "Get all tv"
+          }
+        }
+      }
+    },
+    "/api/tv/others": {
+      "get": {
+        "tags": [
+          "TV"
+        ],
+        "summary": "Get all tv other",
+        "operationId": "1d0db651a69adce8cfe5c3beb6b51dde",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID tv",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all tv"
+          }
+        }
+      }
+    },
+    "/api/tv/by_category": {
+      "get": {
+        "tags": [
+          "TV"
+        ],
+        "summary": "Get all tv by category id",
+        "operationId": "9dffb24b0a773af26bf0d2633976e782",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the category",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "ID of the category",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "ID of the category",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all tv"
+          }
+        }
+      }
+    },
+    "/api/tv/detail": {
+      "get": {
+        "tags": [
+          "TV"
+        ],
+        "summary": "Get detail tv by ID",
+        "operationId": "18ef9ca11a8e73e0f67cfe6a1805422b",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the task",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "TV details"
+          },
+          "404": {
+            "description": "TV not found"
+          }
+        }
+      }
+    },
+    "/api/videos": {
+      "get": {
+        "tags": [
+          "Video"
+        ],
+        "summary": "Get all videos",
+        "operationId": "8d24b26daf24301482aede03e679e393",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "ID of the category",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "ID of the category",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all videos"
+          }
+        }
+      }
+    },
+    "/api/videos/detail": {
+      "get": {
+        "tags": [
+          "Video"
+        ],
+        "summary": "Get detail video by ID",
+        "operationId": "c51fc2ee78edb2025d1c28595f63c362",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the task",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Video details"
+          },
+          "404": {
+            "description": "Video not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "name": "bearerAuth",
+        "in": "header",
+        "bearerFormat": "JWT",
+        "scheme": "bearer"
+      }
+    }
+  }
+}

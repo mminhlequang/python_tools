@@ -1,8 +1,222 @@
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [You already have a Travelmeit account ? ] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [myusername] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Username] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Password] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Forgot your password?] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Login] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Or] not found
-I/flutter ( 4148): [🌎 Easy Localization] [WARNING] Localization key [Register] not found
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/chatty  ( 5055): uid=10076(com.arckipel.travelm) 1.ui identical 1 line
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
+I/flutter ( 5055): [BlocObserver] onEvent: VerifyPhoneNumberEvent()
+I/flutter ( 5055): DioException: DioException [bad response]: This exception was thrown because the response has a status code of 400 and RequestOptions.validateStatus was configured to throw for this status code.
+I/flutter ( 5055): The status code of 400 has the following meaning: "Client error - the request contains bad syntax or cannot be fulfilled"
+I/flutter ( 5055): Read more about status codes at https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+I/flutter ( 5055): In order to resolve this exception you typically have either to verify and fix your request code or you have to fix the server code.
+I/flutter ( 5055):
+I/flutter ( 5055): NetworkResponse.withErrorRequest: DioException [bad response]: This exception was thrown because the response has a status code of 400 and RequestOptions.validateStatus was configured to throw for this status code.
+I/flutter ( 5055): The status code of 400 has the following meaning: "Client error - the request contains bad syntax or cannot be fulfilled"
+I/flutter ( 5055): Read more about status codes at https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+I/flutter ( 5055): In order to resolve this exception you typically have either to verify and fix your request code or you have to fix the server code.
+I/flutter ( 5055):
+I/zzb     ( 5055): ForceRecaptchaFlow from phoneAuthOptions = false, ForceRecaptchaFlow from firebaseSettings = false
+I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : requestIntegrityToken(IntegrityTokenRequest{nonce=8hTmJ4kJlcyRhLKO9HZf1BbWZ4ZAQYMwsg7yUxupwEs, cloudProjectNumber=551503664846})
+I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : Initiate binding to the service.
+I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.integrityservice.IntegrityService})
+I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : linkToDeath
+I/PlayCore( 5055): UID: [10076]  PID: [5055] OnRequestIntegrityTokenCallback : onRequestIntegrityToken
+I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : Unbind from service.
+W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
+I/flutter ( 5055): [BlocObserver] onEvent: PhoneCodeSentEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+I/flutter ( 5055): [BlocObserver] onEvent: VerifySMSCodeEvent()
+W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
+W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
+D/FirebaseAuth( 5055): Notifying id token listeners about user ( c7fCtnSluVgPR9BxCejg0PXVaxg1 ).
+D/FirebaseAuth( 5055): Notifying auth state listeners about user ( c7fCtnSluVgPR9BxCejg0PXVaxg1 ).
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
+I/flutter ( 5055): [BlocObserver] onEvent: SubmitEmailEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): isEmailIsExist: null
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
+W/FirebaseAuth( 5055): [SmsRetrieverHelper] Timed out waiting for SMS.
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Code not recieved ? Click on back button] not found
+I/chatty  ( 5055): uid=10076(com.arckipel.travelm) 1.ui identical 2 lines
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Code not recieved ? Click on back button] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
+I/flutter ( 5055): [BlocObserver] onEvent: SubmitEmailCodeEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+W/JavaBinder( 5055): BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.google.android.play.integrity.internal.n
+I/flutter ( 5055): [BlocObserver] onEvent: SubmitInfoEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Build
+I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Init Localization Delegate
+I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Init provider
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
+I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
+Reloaded 1 of 4126 libraries in 1,367ms (compile: 173 ms, reload: 458 ms, reassemble: 619 ms).
