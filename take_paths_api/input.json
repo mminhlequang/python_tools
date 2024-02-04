@@ -134,6 +134,25 @@
         ]
       }
     },
+    "/api/delete_account": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "summary": "Delete account",
+        "operationId": "b834693a6f98b0ed37b51fd07e07ed92",
+        "responses": {
+          "200": {
+            "description": "Delete account Successful"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
     "/api/clubs": {
       "get": {
         "tags": [
@@ -194,6 +213,45 @@
             "description": "Club not found"
           }
         }
+      }
+    },
+    "/api/clubs/join": {
+      "post": {
+        "tags": [
+          "Club"
+        ],
+        "summary": "Join club",
+        "operationId": "a7f7ec8f2ab16558277e38e2cf71e10b",
+        "requestBody": {
+          "description": "Join club",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "club_id": {
+                    "type": "integer",
+                    "example": "1"
+                  }
+                },
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Join successfully"
+          },
+          "422": {
+            "description": "Validation error"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
       }
     },
     "/api/clubs/create": {
@@ -536,6 +594,10 @@
                     "type": "string",
                     "example": "https://www.24h.com.vn/"
                   },
+                  "region_id": {
+                    "type": "integer",
+                    "example": "1"
+                  },
                   "club_id": {
                     "type": "integer",
                     "example": "1"
@@ -634,6 +696,56 @@
         }
       }
     },
+    "/api/payment/vnpay": {
+      "get": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Payment vnpay",
+        "operationId": "971f423a53a1b8cbd09a353d8ba919dc",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "tournament id",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get link payment"
+          }
+        }
+      }
+    },
+    "/api/payment/momo": {
+      "get": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Payment momo",
+        "operationId": "5e07777572105745043fd302192e8531",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "tournament id",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get link payment momo"
+          }
+        }
+      }
+    },
     "/api/player": {
       "get": {
         "tags": [
@@ -641,6 +753,49 @@
         ],
         "summary": "Get all player",
         "operationId": "1809a7db159e4b6f8c9a699d778f31de",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "limit",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "offset",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "keywords",
+            "in": "query",
+            "description": "keywords",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Get all players"
+          }
+        }
+      }
+    },
+    "/api/player/regions": {
+      "get": {
+        "tags": [
+          "Player"
+        ],
+        "summary": "Get all regions",
+        "operationId": "9968a415e717da0e0e25f92a157a87cd",
         "parameters": [
           {
             "name": "limit",

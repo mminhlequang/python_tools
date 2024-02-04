@@ -1,13 +1,6 @@
 {
-    "Enter your phone to receive an OTP code": "Enter your phone to receive an OTP code",
-    "I agree to ": "I agree to ",
-    "the terms and conditions": "the terms and conditions",
-    " for creating an arckipel® account": " for creating an arckipel® account",
-    "ex:123456890": "ex:123456890",
-    "To increase security and enable account recovery in case of lost phone, please add an email address to your account.": "To increase security and enable account recovery in case of lost phone, please add an email address to your account.",
-    "ex:john@email.com": "ex:john@email.com",
-    "Enter your email to receive an OTP code": "Enter your email to receive an OTP code",
-    "Code not recieved ? Click on back button": "Code not recieved ? Click on back button",
-    "Choose your password": "Choose your password",
-    "Repeat": "Repeat"
+    "This tour is proposed by ": "This tour is proposed by ",
+    "Free with your premium account": "Free with your premium account",
+    "here ": "here ",
+    "to update your settings": "to update your settings"
 }

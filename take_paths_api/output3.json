@@ -1,0 +1,462 @@
+@override 
+Future<NetworkResponse> apiLoginFacebook(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiLoginFacebook , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiLoginGoogle(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiLoginGoogle , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiLoginApple(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiLoginApple , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiUpdateDeviceToken(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiUpdateDeviceToken , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiDeleteAccount(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiDeleteAccount , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiClubs(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiClubs , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiClubsDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiClubsDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiClubsJoin(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiClubsJoin , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiClubsCreate(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiClubsCreate , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiCheckPhone(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiCheckPhone , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiRegister(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiRegister , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiLogin(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiLogin , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiUpdatePassword(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiUpdatePassword , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiResetPassword(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiResetPassword , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiProfile(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiProfile , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiUpdateProfile(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiUpdateProfile , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiNews(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiNews , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiBanner(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiBanner , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiNewsDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiNewsDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPaymentVnpay(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPaymentVnpay , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPaymentMomo(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPaymentMomo , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPlayer(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPlayer , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPlayerRegions(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPlayerRegions , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPlayerDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPlayerDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPlayerHead2Head(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPlayerHead2Head , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiPlayerFavorite(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiPlayerFavorite , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiRanks(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiRanks , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournament(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournament , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentScores(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentScores , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentCalendar(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentCalendar , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentLives(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentLives , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentMatches(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentMatches , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentSinglesDraws(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentSinglesDraws , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentDoublesDraws(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentDoublesDraws , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTournamentFavorite(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTournamentFavorite , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTv(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTv , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTvOthers(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTvOthers , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTvByCategory(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTvByCategory , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiTvDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiTvDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiVideos(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiVideos , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+
+@override 
+Future<NetworkResponse> apiVideosDetail(params) async { 
+ return await handleNetworkError( 
+ proccess: () async  { 
+Response response = await AppClient( 
+requiredToken: false, 
+ ).get(ApiRoutess.apiVideosDetail , queryParameters: params);
+return NetworkResponse.fromResponse(response,
+ converter: (json) =>
+ (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+

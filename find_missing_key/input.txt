@@ -1,222 +1,243 @@
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/chatty  ( 5055): uid=10076(com.arckipel.travelm) 1.ui identical 1 line
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [I agree to ] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [the terms and conditions] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ for creating an arckipel® account] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:123456890] not found
-I/flutter ( 5055): [BlocObserver] onEvent: VerifyPhoneNumberEvent()
-I/flutter ( 5055): DioException: DioException [bad response]: This exception was thrown because the response has a status code of 400 and RequestOptions.validateStatus was configured to throw for this status code.
-I/flutter ( 5055): The status code of 400 has the following meaning: "Client error - the request contains bad syntax or cannot be fulfilled"
-I/flutter ( 5055): Read more about status codes at https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
-I/flutter ( 5055): In order to resolve this exception you typically have either to verify and fix your request code or you have to fix the server code.
-I/flutter ( 5055):
-I/flutter ( 5055): NetworkResponse.withErrorRequest: DioException [bad response]: This exception was thrown because the response has a status code of 400 and RequestOptions.validateStatus was configured to throw for this status code.
-I/flutter ( 5055): The status code of 400 has the following meaning: "Client error - the request contains bad syntax or cannot be fulfilled"
-I/flutter ( 5055): Read more about status codes at https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
-I/flutter ( 5055): In order to resolve this exception you typically have either to verify and fix your request code or you have to fix the server code.
-I/flutter ( 5055):
-I/zzb     ( 5055): ForceRecaptchaFlow from phoneAuthOptions = false, ForceRecaptchaFlow from firebaseSettings = false
-I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : requestIntegrityToken(IntegrityTokenRequest{nonce=8hTmJ4kJlcyRhLKO9HZf1BbWZ4ZAQYMwsg7yUxupwEs, cloudProjectNumber=551503664846})
-I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : Initiate binding to the service.
-I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.integrityservice.IntegrityService})
-I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : linkToDeath
-I/PlayCore( 5055): UID: [10076]  PID: [5055] OnRequestIntegrityTokenCallback : onRequestIntegrityToken
-I/PlayCore( 5055): UID: [10076]  PID: [5055] IntegrityService : Unbind from service.
-W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
-I/flutter ( 5055): [BlocObserver] onEvent: PhoneCodeSentEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-I/flutter ( 5055): [BlocObserver] onEvent: VerifySMSCodeEvent()
-W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your phone to receive an OTP code] not found
-W/System  ( 5055): Ignoring header X-Firebase-Locale because its value was null.
-D/FirebaseAuth( 5055): Notifying id token listeners about user ( c7fCtnSluVgPR9BxCejg0PXVaxg1 ).
-D/FirebaseAuth( 5055): Notifying auth state listeners about user ( c7fCtnSluVgPR9BxCejg0PXVaxg1 ).
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [To increase security and enable account recovery in case of lost phone, please add an email address to your account.] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [ex:john@email.com] not found
-I/flutter ( 5055): [BlocObserver] onEvent: SubmitEmailEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): isEmailIsExist: null
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
-W/FirebaseAuth( 5055): [SmsRetrieverHelper] Timed out waiting for SMS.
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Code not recieved ? Click on back button] not found
-I/chatty  ( 5055): uid=10076(com.arckipel.travelm) 1.ui identical 2 lines
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Code not recieved ? Click on back button] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
-I/flutter ( 5055): [BlocObserver] onEvent: SubmitEmailCodeEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Enter your email to receive an OTP code] not found
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-W/JavaBinder( 5055): BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.google.android.play.integrity.internal.n
-I/flutter ( 5055): [BlocObserver] onEvent: SubmitInfoEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [BlocObserver] onEvent: ChangeFormStepEvent()
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Build
-I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Init Localization Delegate
-I/flutter ( 5055): [🌎 Easy Localization] [DEBUG] Init provider
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Choose your password] not found
-I/flutter ( 5055): [🌎 Easy Localization] [WARNING] Localization key [Repeat] not found
-Reloaded 1 of 4126 libraries in 1,367ms (compile: 173 ms, reload: 458 ms, reassemble: 619 ms).
+D/Google Android Maps SDK( 3838): For capability in capabilities, log:
+D/Google Android Maps SDK( 3838): "AdvancedMarkers: true
+D/Google Android Maps SDK( 3838): "Data-driven styling: false
+I/HostConnection( 3838): HostConnection::~HostConnection, pid=3838, tid=4504, this=0x7fff3acef400, m_stream=0x7fff3c4b9680
+I/        ( 3838): fastpipe: close connect
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) identical 5 lines
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/FLTFireMsgService( 3838): FlutterFirebaseMessagingBackgroundService started!
+Restarted application in 4,123ms.
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Localization initialized
+I/flutter ( 3838): deviceData: {device: SM-N976N, os: android, app: , ip: 171.243.46.228}
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Start
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Init state
+I/flutter ( 3838): [🌎 Easy Localization] [INFO] Start locale loaded en
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Build
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Init Localization Delegate
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Init provider
+I/flutter ( 3838): [flutter_azure_tts] ->  : package initialised
+W/FLTFireMsgService( 3838): Attempted to start a duplicate background isolate. Returning...
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Load Localization Delegate
+I/flutter ( 3838): [🌎 Easy Localization] [DEBUG] Load asset from assets/l10n
+I/flutter ( 3838): [AppPurchase] available = true
+I/flutter ( 3838): [BlocObserver] onEvent: FetchVoicesHomeEventtHomeEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: LoadAuthEvent()
+I/flutter ( 3838): [AppPurchase] notFoundIDs []
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription1week = 98.000 ₫
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription1month = 220.000 ₫
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription2months = 443.000 ₫
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription3months = 615.000 ₫
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription6months = 984.000 ₫
+I/flutter ( 3838): [AppPurchase] subscriptionProducts subscription1year = 1.700.000 ₫
+I/flutter ( 3838): [BlocObserver] onEvent: RefreshCoinSubscriptionAuthEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitMqttEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitPointsEvent()
+I/flutter ( 3838): MQTT::Mosquitto client connecting....
+I/flutter ( 3838): MQTT::Mosquitto start client connecting....
+I/flutter ( 3838): MQTT::Mosquitto client connecting....
+I/flutter ( 3838): MQTT::Mosquitto start client connecting....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateFeaturesHomeEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchBaseDataWithLocationHomeEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchPointsEvent()
+E/FlutterGeolocator( 3838): Geolocator position updates stopped
+E/FlutterGeolocator( 3838): There is still another flutter engine connected, not stopping location service
+E/FlutterGeolocator( 3838): Geolocator position updates started
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateHomeEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitDiscoverToursEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitRoutesEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchDiscoverToursEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchRoutesEvent()
+I/flutter ( 3838): MQTT::Mosquitto client connected....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::OnConnected client callback - Client connection was sucessful
+I/flutter ( 3838): MQTT::Mosquitto client connected....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::OnConnected client callback - Client connection was sucessful
+I/flutter ( 3838): MQTT::Subscription confirmed for topic LOGCHAU3EDQT639U
+I/flutter ( 3838): MQTT::Subscription confirmed for topic common-events
+D/FLTFireMsgReceiver( 3838): broadcast received for message
+I/flutter ( 3838): OnMessage: 09:25, 03 Feb 2024 {senderId: null, category: null, collapseKey: null, contentAvailable: false, data: {topic: topic_background}, from: /topics/topic_background, messageId: 0:1706927100238522%1b3f7a59f9fd7ecd, messageType: null, mutableContent: false, notification: null, sentTime: 1706927100042, threadId: null, ttl: 2419200}
+D/FLTFireMsgReceiver( 3838): broadcast received for message
+I/flutter ( 3838): OnMessage: 09:25, 03 Feb 2024 {senderId: null, category: null, collapseKey: null, contentAvailable: false, data: {topic: topic_background}, from: /topics/topic_background, messageId: 0:1706927100256475%1b3f7a59f9fd7ecd, messageType: null, mutableContent: false, notification: null, sentTime: 1706927100048, threadId: null, ttl: 2419200}
+D/FLTFireMsgReceiver( 3838): broadcast received for message
+I/flutter ( 3838): OnMessage: 09:25, 03 Feb 2024 {senderId: null, category: null, collapseKey: null, contentAvailable: false, data: {topic: topic_background}, from: /topics/topic_background, messageId: 0:1706927100275403%1b3f7a59f9fd7ecd, messageType: null, mutableContent: false, notification: null, sentTime: 1706927100049, threadId: null, ttl: 2419200}
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [This tour is proposed by ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Free with your premium account] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [here ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [to update your settings] not found
+D/MapsInitializer( 3838): preferredRenderer: null
+D/zzcc    ( 3838): preferredRenderer: null
+I/Google Android Maps SDK( 3838): Google Play services package version: 240213026
+I/Google Android Maps SDK( 3838): Google Play services maps renderer version(maps_core): 234210304
+I/1.raster( 3838): type=1400 audit(0.0:781): avc: denied { ioctl } for path="/dev/fastpipe" dev="tmpfs" ino=5173 ioctlcmd=6867 scontext=u:r:untrusted_app:s0:c61,c256,c512,c768 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [here ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [to update your settings] not found
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) identical 1 line
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) identical 1 line
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/PlatformViewsController( 3838): Hosting view in view hierarchy for platform view: 0
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/HostConnection( 3838): HostConnection::HostConnection: pid=3838, tid=4658, this=0x7fff47b802c0
+I/        ( 3838): fastpipe: Connect success
+D/HostConnection( 3838): HostRPC::connect sucess: app=com.arckipel.travelm, pid=3838, tid=4658, this=0x7fff4875abc0
+D/HostConnection( 3838): queryAndSetGLESMaxVersion select gles-version: 3.1 hostGLVersion:46 process:com.arckipel.travelm
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/EGL_adreno( 3838): eglCreateContext request GLES major-version=2
+D/EGL_adreno( 3838): eglCreateContext: 0x7fff4859cbc0: maj 3 min 1 rcv 4
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+E/GoogleApiManager( 3838): Failed to get service from broker.
+E/GoogleApiManager( 3838): java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+E/GoogleApiManager( 3838): 	at android.os.Parcel.createException(Parcel.java:1950)
+E/GoogleApiManager( 3838): 	at android.os.Parcel.readException(Parcel.java:1918)
+E/GoogleApiManager( 3838): 	at android.os.Parcel.readException(Parcel.java:1868)
+E/GoogleApiManager( 3838): 	at m.cqy.q(:com.google.android.gms.policy_maps_core_dynamite@234210309@234210304072.587101654.587101654:180)
+E/GoogleApiManager( 3838): 	at m.cpk.run(:com.google.android.gms.policy_maps_core_dynamite@234210309@234210304072.587101654.587101654:54)
+E/GoogleApiManager( 3838): 	at android.os.Handler.handleCallback(Handler.java:873)
+E/GoogleApiManager( 3838): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/GoogleApiManager( 3838): 	at android.os.Looper.loop(Looper.java:193)
+E/GoogleApiManager( 3838): 	at android.os.HandlerThread.run(HandlerThread.java:65)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/GoogleMapController( 3838): Installing custom TextureView driven invalidator.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff4859cbc0: ver 3 1 (tinfo 0x7fff47b67920)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) androidmapsapi- identical 2 lines
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) androidmapsapi- identical 10 lines
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) RenderThread identical 6 lines
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) RenderThread identical 14 lines
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/flutter ( 3838): [BlocObserver] onEvent: DisposeMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+E/FlutterGeolocator( 3838): Geolocator position updates stopped
+E/FlutterGeolocator( 3838): There is still another flutter engine connected, not stopping location service
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/flutter ( 3838): [BlocObserver] onEvent: DisposeMqttEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: DisposeMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: DisposeMqttEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: DisposeMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff4859cbc0: ver 3 1 (tinfo 0x7fff47b67920)
+E/EGL_adreno( 3838): tid 3913: eglSurfaceAttrib(1346): error 0x3009 (EGL_BAD_MATCH)
+W/OpenGLRenderer( 3838): Failed to set EGL_SWAP_BEHAVIOR on surface 0x7fff59945100, error=EGL_BAD_MATCH
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff7293bf20: ver 3 1 (tinfo 0x7fff68d5fb20)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff7293bf20: ver 3 1 (tinfo 0x7fff68d5fb20)
+D/EGL_adreno( 3838): eglMakeCurrent: 0x7fff6a6d62e0: ver 3 1 (tinfo 0x7fff68c61be0)
+I/flutter ( 3838): [BlocObserver] onEvent: InitMqttEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitPointsEvent()
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Mosquitto client connecting....
+I/flutter ( 3838): MQTT::Mosquitto start client connecting....
+I/flutter ( 3838): MQTT::Disconnected
+I/flutter ( 3838): MQTT::OnDisconnected client callback - Client disconnection
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::Mosquitto client connecting....
+I/flutter ( 3838): MQTT::Mosquitto start client connecting....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateFeaturesHomeEvent()
+E/FlutterGeolocator( 3838): Geolocator position updates started
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateHomeEvent()
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [here ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [to update your settings] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [here ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [to update your settings] not found
+I/flutter ( 3838): MQTT::Mosquitto client connected....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::OnConnected client callback - Client connection was sucessful
+I/flutter ( 3838): MQTT::Mosquitto client connected....
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateMqttEvent()
+I/flutter ( 3838): MQTT::OnConnected client callback - Client connection was sucessful
+I/flutter ( 3838): MQTT::Subscription confirmed for topic common-events
+I/flutter ( 3838): MQTT::Subscription confirmed for topic LOGCHAU3EDQT639U
+D/Google Android Maps SDK( 3838): For capability in capabilities, log:
+D/Google Android Maps SDK( 3838): "AdvancedMarkers: true
+D/Google Android Maps SDK( 3838): "Data-driven styling: false
+I/HostConnection( 3838): HostConnection::~HostConnection, pid=3838, tid=4658, this=0x7fff47b802c0, m_stream=0x7fff4875abc0
+I/        ( 3838): fastpipe: close connect
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/chatty  ( 3838): uid=10061(com.arckipel.travelm) identical 5 lines
+W/ProxyAndroidLoggerBackend( 3838): Too many Flogger logs received before configuration. Dropping old logs.
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [This tour is proposed by ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Free with your premium account] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [This tour is proposed by ] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Free with your premium account] not found
+I/flutter ( 3838): [BlocObserver] onEvent: RefreshCoinSubscriptionAuthEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: InitDiscoverToursEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchDiscoverToursEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: UpdateHomeEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: UpdatePointsEvent()
+I/flutter ( 3838): [BlocObserver] onEvent: FetchRoutesEvent()
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Travelmeit tours
+I/flutter ( 3838): collection] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Your Travelmeit
+I/flutter ( 3838): tours] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Travelmeit tours
+I/flutter ( 3838): collection] not found
+I/flutter ( 3838): [🌎 Easy Localization] [WARNING] Localization key [Your Travelmeit
+I/flutter ( 3838): tours] not found

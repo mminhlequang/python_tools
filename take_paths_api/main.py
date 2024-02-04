@@ -22,13 +22,24 @@ with open('input.json', 'r') as infile:
 # Lấy danh sách các key trong paths
 paths = list(data['paths'].keys())
 
+string1 = "{"
+string2 = "}"
+
 # Tạo đoạn mã cho output.json
-output_code = ''
+output_code1 = ''
+output_code2 = ''
+output_code3 = ''
 for path in paths:
-    output_code += f'static const String {convert_to_variable_name(path)} = "{path}";\n'
+    output_code1 += f'static const String {convert_to_variable_name(path)} = "{path}";\n'
+    output_code2 += f'Future<NetworkResponse> {convert_to_variable_name(path)}(params);\n'
+    output_code3 += f"@override \nFuture<NetworkResponse> {convert_to_variable_name(path)}(params) async {string1} \n return await handleNetworkError( \n proccess: () async  {string1} \nResponse response = await AppClient( \nrequiredToken: false, \n ).get(ApiRoutess.{convert_to_variable_name(path)} , queryParameters: params);\nreturn NetworkResponse.fromResponse(response,\n converter: (json) =>\n (json as List).map((e) => FeedbackType.fromJson(e)).toList());  {string2} ,); {string2} \n\n"
 
 # Ghi vào file output.json
-with open('output.json', 'w') as outfile:
-    outfile.write(output_code)
+with open('output1.json', 'w') as outfile:
+    outfile.write(output_code1)
+with open('output2.json', 'w') as outfile:
+    outfile.write(output_code2)
+with open('output3.json', 'w') as outfile:
+    outfile.write(output_code3)
 
-print('Xuất ra output.json thành công.')
+print('Xuất ra output1.json thành công.')
