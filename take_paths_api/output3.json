@@ -4,10 +4,10 @@ Future<NetworkResponse> apiLoginFacebook(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiLoginFacebook , queryParameters: params);
+ ).post(ApiRoutess.apiLoginFacebook , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiLoginGoogle(params) async { 
@@ -15,10 +15,10 @@ Future<NetworkResponse> apiLoginGoogle(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiLoginGoogle , queryParameters: params);
+ ).post(ApiRoutess.apiLoginGoogle , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiLoginApple(params) async { 
@@ -26,10 +26,10 @@ Future<NetworkResponse> apiLoginApple(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiLoginApple , queryParameters: params);
+ ).post(ApiRoutess.apiLoginApple , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiUpdateDeviceToken(params) async { 
@@ -37,10 +37,10 @@ Future<NetworkResponse> apiUpdateDeviceToken(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiUpdateDeviceToken , queryParameters: params);
+ ).post(ApiRoutess.apiUpdateDeviceToken , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiDeleteAccount(params) async { 
@@ -48,10 +48,10 @@ Future<NetworkResponse> apiDeleteAccount(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiDeleteAccount , queryParameters: params);
+ ).post(ApiRoutess.apiDeleteAccount , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiClubs(params) async { 
@@ -62,7 +62,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiClubs , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiClubsDetail(params) async { 
@@ -73,7 +73,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiClubsDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiClubsJoin(params) async { 
@@ -81,10 +81,10 @@ Future<NetworkResponse> apiClubsJoin(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiClubsJoin , queryParameters: params);
+ ).post(ApiRoutess.apiClubsJoin , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiClubsCreate(params) async { 
@@ -92,10 +92,10 @@ Future<NetworkResponse> apiClubsCreate(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiClubsCreate , queryParameters: params);
+ ).post(ApiRoutess.apiClubsCreate , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiCheckPhone(params) async { 
@@ -103,10 +103,10 @@ Future<NetworkResponse> apiCheckPhone(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiCheckPhone , queryParameters: params);
+ ).post(ApiRoutess.apiCheckPhone , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiRegister(params) async { 
@@ -114,10 +114,10 @@ Future<NetworkResponse> apiRegister(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiRegister , queryParameters: params);
+ ).post(ApiRoutess.apiRegister , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiLogin(params) async { 
@@ -125,10 +125,10 @@ Future<NetworkResponse> apiLogin(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiLogin , queryParameters: params);
+ ).post(ApiRoutess.apiLogin , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiUpdatePassword(params) async { 
@@ -136,10 +136,10 @@ Future<NetworkResponse> apiUpdatePassword(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiUpdatePassword , queryParameters: params);
+ ).post(ApiRoutess.apiUpdatePassword , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiResetPassword(params) async { 
@@ -147,10 +147,10 @@ Future<NetworkResponse> apiResetPassword(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiResetPassword , queryParameters: params);
+ ).post(ApiRoutess.apiResetPassword , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiProfile(params) async { 
@@ -161,7 +161,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiProfile , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiUpdateProfile(params) async { 
@@ -169,10 +169,10 @@ Future<NetworkResponse> apiUpdateProfile(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiUpdateProfile , queryParameters: params);
+ ).post(ApiRoutess.apiUpdateProfile , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiNews(params) async { 
@@ -183,7 +183,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiNews , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiBanner(params) async { 
@@ -194,7 +194,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiBanner , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiNewsDetail(params) async { 
@@ -205,7 +205,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiNewsDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPaymentVnpay(params) async { 
@@ -216,7 +216,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPaymentVnpay , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPaymentMomo(params) async { 
@@ -227,7 +227,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPaymentMomo , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPlayer(params) async { 
@@ -238,7 +238,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPlayer , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPlayerRegions(params) async { 
@@ -249,7 +249,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPlayerRegions , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPlayerDetail(params) async { 
@@ -260,7 +260,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPlayerDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPlayerHead2Head(params) async { 
@@ -271,7 +271,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiPlayerHead2Head , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiPlayerFavorite(params) async { 
@@ -279,10 +279,10 @@ Future<NetworkResponse> apiPlayerFavorite(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiPlayerFavorite , queryParameters: params);
+ ).post(ApiRoutess.apiPlayerFavorite , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiRanks(params) async { 
@@ -293,7 +293,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiRanks , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournament(params) async { 
@@ -304,7 +304,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournament , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentScores(params) async { 
@@ -315,7 +315,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentScores , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentCalendar(params) async { 
@@ -326,7 +326,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentCalendar , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentDetail(params) async { 
@@ -337,7 +337,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentLives(params) async { 
@@ -348,7 +348,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentLives , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentMatches(params) async { 
@@ -359,7 +359,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentMatches , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentSinglesDraws(params) async { 
@@ -370,7 +370,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentSinglesDraws , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentDoublesDraws(params) async { 
@@ -381,7 +381,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTournamentDoublesDraws , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTournamentFavorite(params) async { 
@@ -389,10 +389,10 @@ Future<NetworkResponse> apiTournamentFavorite(params) async {
  proccess: () async  { 
 Response response = await AppClient( 
 requiredToken: false, 
- ).get(ApiRoutess.apiTournamentFavorite , queryParameters: params);
+ ).post(ApiRoutess.apiTournamentFavorite , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTv(params) async { 
@@ -403,7 +403,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTv , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTvOthers(params) async { 
@@ -414,7 +414,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTvOthers , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTvByCategory(params) async { 
@@ -425,7 +425,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTvByCategory , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiTvDetail(params) async { 
@@ -436,7 +436,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiTvDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiVideos(params) async { 
@@ -447,7 +447,7 @@ requiredToken: false,
  ).get(ApiRoutess.apiVideos , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 
 @override 
 Future<NetworkResponse> apiVideosDetail(params) async { 
@@ -458,5 +458,5 @@ requiredToken: false,
  ).get(ApiRoutess.apiVideosDetail , queryParameters: params);
 return NetworkResponse.fromResponse(response,
  converter: (json) =>
- (json as List).map((e) => FeedbackType.fromJson(e)).toList());  } ,); } 
+ (json as List).map((e) => UserModel.fromJson(e)).toList());  } ,); } 
 

@@ -1,0 +1,84 @@
+Future<bool> apiLoginFacebook([params]) async { NetworkResponse response = await _api.apiLoginFacebook(params); return response.data ?? false; } 
+
+Future<bool> apiLoginGoogle([params]) async { NetworkResponse response = await _api.apiLoginGoogle(params); return response.data ?? false; } 
+
+Future<bool> apiLoginApple([params]) async { NetworkResponse response = await _api.apiLoginApple(params); return response.data ?? false; } 
+
+Future<bool> apiUpdateDeviceToken([params]) async { NetworkResponse response = await _api.apiUpdateDeviceToken(params); return response.data ?? false; } 
+
+Future<bool> apiDeleteAccount([params]) async { NetworkResponse response = await _api.apiDeleteAccount(params); return response.data ?? false; } 
+
+Future<bool> apiClubs([params]) async { NetworkResponse response = await _api.apiClubs(params); return response.data ?? false; } 
+
+Future<bool> apiClubsDetail([params]) async { NetworkResponse response = await _api.apiClubsDetail(params); return response.data ?? false; } 
+
+Future<bool> apiClubsJoin([params]) async { NetworkResponse response = await _api.apiClubsJoin(params); return response.data ?? false; } 
+
+Future<bool> apiClubsCreate([params]) async { NetworkResponse response = await _api.apiClubsCreate(params); return response.data ?? false; } 
+
+Future<bool> apiCheckPhone([params]) async { NetworkResponse response = await _api.apiCheckPhone(params); return response.data ?? false; } 
+
+Future<bool> apiRegister([params]) async { NetworkResponse response = await _api.apiRegister(params); return response.data ?? false; } 
+
+Future<bool> apiLogin([params]) async { NetworkResponse response = await _api.apiLogin(params); return response.data ?? false; } 
+
+Future<bool> apiUpdatePassword([params]) async { NetworkResponse response = await _api.apiUpdatePassword(params); return response.data ?? false; } 
+
+Future<bool> apiResetPassword([params]) async { NetworkResponse response = await _api.apiResetPassword(params); return response.data ?? false; } 
+
+Future<bool> apiProfile([params]) async { NetworkResponse response = await _api.apiProfile(params); return response.data ?? false; } 
+
+Future<bool> apiUpdateProfile([params]) async { NetworkResponse response = await _api.apiUpdateProfile(params); return response.data ?? false; } 
+
+Future<bool> apiNews([params]) async { NetworkResponse response = await _api.apiNews(params); return response.data ?? false; } 
+
+Future<bool> apiBanner([params]) async { NetworkResponse response = await _api.apiBanner(params); return response.data ?? false; } 
+
+Future<bool> apiNewsDetail([params]) async { NetworkResponse response = await _api.apiNewsDetail(params); return response.data ?? false; } 
+
+Future<bool> apiPaymentVnpay([params]) async { NetworkResponse response = await _api.apiPaymentVnpay(params); return response.data ?? false; } 
+
+Future<bool> apiPaymentMomo([params]) async { NetworkResponse response = await _api.apiPaymentMomo(params); return response.data ?? false; } 
+
+Future<bool> apiPlayer([params]) async { NetworkResponse response = await _api.apiPlayer(params); return response.data ?? false; } 
+
+Future<bool> apiPlayerRegions([params]) async { NetworkResponse response = await _api.apiPlayerRegions(params); return response.data ?? false; } 
+
+Future<bool> apiPlayerDetail([params]) async { NetworkResponse response = await _api.apiPlayerDetail(params); return response.data ?? false; } 
+
+Future<bool> apiPlayerHead2Head([params]) async { NetworkResponse response = await _api.apiPlayerHead2Head(params); return response.data ?? false; } 
+
+Future<bool> apiPlayerFavorite([params]) async { NetworkResponse response = await _api.apiPlayerFavorite(params); return response.data ?? false; } 
+
+Future<bool> apiRanks([params]) async { NetworkResponse response = await _api.apiRanks(params); return response.data ?? false; } 
+
+Future<bool> apiTournament([params]) async { NetworkResponse response = await _api.apiTournament(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentScores([params]) async { NetworkResponse response = await _api.apiTournamentScores(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentCalendar([params]) async { NetworkResponse response = await _api.apiTournamentCalendar(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentDetail([params]) async { NetworkResponse response = await _api.apiTournamentDetail(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentLives([params]) async { NetworkResponse response = await _api.apiTournamentLives(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentMatches([params]) async { NetworkResponse response = await _api.apiTournamentMatches(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentSinglesDraws([params]) async { NetworkResponse response = await _api.apiTournamentSinglesDraws(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentDoublesDraws([params]) async { NetworkResponse response = await _api.apiTournamentDoublesDraws(params); return response.data ?? false; } 
+
+Future<bool> apiTournamentFavorite([params]) async { NetworkResponse response = await _api.apiTournamentFavorite(params); return response.data ?? false; } 
+
+Future<bool> apiTv([params]) async { NetworkResponse response = await _api.apiTv(params); return response.data ?? false; } 
+
+Future<bool> apiTvOthers([params]) async { NetworkResponse response = await _api.apiTvOthers(params); return response.data ?? false; } 
+
+Future<bool> apiTvByCategory([params]) async { NetworkResponse response = await _api.apiTvByCategory(params); return response.data ?? false; } 
+
+Future<bool> apiTvDetail([params]) async { NetworkResponse response = await _api.apiTvDetail(params); return response.data ?? false; } 
+
+Future<bool> apiVideos([params]) async { NetworkResponse response = await _api.apiVideos(params); return response.data ?? false; } 
+
+Future<bool> apiVideosDetail([params]) async { NetworkResponse response = await _api.apiVideosDetail(params); return response.data ?? false; } 
+
